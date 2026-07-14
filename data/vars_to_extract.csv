@@ -1,0 +1,48 @@
+SPECO,name,possible vals,description
+Study,ocean,,ocean basin location where the study took place
+Study,study location,,"specific location where the study took place, e.g., name of bay, reef, island, and country"
+Study,study site,"field, laboratory, field and laboratory",categorical variable for whether study was in a field or laboratory
+Study,study type,"manipulative, observational, manipulative and observational",categorical variable for manipulative or observational experiment
+Study,event latitude,,"If there was a single stressor event, as with dredging or mining, etc., what was the location in latitude? If there was no single stressor event, write n/a."
+Study,event longitude,,"If there was a single stressor event, as with dredging or mining, etc., what was the location in longitude? If there was no single stressor event, write n/a."
+Study,num responses,,"number of response outcome types recorded in paper. This should be the length of the \""responses\"" list in each setup. Each setup should have the same set of responses."
+Study,num setups,,"number of setups recorded in paper, where one setup is a unique set of coral genus and species, sediment composition, sediment level, and sediment exposure duration. This should be the length of the ""setups"" list"
+Study,num species,,Number of different species (<genus> <species>) examined in this paper
+Population,coral age class,"gametes, larva, juvenile, adult","categorical variable describing the broad age class of the coral that was used in the focal reference; GAMETES - eggs and/or sperm, LARVA - pre-settlement or at settlement, JUVENILE - post-settlement, ADULT - older individuals not designated as juveniles in the text (most cases)"
+Population,current genus name,,genus name of focal species
+Population,current species name,,"species name of focal species "
+Population,colony form,"massive, palmate, plating, ramose, branching, submassive, cup, encrusting, flabellate, foliaceous, free-living, phaceloid, etc",categorical variable for the morphological form that the coral colony takes
+Exposure,sediment composition,,"brief description of substrate type and size, if analyzed; note if sediment was dried"
+Exposure,sediment level,,"numeric value describing level of exposure to sediment; if a range (e.g., X - Y) is reported instead of a mean, then report the midpoint of the range here"
+Exposure,sediment level UoM,,unit of measurement (UoM) corresponding to sediment level (most often mg/L or NTU for suspended sediment or mg/cm2/d for deposited sediment)
+Exposure,sediment level converted to mg/cm2/day,,"sediment level converted to mg/cm2/day (if already in this UoM, then REPEAT the sediment level here)"
+Exposure,sediment level converted to mg/L,,"sediment level converted to mg/L (if already in this UoM, then REPEAT the sediment level here)"
+Exposure,sediment level average type,"absolute, mean, median, mode, range, etc","categorical variable for type of average reported for the sediment level; e.g., absolute, mean, median, mode, range, etc.; if range, see special instructions in note for ""Sediment level"""
+Exposure,sediment N for computing average,,"sample size used for computing average of sediment level; if N is reported as a range instead of an exact sample size by treatment, then put the lower end of the range here and make a note of the reported range in the notes at the end of this section"
+Exposure,sediment N UoM,"sediment traps for deposited sediment, etc",unit of measurement corresponding to sediment N
+Exposure,lower error,,"lower estimate of error for reported sediment level, e.g., if reported 0.7+/-0.1, then enter '0.1' here (NOT 0.6, the lower error 'bound'); if a range (e.g., X - Y) is reported instead of a mean, then the lower error estimate = 'sediment level' - X (where 'sediment level' is the midpoint of the reported range)"
+Exposure,upper error,,"upper estimate of error for reported sediment level, e.g., if reported 0.7+/-0.1, then enter '0.1' here (NOT 0.8, the upper error 'bound'); if a range (e.g., X - Y) is reported instead of a mean, then the 'upper error estimate' = Y - 'sediment level' (where 'sediment level' is the midpoint of the reported range)"
+Exposure,error type,"s.e., s.d., 95% CI","type of error for reported sediment level; see QUICK KEY for abbreviations (""s.e."" for standard error of the mean, ""s.d."" for standard deviation, ""95% CI"" for 95% confidence interval"
+Exposure,exposure duration,,numeric value of duration of time that coral was exposed to sediment level
+Exposure,duration unit,,unit of measurement corresponding to exposure duration
+Exposure,duration (days),,numeric value of duration of time that coral was exposed to sediment level in # of days
+Exposure,notes,,"any commentary concerning sediment stressor, including Figure/Table/Text from which information was taken"
+Binary Responses,High yield/ chlA?,"0, 1","binary variable for whether or not this condition/treatment/control found increased yield or chlorophyll A content with respect to the control/ambient conditions; LEAVE BLANK if not reported or mentioned (do NOT write n/r, n/a), control is always ""0"" (no), and treatment is either ""0"" or ""1"" (yes)"
+Binary Responses,Reduced P/R?,"0, 1",binary variable for whether or not this condition/treatment/control found reduced photosynthesis/respiration ratios with respect to the control/ambient conditions
+Binary Responses,Reduced photosynthetic efficiency?,"0, 1",binary variable for whether or not this condition/treatment/control found reduced photosynthetic efficiency with respect to the control/ambient conditions
+Binary Responses,Reduced growth rate?,"0, 1",binary variable for whether or not this condition/treatment/control found reduced growth rate with respect to the control/ambient conditions
+Binary Responses,Death of colonies?,"0, 1",binary variable for whether or not this condition/treatment/control found death of whole colonies with respect to the control/ambient conditions
+Binary Responses,source,,any notes on from where binary data were derived
+Data Reported?,Non-adverse effect reported?,"0, 1",binary variable specifying whether the study reported binary data for non-adverse effects of sediment on coral under specified condition/treatment
+Data Reported?,Adverse effect reported?,"0, 1",binary variable specifying whether the study reported binary data for adverse effects of sediment on coral under specified condition/treatment
+Data Reported?,Mortality reported?,"0, 1",binary variable specifying whether the study reported binary data for mortality of any age class of coral (partial or total) under specified condition/treatment
+Data Reported?,Adult mortality reported?,"0, 1",binary variable specifying whether the study reported binary data for mortality of adult corals only (partial or total) under specified condition/treatment
+Outcome,response type,"Bleaching, Calcification rate, Chlorophyll concentration, Growth rate, Mortality rate, Mucus Production, Photosynthesis, Respiration, etc","categorical variable that broadly describes the type of measured response by the coral; suggested response types listed, but this list is not exhaustive -- you can write-in other response"
+Outcome,level,,numeric value describing coral's response to condition/treatment
+Outcome,unit,,unit of measurement corresponding to response level
+Outcome,level type,"absolute/raw, mean, median, mode, range, etc.",categorical variable for type of average reported for the response
+Outcome,sample size (n),,"sample size used for computing average of response; if N is reported as a range instead of an exact sample size by treatment, then put the lower end of the range here and make a note of the reported range in the notes at the end of this section"
+Outcome,n unit,"colonies, fragments, branches, etc","unit of measurement corresponding to response N "
+Outcome,"time to response, numeric",,numeric value indicating amount of time elapsed between start of stressor and start of response
+Outcome,"time to response, UoM",,unit of measurement corresponding to amount of time elapsed between start of stressor and start of response
+Outcome,source,,"Figure, Table, or location in text from which these data were found in the the focal reference and any other notes on this response"
