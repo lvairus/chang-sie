@@ -1,0 +1,22 @@
+{
+  "run_name": "test_llama8b_20",
+  "model": "meta-llama/llama-3.1-8b-instruct",
+  "limit": null,
+  "domain": "coral",
+  "md_dir": "mds",
+  "manifest": "data/md_to_id_map.csv",
+  "use_api": true,
+  "force": false,
+  "llm_max_retries": 4,
+  "llm_retry_backoff_seconds": 1.0,
+  "eval": {
+    "truth_setups": "data/truth_setups.csv",
+    "truth_responses": "data/truth_responses.csv",
+    "var_task_types": "data/var_task_types.csv",
+    "setup_threshold": 0.55,
+    "response_threshold": 0.55
+  },
+  "plot": {
+    "top_n": 10
+  }
+}

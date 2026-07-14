@@ -1,0 +1,87 @@
+{
+  "PaperExtraction": {
+    "schema_version": "Schema version string for this CoralSIE extraction format.",
+    "bibliography": {
+      "source_file_path": "Input Markdown or PDF path supplied to the extractor.",
+      "ref_id": "Manually supplied RefID associated with this paper.",
+      "title": "Paper title.",
+      "authors": "List of paper authors.",
+      "year": "Publication year.",
+      "doi": "Digital object identifier, if reported."
+    },
+    "ocean": "Ocean basin location where the study took place.",
+    "study_location": "Specific location where the study took place, e.g., name of bay, reef, island, and country.",
+    "study_site": "Categorical variable for whether study was in a field or laboratory. (eg: field, laboratory, field and laboratory)",
+    "study_type": "Categorical variable for manipulative or observational experiment. (eg: manipulative, observational, manipulative and observational)",
+    "event_latitude": "If there was a single stressor event, as with dredging or mining, etc., the location in latitude.",
+    "event_longitude": "If there was a single stressor event, as with dredging or mining, etc., the location in longitude.",
+    "num_setups": "Number of setups recorded in the paper, where one setup is a unique set of coral genus and species, sediment composition, sediment level, and sediment exposure duration. This should be the length of the setups list.",
+    "num_species": "The number of different species (<genus> <species>) that are examined in this paper.",
+    "num_responses": "number of response outcome types recorded in paper. This should be the length of the \"responses\" list in each setup. Each setup should have the same set of responses.",
+    "setups": [
+      {
+        "population": {
+          "coral_age_class": "Categorical variable describing the broad age class of the coral used in the focal reference. (eg: gametes, larva, juvenile, adult)",
+          "current_genus_name": "Genus name of focal species.",
+          "current_species_name": "Species name of focal species.",
+          "colony_form": "Categorical variable for the morphological form that the coral colony takes. (eg: massive, palmate, plating, ramose, branching, submassive, cup, encrusting, flabellate, foliaceous, free-living, phaceloid, etc)"
+        },
+        "exposure": {
+          "sediment_composition": "Brief description of substrate type and size, if analyzed; note if sediment was dried.",
+          "sediment_level": "Numeric value describing level of exposure to sediment; if a range is reported instead of a mean, report the midpoint of the range here.",
+          "sediment_level_uom": "Unit of measurement corresponding to sediment level, most often mg/L or NTU for suspended sediment or mg/cm2/day for deposited sediment.",
+          "sediment_level_mg_cm2_day": "Sediment level converted to mg/cm2/day; if already in this unit, repeat the sediment level here.",
+          "sediment_level_mg_l": "Sediment level converted to mg/L; if already in this unit, repeat the sediment level here.",
+          "sediment_level_average_type": "Categorical variable for type of average reported for the sediment level. (eg: absolute, mean, median, mode, range, etc)",
+          "sediment_n_for_computing_average": "Sample size used for computing average of sediment level; if N is reported as a range, use the lower end and note the reported range in notes.",
+          "sediment_n_uom": "Unit of measurement corresponding to sediment N. (eg: sediment traps for deposited sediment, etc)",
+          "lower_error": "Lower estimate of error for reported sediment level, not the lower bound.",
+          "upper_error": "Upper estimate of error for reported sediment level, not the upper bound.",
+          "error_type": "Type of error for reported sediment level. (eg: s.e., s.d., 95% CI)",
+          "exposure_duration": "Numeric value of duration of time that coral was exposed to sediment level.",
+          "duration_unit": "Unit of measurement corresponding to exposure duration.",
+          "duration_days": "Numeric value of duration of time that coral was exposed to sediment level in days.",
+          "notes": "Any commentary concerning sediment stressor, including figure, table, or text from which information was taken."
+        },
+        "binary_responses": {
+          "high_yield_chla": "Whether this condition/treatment/control found increased yield or chlorophyll A content with respect to control/ambient conditions. Leave blank if not reported or mentioned. (eg: 0, 1)",
+          "reduced_p_r": "Whether this condition/treatment/control found reduced photosynthesis/respiration ratios with respect to control/ambient conditions. (eg: 0, 1)",
+          "reduced_photosynthetic_efficiency": "Whether this condition/treatment/control found reduced photosynthetic efficiency with respect to control/ambient conditions. (eg: 0, 1)",
+          "reduced_growth_rate": "Whether this condition/treatment/control found reduced growth rate with respect to control/ambient conditions. (eg: 0, 1)",
+          "death_of_colonies": "Whether this condition/treatment/control found death of whole colonies with respect to control/ambient conditions. (eg: 0, 1)",
+          "binary_response_source": "Notes on where binary data were derived."
+        },
+        "data_reported": {
+          "non_adverse_effect_reported": "Whether the study reported binary data for non-adverse effects of sediment on coral under specified condition/treatment. (eg: 0, 1)",
+          "adverse_effect_reported": "Whether the study reported binary data for adverse effects of sediment on coral under specified condition/treatment. (eg: 0, 1)",
+          "mortality_reported": "Whether the study reported binary data for mortality of any coral age class, partial or total, under specified condition/treatment. (eg: 0, 1)",
+          "adult_mortality_reported": "Whether the study reported binary data for mortality of adult corals only, partial or total, under specified condition/treatment. (eg: 0, 1)"
+        },
+        "evidence": {
+          "source_quote": "Short quote or compact evidence span supporting this setup.",
+          "source_page": "Page number where the supporting setup evidence appears, if available.",
+          "source_table_or_figure": "Table, figure, appendix, or section identifier for the supporting setup evidence."
+        },
+        "responses": [
+          {
+            "response_type": "Categorical variable that broadly describes the measured coral response. Suggested list is not exhaustive. (eg: Bleaching, Calcification rate, Chlorophyll concentration, Growth rate, Mortality rate, Mucus Production, Photosynthesis, Respiration, etc)",
+            "level": "Numeric value describing coral's response to condition/treatment.",
+            "unit": "Unit of measurement corresponding to response level.",
+            "level_type": "Categorical variable for type of average reported for the response. (eg: absolute/raw, mean, median, mode, range, etc.)",
+            "sample_size_n": "Sample size used for computing average of response; if N is reported as a range, use the lower end and note the reported range in response_source.",
+            "n_unit": "Unit of measurement corresponding to response N. (eg: colonies, fragments, branches, etc)",
+            "time_to_response_numeric": "Numeric value indicating amount of time elapsed between start of stressor and start of response.",
+            "time_to_response_uom": "Unit of measurement corresponding to amount of time elapsed between start of stressor and start of response.",
+            "response_source": "Figure, table, or location in text from which these data were found, plus any other notes on this response.",
+            "evidence": {
+              "source_quote": "Short quote or compact evidence span supporting this response.",
+              "source_page": "Page number where the supporting response evidence appears, if available.",
+              "source_table_or_figure": "Table, figure, appendix, or section identifier for the supporting response evidence."
+            }
+          }
+        ]
+      }
+    ],
+    "warnings": "List of extraction warnings or uncertainty notes."
+  }
+}
