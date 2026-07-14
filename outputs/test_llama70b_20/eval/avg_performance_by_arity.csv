@@ -1,0 +1,419 @@
+arity_type,arity_value,variable,correct,total,accuracy,fuzzy_score,numcat,oginf,speco
+num_responses,1,Colony form,0,6,0.0,0.6666666666666666,cat,inf,Population
+num_responses,1,Coral age class,0,6,0.0,0.0,cat,inf,Population
+num_responses,1,Current genus name,6,6,1.0,1.0,cat,og,Population
+num_responses,1,Current species name,6,6,1.0,1.0,cat,og,Population
+num_responses,1,Event latitude,0,6,0.0,0.0,num,inf,Study
+num_responses,1,Event longitude,0,6,0.0,0.0,num,inf,Study
+num_responses,1,Increased mucus?,0,6,0.0,0.0,bin,inf,Binary Responses
+num_responses,1,Mortality reported?,0,6,0.0,0.0,bin,inf,Data Reported?
+num_responses,1,Sediment N UoM,2,6,0.3333333333333333,0.5845410628019323,desc,summ,Exposure
+num_responses,1,Sediment N for computing average,2,6,0.3333333333333333,0.3333333333333333,num,og,Exposure
+num_responses,1,Sediment composition,0,6,0.0,0.13917575062153376,desc,summ,Exposure
+num_responses,1,Sediment level,0,6,0.0,0.0,num,og,Exposure
+num_responses,1,Sediment level UoM,0,6,0.0,0.23684210526315788,cat,og,Exposure
+num_responses,1,Sediment level converted to mg/cm2/day,0,6,0.0,0.0,num,calc,Exposure
+num_responses,1,Sediment level error type,2,6,0.3333333333333333,0.5555555555555555,cat,og,Exposure
+num_responses,1,Sediment notes,0,6,0.0,0.07171717171717172,desc,summ,Exposure
+num_responses,1,Sediment upper error estimate,2,6,0.3333333333333333,0.3333333333333333,num,og,Exposure
+num_responses,1,Study location,0,6,0.0,0.6298773690078038,desc,og,Study
+num_responses,1,Study site,0,6,0.0,0.15384615384615385,cat,inf,Study
+num_responses,1,Study type,2,6,0.3333333333333333,0.3333333333333333,,,
+num_responses,2,Colony form,4,12,0.3333333333333333,0.49097222222222237,cat,inf,Population
+num_responses,2,Coral age class,11,12,0.9166666666666666,0.9318181818181818,cat,inf,Population
+num_responses,2,Current genus name,12,12,1.0,1.0,cat,og,Population
+num_responses,2,Current species name,12,12,1.0,1.0,cat,og,Population
+num_responses,2,Event latitude,1,12,0.08333333333333333,0.08333333333333333,num,inf,Study
+num_responses,2,Event longitude,1,12,0.08333333333333333,0.08333333333333333,num,inf,Study
+num_responses,2,Increased mucus?,0,12,0.0,0.0,bin,inf,Binary Responses
+num_responses,2,Mortality reported?,1,12,0.08333333333333333,0.08333333333333333,bin,inf,Data Reported?
+num_responses,2,N UoM,0,6,0.0,0.21401515151515152,desc,summ,Outcome
+num_responses,2,N for computing average,0,6,0.0,0.0,num,og,Outcome
+num_responses,2,Response level,0,6,0.0,0.0,num,inf,Outcome
+num_responses,2,Response type,5,6,0.8333333333333334,0.9301075268817205,cat,inf,Outcome
+num_responses,2,Sediment N UoM,0,12,0.0,0.04545454545454546,desc,summ,Exposure
+num_responses,2,Sediment N for computing average,0,12,0.0,0.0,num,og,Exposure
+num_responses,2,Sediment composition,0,12,0.0,0.32110350909461355,desc,summ,Exposure
+num_responses,2,Sediment level,1,12,0.08333333333333333,0.08333333333333333,num,og,Exposure
+num_responses,2,Sediment level UoM,0,12,0.0,0.5109392241745182,cat,og,Exposure
+num_responses,2,Sediment level converted to mg/cm2/day,1,12,0.08333333333333333,0.08333333333333333,num,calc,Exposure
+num_responses,2,Sediment level error type,0,12,0.0,0.15238095238095237,cat,og,Exposure
+num_responses,2,Sediment notes,0,12,0.0,0.26329525714535745,desc,summ,Exposure
+num_responses,2,Sediment upper error estimate,5,12,0.4166666666666667,0.4166666666666667,num,og,Exposure
+num_responses,2,Source of data,0,6,0.0,0.37423687423687424,desc,summ,Outcome
+num_responses,2,Study location,0,12,0.0,0.1280507878310601,desc,og,Study
+num_responses,2,Study site,5,12,0.4166666666666667,0.5064102564102566,cat,inf,Study
+num_responses,2,Study type,12,12,1.0,1.0,,,
+num_responses,2,Unit of measurement,0,6,0.0,0.5405982905982906,cat,og,Outcome
+num_responses,3,Colony form,12,20,0.6,0.8,cat,inf,Population
+num_responses,3,Coral age class,0,20,0.0,0.1,cat,inf,Population
+num_responses,3,Current genus name,20,20,1.0,1.0,cat,og,Population
+num_responses,3,Current species name,20,20,1.0,1.0,cat,og,Population
+num_responses,3,Event latitude,0,20,0.0,0.0,num,inf,Study
+num_responses,3,Event longitude,4,20,0.2,0.2,num,inf,Study
+num_responses,3,Increased mucus?,2,20,0.1,0.1,bin,inf,Binary Responses
+num_responses,3,Mortality reported?,8,20,0.4,0.4,bin,inf,Data Reported?
+num_responses,3,N UoM,14,32,0.4375,0.5327797202797201,desc,summ,Outcome
+num_responses,3,N for computing average,2,32,0.0625,0.0625,num,og,Outcome
+num_responses,3,Response level,0,32,0.0,0.0,num,inf,Outcome
+num_responses,3,Response type,8,32,0.25,0.8679664855072464,cat,inf,Outcome
+num_responses,3,Sediment N UoM,4,20,0.2,0.3970588235294118,desc,summ,Exposure
+num_responses,3,Sediment N for computing average,4,20,0.2,0.2,num,og,Exposure
+num_responses,3,Sediment composition,0,20,0.0,0.3964918858925518,desc,summ,Exposure
+num_responses,3,Sediment level,0,20,0.0,0.0,num,og,Exposure
+num_responses,3,Sediment level UoM,0,20,0.0,0.49661835748792243,cat,og,Exposure
+num_responses,3,Sediment level converted to mg/cm2/day,0,20,0.0,0.0,num,calc,Exposure
+num_responses,3,Sediment level error type,4,20,0.2,0.2,cat,og,Exposure
+num_responses,3,Sediment notes,0,20,0.0,0.016331168831168832,desc,summ,Exposure
+num_responses,3,Sediment upper error estimate,4,20,0.2,0.2,num,og,Exposure
+num_responses,3,Source of data,0,32,0.0,0.1468832959155539,desc,summ,Outcome
+num_responses,3,Study location,0,20,0.0,0.22184601113172545,desc,og,Study
+num_responses,3,Study site,0,20,0.0,0.12307692307692304,cat,inf,Study
+num_responses,3,Study type,0,20,0.0,0.0,,,
+num_responses,3,Unit of measurement,0,32,0.0,0.17302506200813397,cat,og,Outcome
+num_responses,4,Colony form,0,18,0.0,0.17407407407407405,cat,inf,Population
+num_responses,4,Coral age class,0,18,0.0,0.05555555555555555,cat,inf,Population
+num_responses,4,Current genus name,18,18,1.0,1.0,cat,og,Population
+num_responses,4,Current species name,18,18,1.0,1.0,cat,og,Population
+num_responses,4,Event latitude,0,18,0.0,0.0,num,inf,Study
+num_responses,4,Event longitude,0,18,0.0,0.0,num,inf,Study
+num_responses,4,Increased mucus?,0,18,0.0,0.0,bin,inf,Binary Responses
+num_responses,4,Mortality reported?,0,18,0.0,0.0,bin,inf,Data Reported?
+num_responses,4,N UoM,0,35,0.0,0.22857142857142848,desc,summ,Outcome
+num_responses,4,N for computing average,6,35,0.17142857142857143,0.17142857142857143,num,og,Outcome
+num_responses,4,Response level,6,35,0.17142857142857143,0.17142857142857143,num,inf,Outcome
+num_responses,4,Response type,17,35,0.4857142857142857,0.8322276278932628,cat,inf,Outcome
+num_responses,4,Sediment N UoM,0,18,0.0,0.2128851540616246,desc,summ,Exposure
+num_responses,4,Sediment N for computing average,0,18,0.0,0.0,num,og,Exposure
+num_responses,4,Sediment composition,0,18,0.0,0.3782275528902215,desc,summ,Exposure
+num_responses,4,Sediment level,0,18,0.0,0.0,num,og,Exposure
+num_responses,4,Sediment level UoM,0,18,0.0,0.6275515334338863,cat,og,Exposure
+num_responses,4,Sediment level converted to mg/cm2/day,0,18,0.0,0.0,num,calc,Exposure
+num_responses,4,Sediment level error type,0,18,0.0,0.580026455026455,cat,og,Exposure
+num_responses,4,Sediment notes,0,18,0.0,0.29823478646415846,desc,summ,Exposure
+num_responses,4,Sediment upper error estimate,0,18,0.0,0.0,num,og,Exposure
+num_responses,4,Source of data,0,35,0.0,0.19643039265680773,desc,summ,Outcome
+num_responses,4,Study location,0,18,0.0,0.46875919958626727,desc,og,Study
+num_responses,4,Study site,4,18,0.2222222222222222,0.2222222222222222,cat,inf,Study
+num_responses,4,Study type,4,18,0.2222222222222222,0.2222222222222222,,,
+num_responses,4,Unit of measurement,0,35,0.0,0.11209235209235205,cat,og,Outcome
+num_setups,2,Colony form,0,2,0.0,0.6666666666666666,cat,inf,Population
+num_setups,2,Coral age class,0,2,0.0,0.0,cat,inf,Population
+num_setups,2,Current genus name,2,2,1.0,1.0,cat,og,Population
+num_setups,2,Current species name,2,2,1.0,1.0,cat,og,Population
+num_setups,2,Event latitude,0,2,0.0,0.0,num,inf,Study
+num_setups,2,Event longitude,0,2,0.0,0.0,num,inf,Study
+num_setups,2,Increased mucus?,0,2,0.0,0.0,bin,inf,Binary Responses
+num_setups,2,Mortality reported?,0,2,0.0,0.0,bin,inf,Data Reported?
+num_setups,2,Sediment N UoM,2,2,1.0,1.0,desc,summ,Exposure
+num_setups,2,Sediment N for computing average,2,2,1.0,1.0,num,og,Exposure
+num_setups,2,Sediment composition,0,2,0.0,0.09523809523809523,desc,summ,Exposure
+num_setups,2,Sediment level,0,2,0.0,0.0,num,og,Exposure
+num_setups,2,Sediment level UoM,0,2,0.0,0.21052631578947367,cat,og,Exposure
+num_setups,2,Sediment level converted to mg/cm2/day,0,2,0.0,0.0,num,calc,Exposure
+num_setups,2,Sediment level error type,2,2,1.0,1.0,cat,og,Exposure
+num_setups,2,Sediment notes,0,2,0.0,0.21515151515151515,desc,summ,Exposure
+num_setups,2,Sediment upper error estimate,2,2,1.0,1.0,num,og,Exposure
+num_setups,2,Study location,0,2,0.0,0.8461538461538461,desc,og,Study
+num_setups,2,Study site,0,2,0.0,0.15384615384615385,cat,inf,Study
+num_setups,2,Study type,2,2,1.0,1.0,,,
+num_setups,4,Colony form,0,5,0.0,0.29333333333333333,cat,inf,Population
+num_setups,4,Coral age class,0,5,0.0,0.2363636363636364,cat,inf,Population
+num_setups,4,Current genus name,5,5,1.0,1.0,cat,og,Population
+num_setups,4,Current species name,5,5,1.0,1.0,cat,og,Population
+num_setups,4,Event latitude,1,5,0.2,0.2,num,inf,Study
+num_setups,4,Event longitude,1,5,0.2,0.2,num,inf,Study
+num_setups,4,Increased mucus?,0,5,0.0,0.0,bin,inf,Binary Responses
+num_setups,4,Mortality reported?,1,5,0.2,0.2,bin,inf,Data Reported?
+num_setups,4,N UoM,0,8,0.0,0.4105113636363637,desc,summ,Outcome
+num_setups,4,N for computing average,6,8,0.75,0.75,num,og,Outcome
+num_setups,4,Response level,6,8,0.75,0.75,num,inf,Outcome
+num_setups,4,Response type,3,8,0.375,0.7282823995472553,cat,inf,Outcome
+num_setups,4,Sediment N UoM,0,5,0.0,0.0,desc,summ,Exposure
+num_setups,4,Sediment N for computing average,0,5,0.0,0.0,num,og,Exposure
+num_setups,4,Sediment composition,0,5,0.0,0.3759951010410288,desc,summ,Exposure
+num_setups,4,Sediment level,0,5,0.0,0.0,num,og,Exposure
+num_setups,4,Sediment level UoM,0,5,0.0,0.679185520361991,cat,og,Exposure
+num_setups,4,Sediment level converted to mg/cm2/day,0,5,0.0,0.0,num,calc,Exposure
+num_setups,4,Sediment level error type,0,5,0.0,0.30142857142857143,cat,og,Exposure
+num_setups,4,Sediment notes,0,5,0.0,0.21366584557729945,desc,summ,Exposure
+num_setups,4,Sediment upper error estimate,0,5,0.0,0.0,num,og,Exposure
+num_setups,4,Source of data,0,8,0.0,0.34390159390159397,desc,summ,Outcome
+num_setups,4,Study location,0,5,0.0,0.3806528980679547,desc,og,Study
+num_setups,4,Study site,4,5,0.8,0.8307692307692308,cat,inf,Study
+num_setups,4,Study type,5,5,1.0,1.0,,,
+num_setups,4,Unit of measurement,0,8,0.0,0.1930555555555556,cat,og,Outcome
+num_setups,8,Colony form,0,4,0.0,0.3333333333333333,cat,inf,Population
+num_setups,8,Coral age class,0,4,0.0,0.25,cat,inf,Population
+num_setups,8,Current genus name,4,4,1.0,1.0,cat,og,Population
+num_setups,8,Current species name,4,4,1.0,1.0,cat,og,Population
+num_setups,8,Event latitude,0,4,0.0,0.0,num,inf,Study
+num_setups,8,Event longitude,4,4,1.0,1.0,num,inf,Study
+num_setups,8,Increased mucus?,2,4,0.5,0.5,bin,inf,Binary Responses
+num_setups,8,Mortality reported?,4,4,1.0,1.0,bin,inf,Data Reported?
+num_setups,8,N UoM,0,8,0.0,0.15384615384615385,desc,summ,Outcome
+num_setups,8,N for computing average,0,8,0.0,0.0,num,og,Outcome
+num_setups,8,Response level,0,8,0.0,0.0,num,inf,Outcome
+num_setups,8,Response type,8,8,1.0,1.0,cat,inf,Outcome
+num_setups,8,Sediment N UoM,4,4,1.0,1.0,desc,summ,Exposure
+num_setups,8,Sediment N for computing average,4,4,1.0,1.0,num,og,Exposure
+num_setups,8,Sediment composition,0,4,0.0,0.058823529411764705,desc,summ,Exposure
+num_setups,8,Sediment level,0,4,0.0,0.0,num,og,Exposure
+num_setups,8,Sediment level UoM,0,4,0.0,0.2222222222222222,cat,og,Exposure
+num_setups,8,Sediment level converted to mg/cm2/day,0,4,0.0,0.0,num,calc,Exposure
+num_setups,8,Sediment level error type,4,4,1.0,1.0,cat,og,Exposure
+num_setups,8,Sediment notes,0,4,0.0,0.008928571428571428,desc,summ,Exposure
+num_setups,8,Sediment upper error estimate,4,4,1.0,1.0,num,og,Exposure
+num_setups,8,Source of data,0,8,0.0,0.11965811965811966,desc,summ,Outcome
+num_setups,8,Study location,0,4,0.0,0.08163265306122448,desc,og,Study
+num_setups,8,Study site,0,4,0.0,0.15384615384615385,cat,inf,Study
+num_setups,8,Study type,0,4,0.0,0.0,,,
+num_setups,8,Unit of measurement,0,8,0.0,0.19354838709677422,cat,og,Outcome
+num_setups,9,Colony form,0,6,0.0,0.18333333333333332,cat,inf,Population
+num_setups,9,Coral age class,6,6,1.0,1.0,cat,inf,Population
+num_setups,9,Current genus name,6,6,1.0,1.0,cat,og,Population
+num_setups,9,Current species name,6,6,1.0,1.0,cat,og,Population
+num_setups,9,Event latitude,0,6,0.0,0.0,num,inf,Study
+num_setups,9,Event longitude,0,6,0.0,0.0,num,inf,Study
+num_setups,9,Increased mucus?,0,6,0.0,0.0,bin,inf,Binary Responses
+num_setups,9,Mortality reported?,0,6,0.0,0.0,bin,inf,Data Reported?
+num_setups,9,Sediment N UoM,0,6,0.0,0.09090909090909093,desc,summ,Exposure
+num_setups,9,Sediment N for computing average,0,6,0.0,0.0,num,og,Exposure
+num_setups,9,Sediment composition,0,6,0.0,0.44155844155844154,desc,summ,Exposure
+num_setups,9,Sediment level,0,6,0.0,0.0,num,og,Exposure
+num_setups,9,Sediment level UoM,0,6,0.0,0.5454545454545454,cat,og,Exposure
+num_setups,9,Sediment level converted to mg/cm2/day,0,6,0.0,0.0,num,calc,Exposure
+num_setups,9,Sediment level error type,0,6,0.0,0.0,cat,og,Exposure
+num_setups,9,Sediment notes,0,6,0.0,0.27906976744186046,desc,summ,Exposure
+num_setups,9,Sediment upper error estimate,0,6,0.0,0.0,num,og,Exposure
+num_setups,9,Study location,0,6,0.0,0.21621621621621623,desc,og,Study
+num_setups,9,Study site,0,6,0.0,0.15384615384615385,cat,inf,Study
+num_setups,9,Study type,6,6,1.0,1.0,,,
+num_setups,12,Colony form,12,12,1.0,1.0,cat,inf,Population
+num_setups,12,Coral age class,0,12,0.0,0.0,cat,inf,Population
+num_setups,12,Current genus name,12,12,1.0,1.0,cat,og,Population
+num_setups,12,Current species name,12,12,1.0,1.0,cat,og,Population
+num_setups,12,Event latitude,0,12,0.0,0.0,num,inf,Study
+num_setups,12,Event longitude,0,12,0.0,0.0,num,inf,Study
+num_setups,12,Increased mucus?,0,12,0.0,0.0,bin,inf,Binary Responses
+num_setups,12,Mortality reported?,0,12,0.0,0.0,bin,inf,Data Reported?
+num_setups,12,N UoM,12,12,1.0,1.0,desc,summ,Outcome
+num_setups,12,N for computing average,0,12,0.0,0.0,num,og,Outcome
+num_setups,12,Response level,0,12,0.0,0.0,num,inf,Outcome
+num_setups,12,Response type,0,12,0.0,0.9565217391304349,cat,inf,Outcome
+num_setups,12,Sediment N UoM,0,12,0.0,0.25,desc,summ,Exposure
+num_setups,12,Sediment N for computing average,0,12,0.0,0.0,num,og,Exposure
+num_setups,12,Sediment composition,0,12,0.0,0.5,desc,summ,Exposure
+num_setups,12,Sediment level,0,12,0.0,0.0,num,og,Exposure
+num_setups,12,Sediment level UoM,0,12,0.0,0.5217391304347825,cat,og,Exposure
+num_setups,12,Sediment level converted to mg/cm2/day,0,12,0.0,0.0,num,calc,Exposure
+num_setups,12,Sediment level error type,0,12,0.0,0.0,cat,og,Exposure
+num_setups,12,Sediment notes,0,12,0.0,0.024242424242424235,desc,summ,Exposure
+num_setups,12,Sediment upper error estimate,0,12,0.0,0.0,num,og,Exposure
+num_setups,12,Source of data,0,12,0.0,0.09259259259259257,desc,summ,Outcome
+num_setups,12,Study location,0,12,0.0,0.16071428571428575,desc,og,Study
+num_setups,12,Study site,0,12,0.0,0.15384615384615383,cat,inf,Study
+num_setups,12,Study type,0,12,0.0,0.0,,,
+num_setups,12,Unit of measurement,0,12,0.0,0.19999999999999998,cat,og,Outcome
+num_setups,16,Colony form,0,4,0.0,0.6666666666666666,cat,inf,Population
+num_setups,16,Coral age class,0,4,0.0,0.25,cat,inf,Population
+num_setups,16,Current genus name,4,4,1.0,1.0,cat,og,Population
+num_setups,16,Current species name,4,4,1.0,1.0,cat,og,Population
+num_setups,16,Event latitude,0,4,0.0,0.0,num,inf,Study
+num_setups,16,Event longitude,0,4,0.0,0.0,num,inf,Study
+num_setups,16,Increased mucus?,0,4,0.0,0.0,bin,inf,Binary Responses
+num_setups,16,Mortality reported?,4,4,1.0,1.0,bin,inf,Data Reported?
+num_setups,16,N UoM,2,12,0.16666666666666666,0.3181818181818182,desc,summ,Outcome
+num_setups,16,N for computing average,2,12,0.16666666666666666,0.16666666666666666,num,og,Outcome
+num_setups,16,Response level,0,12,0.0,0.0,num,inf,Outcome
+num_setups,16,Response type,0,12,0.0,0.6913888888888889,cat,inf,Outcome
+num_setups,16,Sediment N UoM,0,4,0.0,0.23529411764705882,desc,summ,Exposure
+num_setups,16,Sediment N for computing average,0,4,0.0,0.0,num,og,Exposure
+num_setups,16,Sediment composition,0,4,0.0,0.42363590005099433,desc,summ,Exposure
+num_setups,16,Sediment level,0,4,0.0,0.0,num,og,Exposure
+num_setups,16,Sediment level UoM,0,4,0.0,0.6956521739130435,cat,og,Exposure
+num_setups,16,Sediment level converted to mg/cm2/day,0,4,0.0,0.0,num,calc,Exposure
+num_setups,16,Sediment level error type,0,4,0.0,0.0,cat,og,Exposure
+num_setups,16,Sediment notes,0,4,0.0,0.0,desc,summ,Exposure
+num_setups,16,Sediment upper error estimate,0,4,0.0,0.0,num,og,Exposure
+num_setups,16,Source of data,0,12,0.0,0.2193241167434716,desc,summ,Outcome
+num_setups,16,Study location,0,4,0.0,0.5454545454545454,desc,og,Study
+num_setups,16,Study site,0,4,0.0,0.0,cat,inf,Study
+num_setups,16,Study type,0,4,0.0,0.0,,,
+num_setups,16,Unit of measurement,0,12,0.0,0.13236790729050793,cat,og,Outcome
+num_setups,20,Colony form,0,14,0.0,0.16666666666666666,cat,inf,Population
+num_setups,20,Coral age class,0,14,0.0,0.0,cat,inf,Population
+num_setups,20,Current genus name,14,14,1.0,1.0,cat,og,Population
+num_setups,20,Current species name,14,14,1.0,1.0,cat,og,Population
+num_setups,20,Event latitude,0,14,0.0,0.0,num,inf,Study
+num_setups,20,Event longitude,0,14,0.0,0.0,num,inf,Study
+num_setups,20,Increased mucus?,0,14,0.0,0.0,bin,inf,Binary Responses
+num_setups,20,Mortality reported?,0,14,0.0,0.0,bin,inf,Data Reported?
+num_setups,20,N UoM,0,28,0.0,0.18181818181818174,desc,summ,Outcome
+num_setups,20,N for computing average,0,28,0.0,0.0,num,og,Outcome
+num_setups,20,Response level,0,28,0.0,0.0,num,inf,Outcome
+num_setups,20,Response type,14,28,0.5,0.8529411764705884,cat,inf,Outcome
+num_setups,20,Sediment N UoM,0,14,0.0,0.27370948379351734,desc,summ,Exposure
+num_setups,20,Sediment N for computing average,0,14,0.0,0.0,num,og,Exposure
+num_setups,20,Sediment composition,0,14,0.0,0.36206896551724144,desc,summ,Exposure
+num_setups,20,Sediment level,0,14,0.0,0.0,num,og,Exposure
+num_setups,20,Sediment level UoM,0,14,0.0,0.5999999999999999,cat,og,Exposure
+num_setups,20,Sediment level converted to mg/cm2/day,0,14,0.0,0.0,num,calc,Exposure
+num_setups,20,Sediment level error type,0,14,0.0,0.6666666666666666,cat,og,Exposure
+num_setups,20,Sediment notes,0,14,0.0,0.311111111111111,desc,summ,Exposure
+num_setups,20,Sediment upper error estimate,0,14,0.0,0.0,num,og,Exposure
+num_setups,20,Source of data,0,28,0.0,0.1509433962264151,desc,summ,Outcome
+num_setups,20,Study location,0,14,0.0,0.4703595724003887,desc,og,Study
+num_setups,20,Study site,0,14,0.0,0.0,cat,inf,Study
+num_setups,20,Study type,0,14,0.0,0.0,,,
+num_setups,20,Unit of measurement,0,28,0.0,0.09090909090909091,cat,og,Outcome
+num_setups,24,Colony form,0,4,0.0,0.6666666666666666,cat,inf,Population
+num_setups,24,Coral age class,0,4,0.0,0.0,cat,inf,Population
+num_setups,24,Current genus name,4,4,1.0,1.0,cat,og,Population
+num_setups,24,Current species name,4,4,1.0,1.0,cat,og,Population
+num_setups,24,Event latitude,0,4,0.0,0.0,num,inf,Study
+num_setups,24,Event longitude,0,4,0.0,0.0,num,inf,Study
+num_setups,24,Increased mucus?,0,4,0.0,0.0,bin,inf,Binary Responses
+num_setups,24,Mortality reported?,0,4,0.0,0.0,bin,inf,Data Reported?
+num_setups,24,Sediment N UoM,0,4,0.0,0.3768115942028985,desc,summ,Exposure
+num_setups,24,Sediment N for computing average,0,4,0.0,0.0,num,og,Exposure
+num_setups,24,Sediment composition,0,4,0.0,0.16114457831325302,desc,summ,Exposure
+num_setups,24,Sediment level,0,4,0.0,0.0,num,og,Exposure
+num_setups,24,Sediment level UoM,0,4,0.0,0.25,cat,og,Exposure
+num_setups,24,Sediment level converted to mg/cm2/day,0,4,0.0,0.0,num,calc,Exposure
+num_setups,24,Sediment level error type,0,4,0.0,0.3333333333333333,cat,og,Exposure
+num_setups,24,Sediment notes,0,4,0.0,0.0,desc,summ,Exposure
+num_setups,24,Sediment upper error estimate,0,4,0.0,0.0,num,og,Exposure
+num_setups,24,Study location,0,4,0.0,0.5217391304347826,desc,og,Study
+num_setups,24,Study site,0,4,0.0,0.15384615384615385,cat,inf,Study
+num_setups,24,Study type,0,4,0.0,0.0,,,
+num_setups,70,Colony form,4,5,0.8,0.825,cat,inf,Population
+num_setups,70,Coral age class,5,5,1.0,1.0,cat,inf,Population
+num_setups,70,Current genus name,5,5,1.0,1.0,cat,og,Population
+num_setups,70,Current species name,5,5,1.0,1.0,cat,og,Population
+num_setups,70,Event latitude,0,5,0.0,0.0,num,inf,Study
+num_setups,70,Event longitude,0,5,0.0,0.0,num,inf,Study
+num_setups,70,Increased mucus?,0,5,0.0,0.0,bin,inf,Binary Responses
+num_setups,70,Mortality reported?,0,5,0.0,0.0,bin,inf,Data Reported?
+num_setups,70,N UoM,0,5,0.0,0.18181818181818182,desc,summ,Outcome
+num_setups,70,N for computing average,0,5,0.0,0.0,num,og,Outcome
+num_setups,70,Response level,0,5,0.0,0.0,num,inf,Outcome
+num_setups,70,Response type,5,5,1.0,1.0,cat,inf,Outcome
+num_setups,70,Sediment N UoM,0,5,0.0,0.0,desc,summ,Exposure
+num_setups,70,Sediment N for computing average,0,5,0.0,0.0,num,og,Exposure
+num_setups,70,Sediment composition,0,5,0.0,0.21260927787243572,desc,summ,Exposure
+num_setups,70,Sediment level,1,5,0.2,0.2,num,og,Exposure
+num_setups,70,Sediment level UoM,0,5,0.0,0.47170868347338935,cat,og,Exposure
+num_setups,70,Sediment level converted to mg/cm2/day,1,5,0.2,0.2,num,calc,Exposure
+num_setups,70,Sediment level error type,0,5,0.0,0.2857142857142857,cat,og,Exposure
+num_setups,70,Sediment notes,0,5,0.0,0.28589317080118554,desc,summ,Exposure
+num_setups,70,Sediment upper error estimate,5,5,1.0,1.0,num,og,Exposure
+num_setups,70,Source of data,0,5,0.0,0.42857142857142855,desc,summ,Outcome
+num_setups,70,Study location,0,5,0.0,0.03773584905660377,desc,og,Study
+num_setups,70,Study site,5,5,1.0,1.0,cat,inf,Study
+num_setups,70,Study type,5,5,1.0,1.0,,,
+num_setups,70,Unit of measurement,0,5,0.0,0.6153846153846154,cat,og,Outcome
+num_species,1,Colony form,0,11,0.0,0.496969696969697,cat,inf,Population
+num_species,1,Coral age class,0,11,0.0,0.1983471074380165,cat,inf,Population
+num_species,1,Current genus name,11,11,1.0,1.0,cat,og,Population
+num_species,1,Current species name,11,11,1.0,1.0,cat,og,Population
+num_species,1,Event latitude,1,11,0.09090909090909091,0.09090909090909091,num,inf,Study
+num_species,1,Event longitude,1,11,0.09090909090909091,0.09090909090909091,num,inf,Study
+num_species,1,Increased mucus?,0,11,0.0,0.0,bin,inf,Binary Responses
+num_species,1,Mortality reported?,5,11,0.45454545454545453,0.45454545454545453,bin,inf,Data Reported?
+num_species,1,N UoM,2,20,0.1,0.35511363636363624,desc,summ,Outcome
+num_species,1,N for computing average,8,20,0.4,0.4,num,og,Outcome
+num_species,1,Response level,6,20,0.3,0.3,num,inf,Outcome
+num_species,1,Response type,3,20,0.15,0.7061462931522354,cat,inf,Outcome
+num_species,1,Sediment N UoM,2,11,0.18181818181818182,0.26737967914438504,desc,summ,Exposure
+num_species,1,Sediment N for computing average,2,11,0.18181818181818182,0.18181818181818182,num,og,Exposure
+num_species,1,Sediment composition,0,11,0.0,0.34227229962593747,desc,summ,Exposure
+num_species,1,Sediment level,0,11,0.0,0.0,num,og,Exposure
+num_species,1,Sediment level UoM,0,11,0.0,0.5999626299128251,cat,og,Exposure
+num_species,1,Sediment level converted to mg/cm2/day,0,11,0.0,0.0,num,calc,Exposure
+num_species,1,Sediment level error type,2,11,0.18181818181818182,0.3188311688311688,cat,og,Exposure
+num_species,1,Sediment notes,0,11,0.0,0.13623929619904795,desc,summ,Exposure
+num_species,1,Sediment upper error estimate,2,11,0.18181818181818182,0.18181818181818182,num,og,Exposure
+num_species,1,Source of data,0,20,0.0,0.26915510760672046,desc,summ,Outcome
+num_species,1,Study location,0,11,0.0,0.5252173058605133,desc,og,Study
+num_species,1,Study site,4,11,0.36363636363636365,0.4055944055944056,cat,inf,Study
+num_species,1,Study type,7,11,0.6363636363636364,0.6363636363636364,,,
+num_species,1,Unit of measurement,0,20,0.0,0.15664296659652696,cat,og,Outcome
+num_species,2,Colony form,0,18,0.0,0.2777777777777778,cat,inf,Population
+num_species,2,Coral age class,0,18,0.0,0.0,cat,inf,Population
+num_species,2,Current genus name,18,18,1.0,1.0,cat,og,Population
+num_species,2,Current species name,18,18,1.0,1.0,cat,og,Population
+num_species,2,Event latitude,0,18,0.0,0.0,num,inf,Study
+num_species,2,Event longitude,0,18,0.0,0.0,num,inf,Study
+num_species,2,Increased mucus?,0,18,0.0,0.0,bin,inf,Binary Responses
+num_species,2,Mortality reported?,0,18,0.0,0.0,bin,inf,Data Reported?
+num_species,2,N UoM,0,28,0.0,0.18181818181818174,desc,summ,Outcome
+num_species,2,N for computing average,0,28,0.0,0.0,num,og,Outcome
+num_species,2,Response level,0,28,0.0,0.0,num,inf,Outcome
+num_species,2,Response type,14,28,0.5,0.8529411764705884,cat,inf,Outcome
+num_species,2,Sediment N UoM,0,18,0.0,0.2966210638844909,desc,summ,Exposure
+num_species,2,Sediment N for computing average,0,18,0.0,0.0,num,og,Exposure
+num_species,2,Sediment composition,0,18,0.0,0.31741910169413284,desc,summ,Exposure
+num_species,2,Sediment level,0,18,0.0,0.0,num,og,Exposure
+num_species,2,Sediment level UoM,0,18,0.0,0.522222222222222,cat,og,Exposure
+num_species,2,Sediment level converted to mg/cm2/day,0,18,0.0,0.0,num,calc,Exposure
+num_species,2,Sediment level error type,0,18,0.0,0.5925925925925924,cat,og,Exposure
+num_species,2,Sediment notes,0,18,0.0,0.24197530864197525,desc,summ,Exposure
+num_species,2,Sediment upper error estimate,0,18,0.0,0.0,num,og,Exposure
+num_species,2,Source of data,0,28,0.0,0.1509433962264151,desc,summ,Outcome
+num_species,2,Study location,0,18,0.0,0.4817772519635874,desc,og,Study
+num_species,2,Study site,0,18,0.0,0.03418803418803419,cat,inf,Study
+num_species,2,Study type,0,18,0.0,0.0,,,
+num_species,2,Unit of measurement,0,28,0.0,0.09090909090909091,cat,og,Outcome
+num_species,3,Colony form,12,18,0.6666666666666666,0.7277777777777775,cat,inf,Population
+num_species,3,Coral age class,6,18,0.3333333333333333,0.3333333333333333,cat,inf,Population
+num_species,3,Current genus name,18,18,1.0,1.0,cat,og,Population
+num_species,3,Current species name,18,18,1.0,1.0,cat,og,Population
+num_species,3,Event latitude,0,18,0.0,0.0,num,inf,Study
+num_species,3,Event longitude,0,18,0.0,0.0,num,inf,Study
+num_species,3,Increased mucus?,0,18,0.0,0.0,bin,inf,Binary Responses
+num_species,3,Mortality reported?,0,18,0.0,0.0,bin,inf,Data Reported?
+num_species,3,N UoM,12,12,1.0,1.0,desc,summ,Outcome
+num_species,3,N for computing average,0,12,0.0,0.0,num,og,Outcome
+num_species,3,Response level,0,12,0.0,0.0,num,inf,Outcome
+num_species,3,Response type,0,12,0.0,0.9565217391304349,cat,inf,Outcome
+num_species,3,Sediment N UoM,0,18,0.0,0.19696969696969693,desc,summ,Exposure
+num_species,3,Sediment N for computing average,0,18,0.0,0.0,num,og,Exposure
+num_species,3,Sediment composition,0,18,0.0,0.4805194805194806,desc,summ,Exposure
+num_species,3,Sediment level,0,18,0.0,0.0,num,og,Exposure
+num_species,3,Sediment level UoM,0,18,0.0,0.5296442687747034,cat,og,Exposure
+num_species,3,Sediment level converted to mg/cm2/day,0,18,0.0,0.0,num,calc,Exposure
+num_species,3,Sediment level error type,0,18,0.0,0.0,cat,og,Exposure
+num_species,3,Sediment notes,0,18,0.0,0.10918487197556966,desc,summ,Exposure
+num_species,3,Sediment upper error estimate,0,18,0.0,0.0,num,og,Exposure
+num_species,3,Source of data,0,12,0.0,0.09259259259259257,desc,summ,Outcome
+num_species,3,Study location,0,18,0.0,0.17921492921492926,desc,og,Study
+num_species,3,Study site,0,18,0.0,0.1538461538461538,cat,inf,Study
+num_species,3,Study type,6,18,0.3333333333333333,0.3333333333333333,,,
+num_species,3,Unit of measurement,0,12,0.0,0.19999999999999998,cat,og,Outcome
+num_species,4,Colony form,4,9,0.4444444444444444,0.6064814814814814,cat,inf,Population
+num_species,4,Coral age class,5,9,0.5555555555555556,0.6666666666666666,cat,inf,Population
+num_species,4,Current genus name,9,9,1.0,1.0,cat,og,Population
+num_species,4,Current species name,9,9,1.0,1.0,cat,og,Population
+num_species,4,Event latitude,0,9,0.0,0.0,num,inf,Study
+num_species,4,Event longitude,4,9,0.4444444444444444,0.4444444444444444,num,inf,Study
+num_species,4,Increased mucus?,2,9,0.2222222222222222,0.2222222222222222,bin,inf,Binary Responses
+num_species,4,Mortality reported?,4,9,0.4444444444444444,0.4444444444444444,bin,inf,Data Reported?
+num_species,4,N UoM,0,13,0.0,0.16460462614308763,desc,summ,Outcome
+num_species,4,N for computing average,0,13,0.0,0.0,num,og,Outcome
+num_species,4,Response level,0,13,0.0,0.0,num,inf,Outcome
+num_species,4,Response type,13,13,1.0,1.0,cat,inf,Outcome
+num_species,4,Sediment N UoM,4,9,0.4444444444444444,0.4444444444444444,desc,summ,Exposure
+num_species,4,Sediment N for computing average,4,9,0.4444444444444444,0.4444444444444444,num,og,Exposure
+num_species,4,Sediment composition,0,9,0.0,0.14426005633435973,desc,summ,Exposure
+num_species,4,Sediment level,1,9,0.1111111111111111,0.1111111111111111,num,og,Exposure
+num_species,4,Sediment level UoM,0,9,0.0,0.360825811806204,cat,og,Exposure
+num_species,4,Sediment level converted to mg/cm2/day,1,9,0.1111111111111111,0.1111111111111111,num,calc,Exposure
+num_species,4,Sediment level error type,4,9,0.4444444444444444,0.6031746031746033,cat,og,Exposure
+num_species,4,Sediment notes,0,9,0.0,0.16279779330224592,desc,summ,Exposure
+num_species,4,Sediment upper error estimate,9,9,1.0,1.0,num,og,Exposure
+num_species,4,Source of data,0,13,0.0,0.23847093077862308,desc,summ,Outcome
+num_species,4,Study location,0,9,0.0,0.05724553972532409,desc,og,Study
+num_species,4,Study site,5,9,0.5555555555555556,0.623931623931624,cat,inf,Study
+num_species,4,Study type,5,9,0.5555555555555556,0.5555555555555556,,,
+num_species,4,Unit of measurement,0,13,0.0,0.35579309028440537,cat,og,Outcome

@@ -1,0 +1,2925 @@
+ref_id: SS04
+md_filename: bessell-2017-SS04.md
+stage: openrouter_parse
+parse_mode: fallback
+error_type: LLMParseError
+message: 162 validation errors for PaperExtraction
+setups.0.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.0.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.0.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.0.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.0.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.0.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.1.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.1.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.1.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.1.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.1.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.1.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.2.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.2.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.2.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.2.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.2.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.2.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.3.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.3.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.3.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.3.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.3.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.3.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.4.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.4.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.4.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.4.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.4.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.4.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.5.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.5.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.5.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.5.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.5.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.5.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.6.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.6.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.6.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.6.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.6.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.6.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.7.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.7.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.7.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.7.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.7.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.7.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.8.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.8.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.8.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.8.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.8.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.8.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.9.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.9.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.9.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.9.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.9.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.9.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.10.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.10.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.10.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.10.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.10.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.10.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.11.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.11.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.11.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.11.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.11.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.11.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.12.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.12.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.12.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.12.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.12.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.12.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.13.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.13.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.13.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.13.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.13.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.13.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.14.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.14.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.14.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.14.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.14.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.14.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.15.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.15.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.15.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.15.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.15.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.15.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.16.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.16.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.16.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.16.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.16.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.16.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.17.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.17.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.17.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.17.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.17.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.17.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.18.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.18.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.18.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.18.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.18.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.18.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.19.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.19.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.19.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.19.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.19.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.19.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.20.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.20.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.20.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.20.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.20.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.20.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.21.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.21.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.21.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.21.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.21.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.21.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.22.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.22.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.22.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.22.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.22.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.22.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.23.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.23.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.23.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.23.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.23.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.23.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.24.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.24.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.24.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.24.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.24.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.24.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.25.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.25.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.25.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.25.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.25.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.25.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.26.study.Study location
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.26.study.Study site
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.26.study.Study type
+  Field required [type=missing, input_value={'study location': 'Davie...Event longitude': 'n/a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+setups.26.study.study location
+  Extra inputs are not permitted [type=extra_forbidden, input_value='Davies Reef, Great Barri...G13/35758.1), Australia', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.26.study.study site
+  Extra inputs are not permitted [type=extra_forbidden, input_value='laboratory', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+setups.26.study.study type
+  Extra inputs are not permitted [type=extra_forbidden, input_value='manipulative', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+validation_errors:
+[
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      15,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      16,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      17,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      18,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      19,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      20,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      21,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      22,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      23,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      24,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      25,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "Study location"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "Study site"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "Study type"
+    ],
+    "msg": "Field required",
+    "input": {
+      "study location": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+      "study site": "laboratory",
+      "study type": "manipulative",
+      "Event latitude": "n/a",
+      "Event longitude": "n/a"
+    },
+    "url": "https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "study location"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "Davies Reef, Great Barrier Reef Marine Park Authority (GBRMPA permits G12/35236.1 and G13/35758.1), Australia",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "study site"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "laboratory",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  },
+  {
+    "type": "extra_forbidden",
+    "loc": [
+      "setups",
+      26,
+      "study",
+      "study type"
+    ],
+    "msg": "Extra inputs are not permitted",
+    "input": "manipulative",
+    "url": "https://errors.pydantic.dev/2.13/v/extra_forbidden"
+  }
+]

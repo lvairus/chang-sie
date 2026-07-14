@@ -1,0 +1,7 @@
+{
+  "run_name": "test_llama70b_20",
+  "domain": "coral",
+  "model": "meta-llama/llama-3.1-70b-instruct",
+  "schema": "0.1.0",
+  "num_papers": 19
+}

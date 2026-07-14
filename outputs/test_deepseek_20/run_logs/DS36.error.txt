@@ -1,0 +1,6 @@
+ref_id: DS36
+md_filename: zill-2017-DS36.md
+stage: openrouter_parse
+parse_mode: structured
+error_type: LLMParseError
+message: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)

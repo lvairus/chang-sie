@@ -1,0 +1,39 @@
+{
+  "evaluated_ref_ids": [
+    "SS05"
+  ],
+  "setup_rows": {
+    "num_matched": 9,
+    "num_unmatched_pred": 0,
+    "num_unmatched_truth": 3,
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1": 0.8571428571428571
+  },
+  "response_rows": {
+    "num_matched": 27,
+    "num_unmatched_pred": 9,
+    "num_unmatched_truth": 21,
+    "precision": 0.75,
+    "recall": 0.5625,
+    "f1": 0.6428571428571429
+  },
+  "response_types": {
+    "SS05": {
+      "truth": [
+        "Net photosynthesis",
+        "P/R ratio",
+        "Photosynthetic efficiency",
+        "Respiration"
+      ],
+      "pred": [
+        "Maximum quantum yield"
+      ],
+      "matched": {
+        "P/R ratio": "P/R ratio",
+        "Respiration": "Respiration",
+        "Net photosynthesis": "Net photosynthesis"
+      }
+    }
+  }
+}

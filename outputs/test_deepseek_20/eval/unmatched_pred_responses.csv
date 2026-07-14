@@ -1,0 +1,609 @@
+response_id,setup_id,RefID,Response type,Response level,Unit of measurement,N for computing average,N UoM,Source of data
+DS02_001_R01,DS02_001,DS02,Settlement (% of reference),100.0,% of reference,n/r,n/r,"By definition, reference settlement is 100%. Text: 'Settlement in the sediment treatment areas was 71% of that in the reference areas' (Table 2). No absolute numbers given."
+DS02_001_R02,DS02_001,DS02,Juvenile survival to 8 months (% of reference),100.0,% of reference,n/r,n/r,"By definition, reference survival is 100%. Text: 'by November numbers alive in the sediment treatments ... were 39% of the number surviving in the reference sites' (Fig. 2)."
+DS02_002_R01,DS02_002,DS02,Settlement (% of reference),71.0,% of reference,n/r,n/r,Text: 'Settlement in the sediment treatment areas was 71% of that in the reference areas' (Table 2). No absolute numbers.
+DS02_002_R02,DS02_002,DS02,Juvenile survival to 8 months (% of reference),39.0,% of reference,n/r,n/r,Text: 'by November numbers alive in the sediment treatments remained significantly lower (Fig. 2) though by this time they were 39% of the number surviving in the reference sites.'
+DS03_001_R04,DS03_001,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_001_R05,DS03_001,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_002_R04,DS03_002,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_002_R05,DS03_002,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_003_R04,DS03_003,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_003_R05,DS03_003,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_004_R04,DS03_004,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_004_R05,DS03_004,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_009_R04,DS03_009,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_009_R05,DS03_009,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_010_R04,DS03_010,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_010_R05,DS03_010,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_011_R04,DS03_011,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_011_R05,DS03_011,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_012_R04,DS03_012,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_012_R05,DS03_012,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_017_R04,DS03_017,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_017_R05,DS03_017,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_018_R04,DS03_018,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_018_R05,DS03_018,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_019_R04,DS03_019,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_019_R05,DS03_019,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_020_R04,DS03_020,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_020_R05,DS03_020,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_005_R01,DS03_005,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_005_R02,DS03_005,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_005_R03,DS03_005,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_005_R04,DS03_005,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_005_R05,DS03_005,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_006_R01,DS03_006,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_006_R02,DS03_006,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_006_R03,DS03_006,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_006_R04,DS03_006,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_006_R05,DS03_006,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_007_R01,DS03_007,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_007_R02,DS03_007,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_007_R03,DS03_007,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_007_R04,DS03_007,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_007_R05,DS03_007,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_008_R01,DS03_008,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_008_R02,DS03_008,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_008_R03,DS03_008,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_008_R04,DS03_008,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_008_R05,DS03_008,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_013_R01,DS03_013,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_013_R02,DS03_013,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_013_R03,DS03_013,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_013_R04,DS03_013,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_013_R05,DS03_013,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_014_R01,DS03_014,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_014_R02,DS03_014,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_014_R03,DS03_014,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_014_R04,DS03_014,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_014_R05,DS03_014,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_015_R01,DS03_015,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_015_R02,DS03_015,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_015_R03,DS03_015,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_015_R04,DS03_015,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_015_R05,DS03_015,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_016_R01,DS03_016,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_016_R02,DS03_016,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_016_R03,DS03_016,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_016_R04,DS03_016,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_016_R05,DS03_016,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_021_R01,DS03_021,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_021_R02,DS03_021,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_021_R03,DS03_021,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_021_R04,DS03_021,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_021_R05,DS03_021,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_022_R01,DS03_022,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_022_R02,DS03_022,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_022_R03,DS03_022,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_022_R04,DS03_022,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_022_R05,DS03_022,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_023_R01,DS03_023,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_023_R02,DS03_023,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_023_R03,DS03_023,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_023_R04,DS03_023,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_023_R05,DS03_023,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS03_024_R01,DS03_024,DS03,Colour index,n/r,score (0-1),n/r,n/r,Figure 3a; per-species numeric values not reported in text.
+DS03_024_R02,DS03_024,DS03,Chlorophyll a concentration,n/r,µg Chl a cm^{-2},n/r,n/r,Figure 3c; per-species numeric values not reported in text.
+DS03_024_R03,DS03_024,DS03,Maximum quantum yield,n/r,dimensionless (Fv/Fm),n/r,n/r,Figure 3b; per-species numeric values not reported in text.
+DS03_024_R04,DS03_024,DS03,Sediment remaining after 1st deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4a; per-species numeric values not reported in text.
+DS03_024_R05,DS03_024,DS03,Sediment remaining after 7th deposition,n/r,mg cm^{-2},n/r,n/r,Figure 4b; per-species numeric values not reported in text.
+DS04_001_R02,DS04_001,DS04,Self-cleaning index,n/r,ratio,5.0,fragments,SCI values in Fig. 3 but not explicitly stated.
+DS04_001_R03,DS04_001,DS04,Percent sediment cover,n/r,%,5.0,fragments,"Experiment C1; percent cover shown in insets Fig. 3; for A. millepora at this level, not explicitly stated."
+DS04_001_R04,DS04_001,DS04,Bleaching,n/a,n/a,n/a,n/a,Not measured in clearance experiment C1.
+DS04_001_R05,DS04_001,DS04,Final dark-adapted Fv/Fm,n/a,n/a,n/a,n/a,Not measured in clearance experiment C1.
+DS04_002_R02,DS04_002,DS04,Self-cleaning index,n/r,ratio,5.0,fragments,Fig. 3; not explicitly stated.
+DS04_002_R03,DS04_002,DS04,Percent sediment cover,n/r,%,5.0,fragments,Fig. 3; not explicitly stated.
+DS04_002_R04,DS04_002,DS04,Bleaching,n/a,n/a,n/a,n/a,Not measured.
+DS04_002_R05,DS04_002,DS04,Final dark-adapted Fv/Fm,n/a,n/a,n/a,n/a,Not measured.
+DS10_003_R01,DS10_003,DS10,P/R ratio change,-21.0,%,4.0,fragments,Abstract: '... corals exposed to sediments whose P/R ratio ... had declined by 21%'.
+DS10_006_R01,DS10_006,DS10,P/R ratio change,-21.0,%,4.0,fragments,Abstract: 'corals exposed to sediments ... P/R ratio ... declined by 21%'.
+DS10_001_R01,DS10_001,DS10,P/R ratio change,0.0,%,4.0,fragments,"Text: 'the P/R ratios in the open controls were stable throughout the experiment' (Results, paragraph 2). n=4 fragments per treatment."
+DS10_002_R01,DS10_002,DS10,P/R ratio change,-14.0,%,4.0,fragments,Abstract: '... P/R ratio ... had fallen by 14% ... in the shaded control'.
+DS10_004_R01,DS10_004,DS10,P/R ratio change,0.0,%,4.0,fragments,Text: 'the P/R ratios in the open controls were stable throughout the experiment'.
+DS10_005_R01,DS10_005,DS10,P/R ratio change,-14.0,%,4.0,fragments,Abstract: 'P/R ratio ... fallen by 14% ... in the shaded control'.
+DS16_001_R01,DS16_001,DS16,Fv/Fm,0.69,dimensionless ratio,0.0,n/a,"Fig. 3A, text"
+DS16_001_R02,DS16_001,DS16,DF/Fm',n/a,n/a,0.0,n/a,n/a
+DS16_001_R03,DS16_001,DS16,zooxanthellae density,3.35,10⁶ cells/cm²,0.0,n/a,text description
+DS16_001_R04,DS16_001,DS16,chlorophyll concentration,6.3,µg/cm²,0.0,n/a,text description
+DS18_001_R02,DS18_001,DS18,growth_rate_percent_per_day,n/r,% day^-1,n/r,n/a,Text (Results section)
+DS18_001_R03,DS18_001,DS18,mortality_percent_healthy_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_001_R04,DS18_001,DS18,mortality_percent_partial_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_001_R05,DS18_001,DS18,mortality_percent_dead_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_001_R06,DS18_001,DS18,mortality_percent_healthy_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_001_R07,DS18_001,DS18,mortality_percent_partial_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_001_R08,DS18_001,DS18,mortality_percent_dead_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_001_R09,DS18_001,DS18,mortality_percent_healthy_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_001_R10,DS18_001,DS18,mortality_percent_partial_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_001_R11,DS18_001,DS18,mortality_percent_dead_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_001_R12,DS18_001,DS18,mortality_percent_healthy_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_001_R13,DS18_001,DS18,mortality_percent_partial_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_001_R14,DS18_001,DS18,mortality_percent_dead_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_002_R02,DS18_002,DS18,growth_rate_percent_per_day,n/r,% day^-1,n/r,n/a,Text (Results section)
+DS18_002_R03,DS18_002,DS18,mortality_percent_healthy_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_002_R04,DS18_002,DS18,mortality_percent_partial_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_002_R05,DS18_002,DS18,mortality_percent_dead_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_002_R06,DS18_002,DS18,mortality_percent_healthy_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_002_R07,DS18_002,DS18,mortality_percent_partial_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_002_R08,DS18_002,DS18,mortality_percent_dead_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_002_R09,DS18_002,DS18,mortality_percent_healthy_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_002_R10,DS18_002,DS18,mortality_percent_partial_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_002_R11,DS18_002,DS18,mortality_percent_dead_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_002_R12,DS18_002,DS18,mortality_percent_healthy_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_002_R13,DS18_002,DS18,mortality_percent_partial_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_002_R14,DS18_002,DS18,mortality_percent_dead_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_003_R02,DS18_003,DS18,growth_rate_percent_per_day,n/r,% day^-1,n/r,n/a,Text (Results section)
+DS18_003_R03,DS18_003,DS18,mortality_percent_healthy_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_003_R04,DS18_003,DS18,mortality_percent_partial_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_003_R05,DS18_003,DS18,mortality_percent_dead_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_003_R06,DS18_003,DS18,mortality_percent_healthy_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_003_R07,DS18_003,DS18,mortality_percent_partial_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_003_R08,DS18_003,DS18,mortality_percent_dead_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_003_R09,DS18_003,DS18,mortality_percent_healthy_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_003_R10,DS18_003,DS18,mortality_percent_partial_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_003_R11,DS18_003,DS18,mortality_percent_dead_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_003_R12,DS18_003,DS18,mortality_percent_healthy_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_003_R13,DS18_003,DS18,mortality_percent_partial_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_003_R14,DS18_003,DS18,mortality_percent_dead_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_004_R02,DS18_004,DS18,growth_rate_percent_per_day,n/r,% day^-1,n/r,n/a,Text (Results section)
+DS18_004_R03,DS18_004,DS18,mortality_percent_healthy_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_004_R04,DS18_004,DS18,mortality_percent_partial_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_004_R05,DS18_004,DS18,mortality_percent_dead_Aug_Oct,n/r,%,n/r,n/a,Table 3
+DS18_004_R06,DS18_004,DS18,mortality_percent_healthy_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_004_R07,DS18_004,DS18,mortality_percent_partial_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_004_R08,DS18_004,DS18,mortality_percent_dead_Oct_Feb,n/r,%,n/r,n/a,Table 3
+DS18_004_R09,DS18_004,DS18,mortality_percent_healthy_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_004_R10,DS18_004,DS18,mortality_percent_partial_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_004_R11,DS18_004,DS18,mortality_percent_dead_Feb_Apr,n/r,%,n/r,n/a,Table 3
+DS18_004_R12,DS18_004,DS18,mortality_percent_healthy_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_004_R13,DS18_004,DS18,mortality_percent_partial_Apr_July,n/r,%,n/r,n/a,Table 3
+DS18_004_R14,DS18_004,DS18,mortality_percent_dead_Apr_July,n/r,%,n/r,n/a,Table 3
+DS20_001_R03,DS20_001,DS20,24-h P/R (50% PAR),1.03,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_001_R04,DS20_001,DS20,Noon P/R (50% PAR),1.67,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_001_R05,DS20_001,DS20,24-h C-productivity (25% PAR),0.38,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_001_R06,DS20_001,DS20,24-h respiration (25% PAR),0.49,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_001_R07,DS20_001,DS20,24-h P/R (25% PAR),0.78,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_001_R08,DS20_001,DS20,Noon P/R (25% PAR),1.45,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_001_R10,DS20_001,DS20,Mucus % of daily PC,33.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_001_R11,DS20_001,DS20,Mucus % of daily Rc,34.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_001_R12,DS20_001,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_001_R13,DS20_001,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_003_R03,DS20_003,DS20,24-h P/R (50% PAR),1.03,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_003_R04,DS20_003,DS20,Noon P/R (50% PAR),1.36,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_003_R05,DS20_003,DS20,24-h C-productivity (25% PAR),0.41,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_003_R06,DS20_003,DS20,24-h respiration (25% PAR),0.47,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_003_R07,DS20_003,DS20,24-h P/R (25% PAR),0.88,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_003_R08,DS20_003,DS20,Noon P/R (25% PAR),1.55,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_003_R10,DS20_003,DS20,Mucus % of daily PC,26.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_003_R11,DS20_003,DS20,Mucus % of daily Rc,27.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_003_R12,DS20_003,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_003_R13,DS20_003,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_005_R03,DS20_005,DS20,24-h P/R (50% PAR),1.17,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_005_R04,DS20_005,DS20,Noon P/R (50% PAR),2.02,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_005_R05,DS20_005,DS20,24-h C-productivity (25% PAR),0.35,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_005_R06,DS20_005,DS20,24-h respiration (25% PAR),0.4,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_005_R07,DS20_005,DS20,24-h P/R (25% PAR),0.88,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_005_R08,DS20_005,DS20,Noon P/R (25% PAR),1.72,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_005_R10,DS20_005,DS20,Mucus % of daily PC,14.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_005_R11,DS20_005,DS20,Mucus % of daily Rc,16.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_005_R12,DS20_005,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_005_R13,DS20_005,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_002_R03,DS20_002,DS20,24-h P/R (50% PAR),0.65,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_002_R04,DS20_002,DS20,Noon P/R (50% PAR),1.17,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_002_R05,DS20_002,DS20,24-h C-productivity (25% PAR),0.17,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_002_R06,DS20_002,DS20,24-h respiration (25% PAR),0.37,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_002_R07,DS20_002,DS20,24-h P/R (25% PAR),0.48,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_002_R08,DS20_002,DS20,Noon P/R (25% PAR),1.33,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_002_R10,DS20_002,DS20,Mucus % of daily PC,177.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_002_R11,DS20_002,DS20,Mucus % of daily Rc,65.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment"
+DS20_002_R12,DS20_002,DS20,Mucous sheet production,0.17,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_002_R13,DS20_002,DS20,Mucous sheet % of daily PC,56.0,%,n/r,n/r,"Mucus production table, % of daily PC"
+DS20_004_R03,DS20_004,DS20,24-h P/R (50% PAR),0.59,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_004_R04,DS20_004,DS20,Noon P/R (50% PAR),1.06,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_004_R05,DS20_004,DS20,24-h C-productivity (25% PAR),0.14,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_004_R06,DS20_004,DS20,24-h respiration (25% PAR),0.41,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_004_R07,DS20_004,DS20,24-h P/R (25% PAR),0.35,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_004_R08,DS20_004,DS20,Noon P/R (25% PAR),1.21,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_004_R10,DS20_004,DS20,Mucus % of daily PC,121.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_004_R11,DS20_004,DS20,Mucus % of daily Rc,72.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment"
+DS20_004_R12,DS20_004,DS20,Mucous sheet production,0.8,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_004_R13,DS20_004,DS20,Mucous sheet % of daily PC,300.0,%,n/r,n/r,"Mucus production table, % of daily PC"
+DS20_006_R03,DS20_006,DS20,24-h P/R (50% PAR),0.87,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_006_R04,DS20_006,DS20,Noon P/R (50% PAR),1.78,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_006_R05,DS20_006,DS20,24-h C-productivity (25% PAR),0.2,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_006_R06,DS20_006,DS20,24-h respiration (25% PAR),0.35,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_006_R07,DS20_006,DS20,24-h P/R (25% PAR),0.56,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_006_R08,DS20_006,DS20,Noon P/R (25% PAR),1.42,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_006_R10,DS20_006,DS20,Mucus % of daily PC,19.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_006_R11,DS20_006,DS20,Mucus % of daily Rc,110.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment (possibly 110%)"
+DS20_006_R12,DS20_006,DS20,Mucous sheet production,0.6,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_006_R13,DS20_006,DS20,Mucous sheet % of daily PC,190.0,%,n/r,n/r,"Mucus production table, % of daily PC (possibly 190%)"
+DS20_007_R01,DS20_007,DS20,24-h C-productivity (50% PAR),0.45,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_007_R02,DS20_007,DS20,24-h respiration (50% PAR),0.59,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_007_R03,DS20_007,DS20,24-h P/R (50% PAR),0.8,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_007_R04,DS20_007,DS20,Noon P/R (50% PAR),2.27,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_007_R05,DS20_007,DS20,24-h C-productivity (25% PAR),0.26,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_007_R06,DS20_007,DS20,24-h respiration (25% PAR),0.5,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_007_R07,DS20_007,DS20,24-h P/R (25% PAR),0.51,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_007_R08,DS20_007,DS20,Noon P/R (25% PAR),1.47,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_007_R09,DS20_007,DS20,Daily mucus production,0.12,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM without sediment"
+DS20_007_R10,DS20_007,DS20,Mucus % of daily PC,27.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_007_R11,DS20_007,DS20,Mucus % of daily Rc,21.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_007_R12,DS20_007,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_007_R13,DS20_007,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_008_R01,DS20_008,DS20,24-h C-productivity (50% PAR),0.28,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_008_R02,DS20_008,DS20,24-h respiration (50% PAR),0.48,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_008_R03,DS20_008,DS20,24-h P/R (50% PAR),0.58,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_008_R04,DS20_008,DS20,Noon P/R (50% PAR),1.19,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_008_R05,DS20_008,DS20,24-h C-productivity (25% PAR),0.13,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_008_R06,DS20_008,DS20,24-h respiration (25% PAR),0.41,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_008_R07,DS20_008,DS20,24-h P/R (25% PAR),0.31,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_008_R08,DS20_008,DS20,Noon P/R (25% PAR),1.33,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_008_R09,DS20_008,DS20,Daily mucus production,0.25,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM with sediment"
+DS20_008_R10,DS20_008,DS20,Mucus % of daily PC,90.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_008_R11,DS20_008,DS20,Mucus % of daily Rc,53.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment"
+DS20_008_R12,DS20_008,DS20,Mucous sheet production,0.4,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_008_R13,DS20_008,DS20,Mucous sheet % of daily PC,141.0,%,n/r,n/r,"Mucus production table, % of daily PC"
+DS20_009_R01,DS20_009,DS20,24-h C-productivity (50% PAR),0.21,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_009_R02,DS20_009,DS20,24-h respiration (50% PAR),0.21,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_009_R03,DS20_009,DS20,24-h P/R (50% PAR),0.98,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_009_R04,DS20_009,DS20,Noon P/R (50% PAR),2.6,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_009_R05,DS20_009,DS20,24-h C-productivity (25% PAR),0.13,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_009_R06,DS20_009,DS20,24-h respiration (25% PAR),0.21,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_009_R07,DS20_009,DS20,24-h P/R (25% PAR),0.63,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_009_R08,DS20_009,DS20,Noon P/R (25% PAR),1.38,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_009_R09,DS20_009,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available for this species
+DS20_009_R10,DS20_009,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available for this species
+DS20_009_R11,DS20_009,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available for this species
+DS20_009_R12,DS20_009,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available for this species
+DS20_009_R13,DS20_009,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available for this species
+DS20_010_R01,DS20_010,DS20,24-h C-productivity (50% PAR),0.1,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_010_R02,DS20_010,DS20,24-h respiration (50% PAR),0.18,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_010_R03,DS20_010,DS20,24-h P/R (50% PAR),0.53,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_010_R04,DS20_010,DS20,Noon P/R (50% PAR),1.85,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_010_R05,DS20_010,DS20,24-h C-productivity (25% PAR),0.05,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_010_R06,DS20_010,DS20,24-h respiration (25% PAR),0.19,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_010_R07,DS20_010,DS20,24-h P/R (25% PAR),0.25,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_010_R08,DS20_010,DS20,Noon P/R (25% PAR),1.5,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_010_R09,DS20_010,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_010_R10,DS20_010,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_010_R11,DS20_010,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available
+DS20_010_R12,DS20_010,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_010_R13,DS20_010,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_011_R01,DS20_011,DS20,24-h C-productivity (50% PAR),0.16,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_011_R02,DS20_011,DS20,24-h respiration (50% PAR),0.13,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_011_R03,DS20_011,DS20,24-h P/R (50% PAR),1.28,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_011_R04,DS20_011,DS20,Noon P/R (50% PAR),2.71,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_011_R05,DS20_011,DS20,24-h C-productivity (25% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_011_R06,DS20_011,DS20,24-h respiration (25% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_011_R07,DS20_011,DS20,24-h P/R (25% PAR),1.01,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_011_R08,DS20_011,DS20,Noon P/R (25% PAR),2.33,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_011_R09,DS20_011,DS20,Daily mucus production,0.09,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM without sediment"
+DS20_011_R10,DS20_011,DS20,Mucus % of daily PC,58.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_011_R11,DS20_011,DS20,Mucus % of daily Rc,74.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_011_R12,DS20_011,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_011_R13,DS20_011,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_012_R01,DS20_012,DS20,24-h C-productivity (50% PAR),0.11,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_012_R02,DS20_012,DS20,24-h respiration (50% PAR),0.11,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_012_R03,DS20_012,DS20,24-h P/R (50% PAR),1.05,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_012_R04,DS20_012,DS20,Noon P/R (50% PAR),2.8,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_012_R05,DS20_012,DS20,24-h C-productivity (25% PAR),0.05,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_012_R06,DS20_012,DS20,24-h respiration (25% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_012_R07,DS20_012,DS20,24-h P/R (25% PAR),0.41,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_012_R08,DS20_012,DS20,Noon P/R (25% PAR),2.75,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_012_R09,DS20_012,DS20,Daily mucus production,0.09,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM with sediment"
+DS20_012_R10,DS20_012,DS20,Mucus % of daily PC,86.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_012_R11,DS20_012,DS20,Mucus % of daily Rc,91.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment"
+DS20_012_R12,DS20_012,DS20,Mucous sheet production,0.21,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_012_R13,DS20_012,DS20,Mucous sheet % of daily PC,182.0,%,n/r,n/r,"Mucus production table, % of daily PC (possibly 182%)"
+DS20_013_R01,DS20_013,DS20,24-h C-productivity (50% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_013_R02,DS20_013,DS20,24-h respiration (50% PAR),0.13,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_013_R03,DS20_013,DS20,24-h P/R (50% PAR),0.95,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_013_R04,DS20_013,DS20,Noon P/R (50% PAR),1.83,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_013_R05,DS20_013,DS20,24-h C-productivity (25% PAR),0.1,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_013_R06,DS20_013,DS20,24-h respiration (25% PAR),0.15,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_013_R07,DS20_013,DS20,24-h P/R (25% PAR),0.71,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_013_R08,DS20_013,DS20,Noon P/R (25% PAR),3.0,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_013_R09,DS20_013,DS20,Daily mucus production,0.06,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM without sediment"
+DS20_013_R10,DS20_013,DS20,Mucus % of daily PC,50.0,%,n/r,n/r,"Mucus production table, % of daily PC without sediment"
+DS20_013_R11,DS20_013,DS20,Mucus % of daily Rc,47.0,%,n/r,n/r,"Mucus production table, % of daily Rc without sediment"
+DS20_013_R12,DS20_013,DS20,Mucous sheet production,n/a,mg C g-1 day-1,n/r,n/r,Not applicable for control
+DS20_013_R13,DS20_013,DS20,Mucous sheet % of daily PC,n/a,%,n/r,n/r,Not applicable for control
+DS20_014_R01,DS20_014,DS20,24-h C-productivity (50% PAR),0.09,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_014_R02,DS20_014,DS20,24-h respiration (50% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_014_R03,DS20_014,DS20,24-h P/R (50% PAR),0.73,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_014_R04,DS20_014,DS20,Noon P/R (50% PAR),3.0,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_014_R05,DS20_014,DS20,24-h C-productivity (25% PAR),0.06,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_014_R06,DS20_014,DS20,24-h respiration (25% PAR),0.12,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_014_R07,DS20_014,DS20,24-h P/R (25% PAR),0.5,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_014_R08,DS20_014,DS20,Noon P/R (25% PAR),2.0,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_014_R09,DS20_014,DS20,Daily mucus production,0.1,mg C g-1 day-1,n/r,n/r,"Mucus production table, PM with sediment"
+DS20_014_R10,DS20_014,DS20,Mucus % of daily PC,265.0,%,n/r,n/r,"Mucus production table, % of daily PC with sediment"
+DS20_014_R11,DS20_014,DS20,Mucus % of daily Rc,82.0,%,n/r,n/r,"Mucus production table, % of daily Rc with sediment"
+DS20_014_R12,DS20_014,DS20,Mucous sheet production,0.12,mg C g-1 day-1,n/r,n/r,"Mucus production table, mucous sheet with sediment"
+DS20_014_R13,DS20_014,DS20,Mucous sheet % of daily PC,338.0,%,n/r,n/r,"Mucus production table, % of daily PC (possibly 338%)"
+DS20_015_R01,DS20_015,DS20,24-h C-productivity (50% PAR),0.25,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_015_R02,DS20_015,DS20,24-h respiration (50% PAR),0.14,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_015_R03,DS20_015,DS20,24-h P/R (50% PAR),1.7,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_015_R04,DS20_015,DS20,Noon P/R (50% PAR),5.35,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_015_R05,DS20_015,DS20,24-h C-productivity (25% PAR),0.17,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_015_R06,DS20_015,DS20,24-h respiration (25% PAR),0.15,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_015_R07,DS20_015,DS20,24-h P/R (25% PAR),1.11,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_015_R08,DS20_015,DS20,Noon P/R (25% PAR),2.57,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_015_R09,DS20_015,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_015_R10,DS20_015,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_015_R11,DS20_015,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available
+DS20_015_R12,DS20_015,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_015_R13,DS20_015,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_016_R01,DS20_016,DS20,24-h C-productivity (50% PAR),0.13,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_016_R02,DS20_016,DS20,24-h respiration (50% PAR),0.14,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_016_R03,DS20_016,DS20,24-h P/R (50% PAR),0.9,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_016_R04,DS20_016,DS20,Noon P/R (50% PAR),2.2,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_016_R05,DS20_016,DS20,24-h C-productivity (25% PAR),0.07,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_016_R06,DS20_016,DS20,24-h respiration (25% PAR),0.14,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_016_R07,DS20_016,DS20,24-h P/R (25% PAR),0.54,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_016_R08,DS20_016,DS20,Noon P/R (25% PAR),2.4,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_016_R09,DS20_016,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_016_R10,DS20_016,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_016_R11,DS20_016,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available
+DS20_016_R12,DS20_016,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_016_R13,DS20_016,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_017_R01,DS20_017,DS20,24-h C-productivity (50% PAR),0.37,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_017_R02,DS20_017,DS20,24-h respiration (50% PAR),0.29,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_017_R03,DS20_017,DS20,24-h P/R (50% PAR),1.27,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_017_R04,DS20_017,DS20,Noon P/R (50% PAR),1.85,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_017_R05,DS20_017,DS20,24-h C-productivity (25% PAR),0.24,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_017_R06,DS20_017,DS20,24-h respiration (25% PAR),0.23,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_017_R07,DS20_017,DS20,24-h P/R (25% PAR),1.06,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_017_R08,DS20_017,DS20,Noon P/R (25% PAR),1.92,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_017_R09,DS20_017,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_017_R10,DS20_017,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_017_R11,DS20_017,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available
+DS20_017_R12,DS20_017,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_017_R13,DS20_017,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_018_R01,DS20_018,DS20,24-h C-productivity (50% PAR),0.25,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_018_R02,DS20_018,DS20,24-h respiration (50% PAR),0.29,mg C g-1 day-1,n/r,n/r,Integrated table (A) 50% PARS
+DS20_018_R03,DS20_018,DS20,24-h P/R (50% PAR),0.87,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_018_R04,DS20_018,DS20,Noon P/R (50% PAR),1.59,ratio,n/r,n/r,Integrated table (A) 50% PARS
+DS20_018_R05,DS20_018,DS20,24-h C-productivity (25% PAR),0.14,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_018_R06,DS20_018,DS20,24-h respiration (25% PAR),0.25,mg C g-1 day-1,n/r,n/r,Integrated table (B) 25% PARS
+DS20_018_R07,DS20_018,DS20,24-h P/R (25% PAR),0.57,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_018_R08,DS20_018,DS20,Noon P/R (25% PAR),1.77,ratio,n/r,n/r,Integrated table (B) 25% PARS
+DS20_018_R09,DS20_018,DS20,Daily mucus production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_018_R10,DS20_018,DS20,Mucus % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS20_018_R11,DS20_018,DS20,Mucus % of daily Rc,n/r,%,n/r,n/r,Mucus data not available
+DS20_018_R12,DS20_018,DS20,Mucous sheet production,n/r,mg C g-1 day-1,n/r,n/r,Mucus data not available
+DS20_018_R13,DS20_018,DS20,Mucous sheet % of daily PC,n/r,%,n/r,n/r,Mucus data not available
+DS21_005_R01,DS21_005,DS21,Growth rate,8.3,cm/yr,17.0,branches,"Table 'Change in branch length, Extrapolated growth rate, Mean growth rate & s.D.' for Channel A (shaded), period 11-ix to 15-xii-75."
+DS21_006_R01,DS21_006,DS21,Growth rate,8.4,cm/yr,7.0,branches,"Table 'Change in branch length, Extrapolated growth rate, Mean growth rate & s.D.' for Channel B (control), period 22-x to 15-xii-75 (note: Channel B period differs)."
+DS21_007_R01,DS21_007,DS21,Growth rate,0.5,cm/yr,15.0,branches,"Table 'The rate of growth of Acropora cervicornis colonies during the shading experiment, 31st March to 5th May, 1976'; Channel A (shaded) mean growth rate ± s.d."
+DS21_008_R01,DS21_008,DS21,Growth rate,8.0,cm/yr,13.0,branches,"Table 'The rate of growth of Acropora cervicornis colonies during the shading experiment, 31st March to 5th May, 1976'; Channel B (control) mean growth rate ± s.d."
+DS25_002_R01,DS25_002,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2A, Fig. 2B; Controls (FSW only) for stressed sedimentation groups. Results p.67-68. 'None of the fragments...exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 2A).' 'None of the fragments...exposed to seawater only developed tissue loss over the course of the experiment (Fig. 2B).'"
+DS25_001_R01,DS25_001,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2A, Fig. 2B; Controls (FSW only) for sedimentation stress infection trials OCN008 and OCN002. Results p.67-68. 'None of the fragments...exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 2A).' 'None of the fragments...exposed to seawater only developed tissue loss over the course of the experiment (Fig. 2B).' "
+DS25_003_R01,DS25_003,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A, Fig. 1B; Controls (FSW only) for salinity stress infection trials OCN008 and OCN002. Results p.66-67. 'no fragments exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 1A).' 'no fragments exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 1B).'"
+DS25_004_R01,DS25_004,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A, Fig. 1B; Controls (FSW only) for stressed salinity groups (20 ppt for 24h). Results p.66-67. 'no fragments exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 1A).' 'no fragments exposed to FSW only developed tissue loss over the course of the infection trial (Fig. 1B).'"
+DS25_005_R01,DS25_005,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A, Fig. 1B; Controls (FSW only) for salinity stress infection trials OCN008 and OCN002. Already listed, this is a duplicate. The previous setups covered FSW controls. Removing duplicate."
+DS25_006_R01,DS25_006,DS25,infection,n/a,n/a,n/r,n/a,Fig. 1A; Results p.66. 'The high dose (10^8 CFU ml−1) infected 9 out of 12 (75%) fragments in both non-stressed and stressed groups...non-stressed...2.7 ± 0.4 d'
+DS25_007_R01,DS25_007,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A; Results p.66. 'The intermediate dose (10^6 CFU ml−1)...did not infect any fragments in the non-stressed group (Mantel-Cox log-rank test: χ2 = 9.604, df = 1, p = 0.001; Fig. 1A).'"
+DS25_008_R01,DS25_008,DS25,infection,n/a,n/a,n/r,n/a,Fig. 1A; Results p.66. 'The low dose (10^4 CFU ml−1) failed to infect coral fragments in either the stressed or non-stressed groups (Fig. 1A).'
+DS25_009_R01,DS25_009,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1B; Results p.67. 'The high dose infected...5 out of 10 (50%) non-stressed fragments at an average of 28.4 ± 1.3 d (Mantel-Cox log rank test; χ2 = 5.595, df = 1, p = 0.018; Fig. 1B)'"
+DS25_010_R01,DS25_010,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1B; Results p.67. 'The intermediate dose...did not infect any fragments in the non-stressed group (Mantel-Cox log rank test; χ2 = 4.773, df = 1, p = 0.028; Fig. 1B).'"
+DS25_011_R01,DS25_011,DS25,infection,n/a,n/a,n/r,n/a,Fig. 1B; Results p.67. 'The low dose failed to infect any fragments in either the stressed or nonstressed groups (Fig. 1B).'
+DS25_012_R01,DS25_012,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A; Results p.66. 'The high dose (10^8 CFU ml−1) infected 9 out of 12 (75%) fragments in both non-stressed and stressed groups after an average of...stressed...2.5 ± 0.4 d, respectively (Mann-Whitney: W = 97.5, p = 0.309; Fig. 1A).'"
+DS25_013_R01,DS25_013,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1A; Results p.66. 'The intermediate dose (10^6 CFU ml−1) infected 7 out of 12 (58%) stressed fragments after an average of 16.1 ± 0.7 d...Mantel-Cox log-rank test: χ2 = 9.604, df = 1, p = 0.001; Fig. 1A.'"
+DS25_014_R01,DS25_014,DS25,infection,n/a,n/a,n/r,n/a,Fig. 1A; Results p.66. 'The low dose (10^4 CFU ml−1) failed to infect coral fragments in either the stressed or non-stressed groups (Fig. 1A).'
+DS25_015_R01,DS25_015,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1B; Results p.67. 'The high dose infected 8 out of 10 (80%) stressed fragments at an average of 11.9 ± 2.2 d...demonstrating a significant reduction in the average number of days to infection (Mann-Whitney: W = 95.0, p = 0.004).'"
+DS25_016_R01,DS25_016,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 1B; Results p.67. 'The intermediate dose infected 4 out of 10 (40%) stressed fragments after an average of 17.5 ± 0.8 d...Mantel-Cox log rank test; χ2 = 4.773, df = 1, p = 0.028; Fig. 1B.'"
+DS25_017_R01,DS25_017,DS25,infection,n/a,n/a,n/r,n/a,Fig. 1B; Results p.67. 'The low dose failed to infect any fragments in either the stressed or nonstressed groups (Fig. 1B).'
+DS25_018_R01,DS25_018,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2A; Results p.67. 'The high dose infected 8 out of 12 (66%) stressed fragments after an average of 2.3 ± 0.6 d...Mann-Whitney: W = 87.5, p = 0.534; Fig. 2A.'"
+DS25_019_R01,DS25_019,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2A; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or non-stressed groups (Fig. 2A).'
+DS25_020_R01,DS25_020,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2A; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or non-stressed groups (Fig. 2A).'
+DS25_021_R01,DS25_021,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2B; Results p.67. 'The highest dose infected 7 out of 12 (58%) stressed fragments after an average of 23.8 ± 1.4 d...Mantel-Cox logrank test; χ2 = 1.450, p = 0.228; Fig. 2B.'"
+DS25_022_R01,DS25_022,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2B; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or nonstressed groups (Fig. 2B).'
+DS25_023_R01,DS25_023,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2B; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or nonstressed groups (Fig. 2B).'
+DS25_024_R01,DS25_024,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2A; Results p.67. 'The high dose infected...10 out of 12 (83%) of non-stressed fragments after an average of 1.8 ± 0.3 d (Mann-Whitney: W = 87.5, p = 0.534; Fig. 2A).'"
+DS25_025_R01,DS25_025,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2A; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or non-stressed groups (Fig. 2A).'
+DS25_026_R01,DS25_026,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2A; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or non-stressed groups (Fig. 2A).'
+DS25_027_R01,DS25_027,DS25,infection,n/a,n/a,n/r,n/a,"Fig. 2B; Results p.67. 'The highest dose infected...6 out of 12 (50%) of non-stressed fragments after an average of 27.2 ± 1.6 d (Mantel-Cox logrank test; χ2 = 1.450, p = 0.228; Fig. 2B).'"
+DS25_028_R01,DS25_028,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2B; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or nonstressed groups (Fig. 2B).'
+DS25_029_R01,DS25_029,DS25,infection,n/a,n/a,n/r,n/a,Fig. 2B; Results p.67. 'The intermediate dose and the lowest dose failed to infect any coral fragments in either the stressed or nonstressed groups (Fig. 2B).'
+DS28_007_R01,DS28_007,DS28,Growth rate,n/r,% month^-1,n/r,n/r,Growth rate not available for field controls (weather prevented redeployment of weighed corals).
+DS28_002_R01,DS28_002,DS28,Growth rate,3.1,% month^-1,12.0,fragments,"Table 1, Filtered/High-flow"
+DS28_002_R02,DS28_002,DS28,Energy stores,6.9,mg cm^-2,11.0,fragments,"Table 1, Filtered/High-flow"
+DS28_002_R03,DS28_002,DS28,Maximum quantum yield (Fv/Fm),0.61,dimensionless,33.0,fragments,"Table 1, Filtered/High-flow"
+DS28_004_R01,DS28_004,DS28,Growth rate,3.9,% month^-1,11.0,fragments,"Table 1, Low-sediment/High-flow"
+DS28_004_R02,DS28_004,DS28,Energy stores,8.0,mg cm^-2,11.0,fragments,"Table 1, Low-sediment/High-flow"
+DS28_004_R03,DS28_004,DS28,Maximum quantum yield (Fv/Fm),0.59,dimensionless,36.0,fragments,"Table 1, Low-sediment/High-flow"
+DS28_006_R01,DS28_006,DS28,Growth rate,3.5,% month^-1,11.0,fragments,"Table 1, High-sediment/High-flow"
+DS28_006_R02,DS28_006,DS28,Energy stores,7.6,mg cm^-2,12.0,fragments,"Table 1, High-sediment/High-flow"
+DS28_006_R03,DS28_006,DS28,Maximum quantum yield (Fv/Fm),0.59,dimensionless,33.0,fragments,"Table 1, High-sediment/High-flow"
+DS43_001_R01,DS43_001,DS43,Tissue damage score,1.6,score,5.0,n/r,"Table, After 2 wk three times per day sediment with food, Symbiotic Controls"
+DS43_002_R01,DS43_002,DS43,Tissue damage score,2.4,score,5.0,n/r,"Table, After 2 wk three times per day sediment with food, Symbiotic Sediment"
+DS43_003_R01,DS43_003,DS43,Tissue damage score,1.8,score,5.0,n/r,"Table, After 2 wk three times per day sediment with food, Asymbiotic Controls"
+DS43_004_R01,DS43_004,DS43,Tissue damage score,2.5,score,7.0,n/r,"Table, After 2 wk three times per day sediment with food, Asymbiotic Sediment"
+DS43_005_R01,DS43_005,DS43,Tissue damage score,1.5,score,5.0,n/r,"Table, After 2 wk three times per day sediment no food, Symbiotic Controls"
+DS43_006_R01,DS43_006,DS43,Tissue damage score,3.8,score,9.0,n/r,"Table, After 2 wk three times per day sediment no food, Symbiotic Sediment"
+DS43_007_R01,DS43_007,DS43,Tissue damage score,2.4,score,5.0,n/r,"Table, After 2 wk three times per day sediment no food, Asymbiotic Controls"
+DS43_008_R01,DS43_008,DS43,Tissue damage score,3.4,score,5.0,n/r,"Table, After 2 wk three times per day sediment no food, Asymbiotic Sediment"
+SS04_001_R02,SS04_001,SS04,colour index,colour index,dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_001_R03,SS04_001,SS04,maximum quantum yield,maximum quantum yield (Fv/Fm),dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_001_R04,SS04_001,SS04,chlorophyll a concentration,chlorophyll a concentration,μg gdw^-1,n/a,n/a,"text p.165, Fig. 5"
+SS04_002_R02,SS04_002,SS04,colour index,colour index,dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_002_R03,SS04_002,SS04,maximum quantum yield,maximum quantum yield (Fv/Fm),dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_002_R04,SS04_002,SS04,chlorophyll a concentration,chlorophyll a concentration,μg gdw^-1,n/a,n/a,"text p.165, Fig. 5"
+SS04_003_R02,SS04_003,SS04,colour index,colour index,dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_003_R03,SS04_003,SS04,maximum quantum yield,maximum quantum yield (Fv/Fm),dimensionless,n/a,n/a,"text p.164, Fig. 4"
+SS04_003_R04,SS04_003,SS04,chlorophyll a concentration,chlorophyll a concentration,μg gdw^-1,n/a,n/a,"text p.165, Fig. 5"
+SS05_002_R04,SS05_002,SS05,Maximum quantum yield,0.56,dimensionless,24.0,fragments,"Table 1, Treatment 2 Low sediment, Merulina"
+SS05_006_R04,SS05_006,SS05,Maximum quantum yield,0.52,dimensionless,24.0,fragments,"Table 1, Treatment 2 Low sediment, Pachyseris"
+SS05_003_R04,SS05_003,SS05,Maximum quantum yield,0.55,dimensionless,24.0,fragments,"Table 1, Treatment 3 Medium sediment, Merulina"
+SS05_007_R04,SS05_007,SS05,Maximum quantum yield,0.56,dimensionless,24.0,fragments,"Table 1, Treatment 3 Medium sediment, Pachyseris"
+SS05_004_R04,SS05_004,SS05,Maximum quantum yield,0.57,dimensionless,24.0,fragments,"Table 1, Treatment 4 High sediment, Merulina"
+SS05_008_R04,SS05_008,SS05,Maximum quantum yield,0.61,dimensionless,24.0,fragments,"Table 1, Treatment 4 High sediment, Pachyseris"
+SS05_001_R04,SS05_001,SS05,Maximum quantum yield,0.57,dimensionless,24.0,fragments,"Table 1, Treatment 1 Baseline, Merulina"
+SS05_005_R04,SS05_005,SS05,Maximum quantum yield,0.53,dimensionless,24.0,fragments,"Table 1, Treatment 1 Baseline, Pachyseris"
+SS05_010_R04,SS05_010,SS05,Maximum quantum yield,0.6,dimensionless,24.0,fragments,"Table 1, Treatment 2 Low sediment, Platygyra"
+SS05_011_R04,SS05_011,SS05,Maximum quantum yield,0.58,dimensionless,24.0,fragments,"Table 1, Treatment 3 Medium sediment, Platygyra"
+SS05_012_R04,SS05_012,SS05,Maximum quantum yield,0.65,dimensionless,24.0,fragments,"Table 1, Treatment 4 High sediment, Platygyra"
+SS05_009_R04,SS05_009,SS05,Maximum quantum yield,0.59,dimensionless,24.0,fragments,"Table 1, Treatment 1 Baseline, Platygyra"
+SS06_001_R01,SS06_001,SS06,Net photosynthesis,0.59,µmol O2 cm-2 h-1,4.0,fragments,Baseline mean reported in Results section: 'The mean net photosynthesis rate prior to sediment exposure was 0.59 ± 0.04 for Merulina'.
+SS06_001_R02,SS06_001,SS06,Respiration,0.99,µmol O2 cm-2 h-1,4.0,fragments,Baseline respiration rate: 'the respiration rates of Merulina (0.99 μmol O2 cm−2 h−1)'.
+SS06_002_R03,SS06_002,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,Yield declined significantly by week 8 (p=0.001) but exact mean not reported; see Fig. 3.
+SS06_003_R03,SS06_003,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,Yield gradually declined but recovered to pre-exposure levels by week 11; exact mean not reported.
+SS06_004_R03,SS06_004,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,Yield declined significantly by week 8 (p<0.01) but exact mean not reported.
+SS06_005_R01,SS06_005,SS06,Net photosynthesis,n/r,µmol O2 cm-2 h-1,5.0,fragments,Significant decline by week 4 (p<0.014) and further at week 8; exact values not reported.
+SS06_005_R02,SS06_005,SS06,Respiration,2.0,µmol O2 cm-2 h-1,5.0,fragments,Respiration increased significantly by week 8; text states >2 μmol O2 cm-2 h-1. Approximated as 2.0.
+SS06_006_R01,SS06_006,SS06,Net photosynthesis,0.45,µmol O2 cm-2 h-1,4.0,fragments,Baseline mean: '...0.45 ± 0.04 for Pachyseris'.
+SS06_006_R02,SS06_006,SS06,Respiration,0.46,µmol O2 cm-2 h-1,4.0,fragments,Baseline respiration: 'Pachyseris had the lowest baseline respiration rate (0.46 μmol O2 cm−2 h−1)'.
+SS06_007_R03,SS06_007,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,Yield increased during exposure but exact mean not reported.
+SS06_008_R03,SS06_008,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,"Yield increased during exposure, then declined; exact mean not reported."
+SS06_009_R03,SS06_009,SS06,Maximum photosynthetic yield,n/r,Fv/Fm (dimensionless),5.0,fragments,Yield increased during exposure then declined below baseline; exact mean not reported.
+SS06_010_R01,SS06_010,SS06,Net photosynthesis,n/r,µmol O2 cm-2 h-1,5.0,fragments,Significant decline by week 4; exact value not reported.
+SS06_010_R02,SS06_010,SS06,Respiration,n/r,µmol O2 cm-2 h-1,5.0,fragments,"Significantly higher by week 8, but exact value not reported."
+SS06_011_R01,SS06_011,SS06,Net photosynthesis,1.08,µmol O2 cm-2 h-1,4.0,fragments,Baseline mean: '...1.08 ± 0.03 for Platygyra'.
+SS06_011_R02,SS06_011,SS06,Respiration,0.85,µmol O2 cm-2 h-1,4.0,fragments,Baseline respiration: 'Platygyra (0.85 μmol O2 cm−2 h−1)'.
+SS06_015_R01,SS06_015,SS06,Net photosynthesis,n/r,µmol O2 cm-2 h-1,5.0,fragments,Significant decline by week 4 (p<0.014); exact value not reported.
+SS06_015_R02,SS06_015,SS06,Respiration,2.5,µmol O2 cm-2 h-1,5.0,fragments,Respiration significantly increased by week 4 (p=0.002) and week 8; ~2.5 μmol O2 cm−2 h−1.
+SS12_001_R01,SS12_001,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_001_R02,SS12_001,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_001_R03,SS12_001,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_001_R04,SS12_001,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_001_R05,SS12_001,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_001_R06,SS12_001,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_002_R01,SS12_002,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_002_R02,SS12_002,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_002_R03,SS12_002,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_002_R04,SS12_002,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_002_R05,SS12_002,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_002_R06,SS12_002,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_003_R01,SS12_003,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_003_R02,SS12_003,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_003_R03,SS12_003,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_003_R04,SS12_003,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_003_R05,SS12_003,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_003_R06,SS12_003,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_004_R01,SS12_004,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_004_R02,SS12_004,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_004_R03,SS12_004,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_004_R04,SS12_004,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_004_R05,SS12_004,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_004_R06,SS12_004,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_005_R01,SS12_005,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_005_R02,SS12_005,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_005_R03,SS12_005,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_005_R04,SS12_005,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_005_R05,SS12_005,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_005_R06,SS12_005,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_006_R01,SS12_006,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_006_R02,SS12_006,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_006_R03,SS12_006,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_006_R04,SS12_006,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_006_R05,SS12_006,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_006_R06,SS12_006,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_007_R01,SS12_007,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_007_R02,SS12_007,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_007_R03,SS12_007,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_007_R04,SS12_007,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_007_R05,SS12_007,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_007_R06,SS12_007,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_008_R01,SS12_008,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_008_R02,SS12_008,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_008_R03,SS12_008,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_008_R04,SS12_008,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_008_R05,SS12_008,SS12,respiration,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_008_R06,SS12_008,SS12,net photosynthesis,0,"n/r (O2 flux measured, but values not reported)",n/r,n/r,Fig. 5; Table 3; Section 3.3
+SS12_009_R01,SS12_009,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_009_R02,SS12_009,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_009_R03,SS12_009,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_009_R04,SS12_009,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_009_R05,SS12_009,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_009_R06,SS12_009,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_010_R01,SS12_010,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_010_R02,SS12_010,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_010_R03,SS12_010,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_010_R04,SS12_010,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_010_R05,SS12_010,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_010_R06,SS12_010,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_011_R01,SS12_011,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_011_R02,SS12_011,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_011_R03,SS12_011,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_011_R04,SS12_011,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_011_R05,SS12_011,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_011_R06,SS12_011,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_012_R01,SS12_012,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_012_R02,SS12_012,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_012_R03,SS12_012,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_012_R04,SS12_012,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_012_R05,SS12_012,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_012_R06,SS12_012,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_013_R01,SS12_013,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_013_R02,SS12_013,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_013_R03,SS12_013,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_013_R04,SS12_013,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_013_R05,SS12_013,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_013_R06,SS12_013,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_014_R01,SS12_014,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_014_R02,SS12_014,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_014_R03,SS12_014,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_014_R04,SS12_014,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_014_R05,SS12_014,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_014_R06,SS12_014,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_015_R01,SS12_015,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),2.0,n/r,Fig. 1; Section 3.1
+SS12_015_R02,SS12_015,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_015_R03,SS12_015,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_015_R04,SS12_015,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_015_R05,SS12_015,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_015_R06,SS12_015,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_016_R01,SS12_016,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),2.0,n/r,Fig. 1; Section 3.1
+SS12_016_R02,SS12_016,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_016_R03,SS12_016,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_016_R04,SS12_016,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_016_R05,SS12_016,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_016_R06,SS12_016,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_017_R01,SS12_017,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_017_R02,SS12_017,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_017_R03,SS12_017,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_017_R04,SS12_017,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_017_R05,SS12_017,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_017_R06,SS12_017,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_018_R01,SS12_018,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_018_R02,SS12_018,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_018_R03,SS12_018,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_018_R04,SS12_018,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_018_R05,SS12_018,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_018_R06,SS12_018,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_019_R01,SS12_019,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_019_R02,SS12_019,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_019_R03,SS12_019,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_019_R04,SS12_019,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_019_R05,SS12_019,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_019_R06,SS12_019,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_020_R01,SS12_020,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_020_R02,SS12_020,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_020_R03,SS12_020,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_020_R04,SS12_020,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_020_R05,SS12_020,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_020_R06,SS12_020,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_021_R01,SS12_021,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_021_R02,SS12_021,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_021_R03,SS12_021,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_021_R04,SS12_021,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_021_R05,SS12_021,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_021_R06,SS12_021,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_022_R01,SS12_022,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_022_R02,SS12_022,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_022_R03,SS12_022,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_022_R04,SS12_022,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_022_R05,SS12_022,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_022_R06,SS12_022,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_023_R01,SS12_023,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_023_R02,SS12_023,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_023_R03,SS12_023,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_023_R04,SS12_023,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_023_R05,SS12_023,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_023_R06,SS12_023,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_024_R01,SS12_024,SS12,survivorship,0,% alive after 40 days relative to day 1 (tank average ± s.e.),n/r,n/r,Fig. 1; Section 3.1
+SS12_024_R02,SS12_024,SS12,growth,0,proportional change in area (ΔS = (St2 - St1)/St1),n/r,n/r,Fig. 2; Section 3.1
+SS12_024_R03,SS12_024,SS12,effective quantum yield,0,ΔF/Fm',n/r,n/r,Fig. 4; Table 2; Section 3.2
+SS12_024_R04,SS12_024,SS12,maximum quantum yield,0,Fv/Fm,n/r,n/r,Table 2; Section 3.2
+SS12_024_R05,SS12_024,SS12,respiration,0,n/r (not measured in this species),n/r,n/r,Section 3.3
+SS12_024_R06,SS12_024,SS12,net photosynthesis,0,n/r (not measured in this species),n/r,n/r,Section 3.3

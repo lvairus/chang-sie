@@ -1,0 +1,754 @@
+response_id,setup_id,RefID,Response type,Response level,Unit of measurement,N for computing average,N UoM,Source of data
+DS04_001_R01,DS04_001,DS04,Sediment accumulation rate,1.5,mg cm9,2.0,mg,Fig. 5A
+DS04_001_R02,DS04_001,DS04,% sediment cover,1.5,%,2.0,percent,Fig. 5A
+DS04_001_R03,DS04_001,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 5A
+DS04_001_R04,DS04_001,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_001_R05,DS04_001,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_001_R06,DS04_001,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 4A
+DS04_001_R07,DS04_001,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_001_R08,DS04_001,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_001_R09,DS04_001,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 4A
+DS04_001_R10,DS04_001,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_001_R11,DS04_001,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_001_R12,DS04_001,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R13,DS04_001,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_001_R14,DS04_001,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R15,DS04_001,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_001_R16,DS04_001,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R17,DS04_001,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_001_R18,DS04_001,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R19,DS04_001,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_001_R20,DS04_001,DS04,Sediment accumulation rate,1.1,mg cm9,2.0,mg,Fig. 3A
+DS04_001_R21,DS04_001,DS04,% sediment cover,1.1,%,2.0,percent,Fig. 3A
+DS04_001_R22,DS04_001,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Fig. 5A
+DS04_001_R23,DS04_001,DS04,% sediment cover,1.1,%,2.0,percent,Fig. 5A
+DS04_001_R24,DS04_001,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 5A
+DS04_001_R25,DS04_001,DS04,Sediment accumulation rate,5.1,mg cm9,2.0,mg,Fig. 3A
+DS04_001_R26,DS04_001,DS04,% sediment cover,5.1,%,2.0,percent,Fig. 3A
+DS04_001_R27,DS04_001,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R28,DS04_001,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_001_R29,DS04_001,DS04,Sediment accumulation rate,9.3,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R30,DS04_001,DS04,% sediment cover,9.3,%,2.0,percent,Fig. 3A
+DS04_001_R31,DS04_001,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R32,DS04_001,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_001_R33,DS04_001,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_001_R34,DS04_001,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_001_R35,DS04_001,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_001_R36,DS04_001,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_001_R37,DS04_001,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 4A
+DS04_001_R38,DS04_001,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_001_R39,DS04_001,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_002_R01,DS04_002,DS04,Sediment accumulation rate,2.2,mg cm9,2.0,mg,Fig. 5A
+DS04_002_R02,DS04_002,DS04,% sediment cover,2.2,%,2.0,percent,Fig. 5A
+DS04_002_R03,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 5A
+DS04_002_R04,DS04_002,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R05,DS04_002,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_002_R06,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R07,DS04_002,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R08,DS04_002,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_002_R09,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R10,DS04_002,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_002_R11,DS04_002,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_002_R12,DS04_002,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R13,DS04_002,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_002_R14,DS04_002,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R15,DS04_002,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_002_R16,DS04_002,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R17,DS04_002,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_002_R18,DS04_002,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R19,DS04_002,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_002_R20,DS04_002,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R21,DS04_002,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_002_R22,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R23,DS04_002,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R24,DS04_002,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_002_R25,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R26,DS04_002,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_002_R27,DS04_002,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_002_R28,DS04_002,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R29,DS04_002,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_002_R30,DS04_002,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R31,DS04_002,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_002_R32,DS04_002,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R33,DS04_002,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_002_R34,DS04_002,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R35,DS04_002,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_002_R36,DS04_002,DS04,Sediment accumulation rate,1.1,mg cm9,2.0,mg,Fig. 3A
+DS04_002_R37,DS04_002,DS04,% sediment cover,1.1,%,2.0,percent,Fig. 3A
+DS04_002_R38,DS04_002,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Fig. 5A
+DS04_002_R39,DS04_002,DS04,% sediment cover,1.1,%,2.0,percent,Fig. 5A
+DS04_002_R40,DS04_002,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 5A
+DS04_002_R41,DS04_002,DS04,Sediment accumulation rate,5.1,mg cm9,2.0,mg,Fig. 3A
+DS04_002_R42,DS04_002,DS04,% sediment cover,5.1,%,2.0,percent,Fig. 3A
+DS04_002_R43,DS04_002,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R44,DS04_002,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_002_R45,DS04_002,DS04,Sediment accumulation rate,9.3,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R46,DS04_002,DS04,% sediment cover,9.3,%,2.0,percent,Fig. 3A
+DS04_002_R47,DS04_002,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R48,DS04_002,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_002_R49,DS04_002,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R50,DS04_002,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_002_R51,DS04_002,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R52,DS04_002,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_002_R53,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R54,DS04_002,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_002_R55,DS04_002,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_002_R56,DS04_002,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_002_R57,DS04_002,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_002_R58,DS04_002,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_002_R59,DS04_002,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R60,DS04_002,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_002_R61,DS04_002,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R62,DS04_002,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_002_R63,DS04_002,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R64,DS04_002,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_002_R65,DS04_002,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_002_R66,DS04_002,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_002_R67,DS04_002,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_002_R68,DS04_002,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_003_R01,DS04_003,DS04,Sediment accumulation rate,1.5,mg cm9,2.0,mg,Fig. 5A
+DS04_003_R02,DS04_003,DS04,% sediment cover,1.5,%,2.0,percent,Fig. 5A
+DS04_003_R03,DS04_003,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 5A
+DS04_003_R04,DS04_003,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_003_R05,DS04_003,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_003_R06,DS04_003,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_003_R07,DS04_003,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_003_R08,DS04_003,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_003_R09,DS04_003,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_003_R10,DS04_003,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_003_R11,DS04_003,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_003_R12,DS04_003,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_003_R13,DS04_003,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_003_R14,DS04_003,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R15,DS04_003,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_003_R16,DS04_003,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R17,DS04_003,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_003_R18,DS04_003,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R19,DS04_003,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_003_R20,DS04_003,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R21,DS04_003,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_003_R22,DS04_003,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_003_R23,DS04_003,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_003_R24,DS04_003,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_003_R25,DS04_003,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_003_R26,DS04_003,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_003_R27,DS04_003,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_003_R28,DS04_003,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_003_R29,DS04_003,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_003_R30,DS04_003,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_003_R31,DS04_003,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_003_R32,DS04_003,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R33,DS04_003,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_003_R34,DS04_003,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R35,DS04_003,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_003_R36,DS04_003,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R37,DS04_003,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_003_R38,DS04_003,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_003_R39,DS04_003,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_003_R40,DS04_003,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_003_R41,DS04_003,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_004_R01,DS04_004,DS04,Sediment accumulation rate,2.2,mg cm9,2.0,mg,Fig. 5A
+DS04_004_R02,DS04_004,DS04,% sediment cover,2.2,%,2.0,percent,Fig. 5A
+DS04_004_R03,DS04_004,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 5A
+DS04_004_R04,DS04_004,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_004_R05,DS04_004,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_004_R06,DS04_004,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_004_R07,DS04_004,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_004_R08,DS04_004,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_004_R09,DS04_004,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_004_R10,DS04_004,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_004_R11,DS04_004,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_004_R12,DS04_004,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_004_R13,DS04_004,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_004_R14,DS04_004,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R15,DS04_004,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_004_R16,DS04_004,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R17,DS04_004,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_004_R18,DS04_004,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R19,DS04_004,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_004_R20,DS04_004,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R21,DS04_004,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_004_R22,DS04_004,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_004_R23,DS04_004,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_004_R24,DS04_004,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_004_R25,DS04_004,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_004_R26,DS04_004,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_004_R27,DS04_004,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_004_R28,DS04_004,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_004_R29,DS04_004,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_004_R30,DS04_004,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_004_R31,DS04_004,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_004_R32,DS04_004,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R33,DS04_004,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_004_R34,DS04_004,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R35,DS04_004,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_004_R36,DS04_004,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R37,DS04_004,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_004_R38,DS04_004,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_004_R39,DS04_004,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_004_R40,DS04_004,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_004_R41,DS04_004,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_005_R01,DS04_005,DS04,Sediment accumulation rate,2.2,mg cm9,2.0,mg,Fig. 5A
+DS04_005_R02,DS04_005,DS04,% sediment cover,2.2,%,2.0,percent,Fig. 5A
+DS04_005_R03,DS04_005,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 5A
+DS04_005_R04,DS04_005,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_005_R05,DS04_005,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_005_R06,DS04_005,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_005_R07,DS04_005,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_005_R08,DS04_005,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_005_R09,DS04_005,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_005_R10,DS04_005,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_005_R11,DS04_005,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_005_R12,DS04_005,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_005_R13,DS04_005,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_005_R14,DS04_005,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R15,DS04_005,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_005_R16,DS04_005,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R17,DS04_005,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_005_R18,DS04_005,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R19,DS04_005,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_005_R20,DS04_005,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R21,DS04_005,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_005_R22,DS04_005,DS04,Sediment accumulation rate,19.3,mg cm9,2.0,mg,Fig. 4A
+DS04_005_R23,DS04_005,DS04,% sediment cover,19.3,%,2.0,percent,Fig. 4A
+DS04_005_R24,DS04_005,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_005_R25,DS04_005,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_005_R26,DS04_005,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_005_R27,DS04_005,DS04,Self-cleaning index (SCI),0.7,dimensionless,n/r,n/r,Fig. 4A
+DS04_005_R28,DS04_005,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_005_R29,DS04_005,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_005_R30,DS04_005,DS04,Sediment accumulation rate,1.1,mg cm9,n/r,n/r,Figs.
+DS04_005_R31,DS04_005,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_005_R32,DS04_005,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R33,DS04_005,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_005_R34,DS04_005,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R35,DS04_005,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_005_R36,DS04_005,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R37,DS04_005,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_005_R38,DS04_005,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_005_R39,DS04_005,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_005_R40,DS04_005,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_005_R41,DS04_005,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_006_R01,DS04_006,DS04,Sediment accumulation rate,1.5,mg cm9,2.0,mg,Fig. 5A
+DS04_006_R02,DS04_006,DS04,% sediment cover,1.5,%,2.0,percent,Fig. 5A
+DS04_006_R03,DS04_006,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 5A
+DS04_006_R04,DS04_006,DS04,Sediment accumulation rate,9.0,mg cm9,2.0,mg,Fig. 4A
+DS04_006_R05,DS04_006,DS04,% sediment cover,9.0,%,2.0,percent,Fig. 4A
+DS04_006_R06,DS04_006,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 4A
+DS04_006_R07,DS04_006,DS04,Sediment accumulation rate,17.0,mg cm9,2.0,mg,Fig. 4A
+DS04_006_R08,DS04_006,DS04,% sediment cover,17.0,%,2.0,percent,Fig. 4A
+DS04_006_R09,DS04_006,DS04,Self-cleaning index (SCI),0.6,dimensionless,n/r,n/r,Fig. 4A
+DS04_006_R10,DS04_006,DS04,Sediment accumulation rate,0.6,mg cm9,2.0,mg,Fig. 3A
+DS04_006_R11,DS04_006,DS04,% sediment cover,0.6,%,2.0,percent,Fig. 3A
+DS04_006_R12,DS04_006,DS04,Sediment accumulation rate,2.4,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R13,DS04_006,DS04,% sediment cover,2.4,%,2.0,percent,Fig. 3A
+DS04_006_R14,DS04_006,DS04,Sediment accumulation rate,8.0,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R15,DS04_006,DS04,% sediment cover,8.0,%,2.0,percent,Fig. 3A
+DS04_006_R16,DS04_006,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R17,DS04_006,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_006_R18,DS04_006,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R19,DS04_006,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_006_R20,DS04_006,DS04,Sediment accumulation rate,1.1,mg cm9,2.0,mg,Figs.
+DS04_006_R21,DS04_006,DS04,% sediment cover,1.1,%,2.0,percent,Figs.
+DS04_006_R22,DS04_006,DS04,Sediment accumulation rate,5.1,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R23,DS04_006,DS04,% sediment cover,5.1,%,2.0,percent,Fig. 3A
+DS04_006_R24,DS04_006,DS04,Sediment accumulation rate,9.3,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R25,DS04_006,DS04,% sediment cover,9.3,%,2.0,percent,Fig. 3A
+DS04_006_R26,DS04_006,DS04,Sediment accumulation rate,18.2,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R27,DS04_006,DS04,% sediment cover,18.2,%,2.0,percent,Fig. 3A
+DS04_006_R28,DS04_006,DS04,Sediment accumulation rate,37.9,mg cm9,n/r,n/r,Fig. 3A
+DS04_006_R29,DS04_006,DS04,% sediment cover,37.9,%,2.0,percent,Fig. 3A
+DS04_006_R30,DS04_006,DS04,Sediment accumulation rate,235.0,mg cm9 d9,2.0,mg,Fig. 6A
+DS04_006_R31,DS04_006,DS04,% sediment cover,235.0,%,2.0,percent,Fig. 6A
+DS04_006_R32,DS04_006,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_006_R33,DS04_006,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS04_007_R01,DS04_007,DS04,Sediment accumulation rate,30.0,mg cm9,2.0,mg,Fig. 6B
+DS04_007_R02,DS04_007,DS04,% sediment cover,30.0,%,2.0,percent,Fig. 6B
+DS04_007_R03,DS04_007,DS04,Quantum yield decrease after sediment removal,n/r,n/r,n/r,mg,Text and Fig. 7
+DS04_007_R04,DS04_007,DS04,Sediment rejection,n/r,n/r,n/r,mg,Text and Figs. 5 and 6
+DS16_001_R01,DS16_001,DS16,Fv/Fm,0.71-0.1,n/r,4.0,n/r,"PAM chlorophyll fluorometry, Table 2 and Fig. 3A"
+DS16_001_R02,DS16_001,DS16,Zooxanthellae density,1.5-4.1e+06,cells cm-2,4.0,cells cm-2,Table 2 and Fig. 3B
+DS16_001_R03,DS16_001,DS16,Chlorophyll a and c2 concentration,1.3-8.6,mg cm-2,4.0,mg cm-2,Table 2 and Fig. 3C
+DS16_002_R01,DS16_002,DS16,DF/F mV,n/r,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 7"
+DS16_003_R01,DS16_003,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_004_R01,DS16_004,DS16,DF/F mV,0.63-0.73,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_005_R01,DS16_005,DS16,DF/F mV,0.63-0.73,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_006_R01,DS16_006,DS16,DF/F mV,0.63-0.73,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_007_R01,DS16_007,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_008_R01,DS16_008,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_009_R01,DS16_009,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_010_R01,DS16_010,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_011_R01,DS16_011,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_012_R01,DS16_012,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_013_R01,DS16_013,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS16_014_R01,DS16_014,DS16,DF/F mV,0.5-0.7,n/r,1.0,n/r,"PAM chlorophyll fluorometry, Fig. 8"
+DS25_001_R01,DS25_001,DS25,Survival rate,58%,%,12,n/r,Fig. 2B
+DS25_001_R02,DS25_001,DS25,Time to infection,27.2 ± 1.6,days,12,n/r,Fig. 2B
+DS25_002_R01,DS25_002,DS25,Survival rate,75%,%,12,n/r,Fig. 1A
+DS25_002_R02,DS25_002,DS25,Time to infection,2.5 ± 0.4,days,12,n/r,Fig. 1A
+DS02_001_R01,DS02_001,DS02,settlement,71%,%,92,n/r,Table 2. A. Settlement
+DS02_002_R01,DS02_002,DS02,settlement,71%,%,92,n/r,Table 2. A. Settlement
+SS04_001_R01,SS04_001,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_001_R02,SS04_001,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_001_R03,SS04_001,SS04,Chl a ( µg/gdw),6.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_001_R04,SS04_001,SS04,Colour Index,0.71,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_002_R01,SS04_002,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_002_R02,SS04_002,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_002_R03,SS04_002,SS04,Chl a ( µg/gdw),6.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_002_R04,SS04_002,SS04,Colour Index,0.71,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_003_R01,SS04_003,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_003_R02,SS04_003,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_003_R03,SS04_003,SS04,Chl a ( µg/gdw),6.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_003_R04,SS04_003,SS04,Colour Index,0.71,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_004_R01,SS04_004,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_004_R02,SS04_004,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_004_R03,SS04_004,SS04,Chl a ( µg/gdw),5.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_004_R04,SS04_004,SS04,Colour Index,0.63,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_005_R01,SS04_005,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_005_R02,SS04_005,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_005_R03,SS04_005,SS04,Chl a ( µg/gdw),5.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_005_R04,SS04_005,SS04,Colour Index,0.63,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_006_R01,SS04_006,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_006_R02,SS04_006,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_006_R03,SS04_006,SS04,Chl a ( µg/gdw),5.9,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_006_R04,SS04_006,SS04,Colour Index,0.63,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_007_R01,SS04_007,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_007_R02,SS04_007,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_007_R03,SS04_007,SS04,Chl a ( µg/gdw),5.6,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_007_R04,SS04_007,SS04,Colour Index,0.65,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_008_R01,SS04_008,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_008_R02,SS04_008,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_008_R03,SS04_008,SS04,Chl a ( µg/gdw),5.6,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_008_R04,SS04_008,SS04,Colour Index,0.65,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_009_R01,SS04_009,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_009_R02,SS04_009,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_009_R03,SS04_009,SS04,Chl a ( µg/gdw),5.6,µg/gdw,0,mg/cm2/day,Table 2 SEM Tables S5
+SS04_009_R04,SS04_009,SS04,Colour Index,0.65,status,0,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_010_R01,SS04_010,SS04,N,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_010_R02,SS04_010,SS04,Sediment concentration,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_010_R03,SS04_010,SS04,Chl a ( µg/gdw),6.9,µg/gdw,30,mg/cm2/day,Table 2 SEM Tables S5
+SS04_010_R04,SS04_010,SS04,Colour Index,0.71,status,30,mg/cm2/day,"Table 1, SEM Table S3"
+SS04_011_R01,SS04_011,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_011_R02,SS04_011,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_011_R03,SS04_011,SS04,Chl a ( µg/gdw),2.9,µg/gdw,0,mg/cm2/day,Table 5
+SS04_011_R04,SS04_011,SS04,Colour Index,0.47,status,0,mg/cm2/day,Table 4
+SS04_012_R01,SS04_012,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_012_R02,SS04_012,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_012_R03,SS04_012,SS04,Chl a ( µg/gdw),2.1,µg/gdw,0,mg/cm2/day,Table 5
+SS04_012_R04,SS04_012,SS04,Colour Index,0.35,status,0,mg/cm2/day,Table 4
+SS04_013_R01,SS04_013,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_013_R02,SS04_013,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_013_R03,SS04_013,SS04,Chl a ( µg/gdw),2.9,µg/gdw,0,mg/cm2/day,Table 5
+SS04_013_R04,SS04_013,SS04,Colour Index,0.68,status,0,mg/cm2/day,Table 4
+SS04_014_R01,SS04_014,SS04,N,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_014_R02,SS04_014,SS04,Sediment concentration,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_014_R03,SS04_014,SS04,Chl a ( µg/gdw),2.9,µg/gdw,30,mg/cm2/day,Table 5
+SS04_014_R04,SS04_014,SS04,Colour Index,0.68,status,30,mg/cm2/day,Table 4
+SS04_015_R01,SS04_015,SS04,N,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_015_R02,SS04_015,SS04,Sediment concentration,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_015_R03,SS04_015,SS04,Chl a ( µg/gdw),2.9,µg/gdw,30,mg/cm2/day,Table 5
+SS04_015_R04,SS04_015,SS04,Colour Index,0.47,status,30,mg/cm2/day,Table 4
+SS04_016_R01,SS04_016,SS04,N,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_016_R02,SS04_016,SS04,Sediment concentration,n/r,mg/L,30,mg/cm2/day,Exposure
+SS04_016_R03,SS04_016,SS04,Chl a ( µg/gdw),2.9,µg/gdw,30,mg/cm2/day,Table 5
+SS04_016_R04,SS04_016,SS04,Colour Index,0.35,status,30,mg/cm2/day,Table 4
+SS04_017_R01,SS04_017,SS04,N,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_017_R02,SS04_017,SS04,Sediment concentration,n/r,mg/L,0,mg/cm2/day,Exposure
+SS04_017_R03,SS04_017,SS04,Chl a ( µg/gdw),2.9,µg/gdw,0,mg/cm2/day,Table 5
+SS04_017_R04,SS04_017,SS04,Colour Index,0.68,status,0,mg/cm2/day,Table 4
+SS04_018_R01,SS04_018,SS04,N,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_018_R02,SS04_018,SS04,Sediment concentration,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_018_R03,SS04_018,SS04,Chl a ( µg/gdw),2.9,µg/gdw,100,mg/cm2/day,Table 5
+SS04_018_R04,SS04_018,SS04,Colour Index,0.68,status,100,mg/cm2/day,Table 4
+SS04_019_R01,SS04_019,SS04,N,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_019_R02,SS04_019,SS04,Sediment concentration,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_019_R03,SS04_019,SS04,Chl a ( µg/gdw),2.9,µg/gdw,100,mg/cm2/day,Table 5
+SS04_019_R04,SS04_019,SS04,Colour Index,0.47,status,100,mg/cm2/day,Table 4
+SS04_020_R01,SS04_020,SS04,N,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_020_R02,SS04_020,SS04,Sediment concentration,n/r,mg/L,100,mg/cm2/day,Exposure
+SS04_020_R03,SS04_020,SS04,Chl a ( µg/gdw),2.1,µg/gdw,100,mg/cm2/day,Table 5
+SS04_020_R04,SS04_020,SS04,Colour Index,0.35,status,100,mg/cm2/day,Table 4
+DS37_001_R01,DS37_001,DS37,Mortality,33.2%,%,5,individuals,figure 2a
+SS12_001_R01,SS12_001,SS12,Survivorship,0.861,%,27,juveniles per experimental treatment,table 1
+SS12_001_R02,SS12_001,SS12,Growth,0.065,%,27,juveniles per experimental treatment,table 2
+SS12_001_R03,SS12_001,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_001_R04,SS12_001,SS12,Effective quantum yield,0.345,%,27,juveniles per experimental treatment,table 2
+SS12_001_R05,SS12_001,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_002_R01,SS12_002,SS12,Survivorship,0.86,%,27,juveniles per experimental treatment,table 1
+SS12_002_R02,SS12_002,SS12,Growth,0.056,%,27,juveniles per experimental treatment,table 2
+SS12_002_R03,SS12_002,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_002_R04,SS12_002,SS12,Effective quantum yield,0.343,%,27,juveniles per experimental treatment,table 2
+SS12_002_R05,SS12_002,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_003_R01,SS12_003,SS12,Survivorship,0.88,%,27,juveniles per experimental treatment,table 1
+SS12_003_R02,SS12_003,SS12,Growth,0.043,%,27,juveniles per experimental treatment,table 2
+SS12_003_R03,SS12_003,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_003_R04,SS12_003,SS12,Effective quantum yield,0.351,%,27,juveniles per experimental treatment,table 2
+SS12_003_R05,SS12_003,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_004_R01,SS12_004,SS12,Survivorship,0.91,%,27,juveniles per experimental treatment,table 1
+SS12_004_R02,SS12_004,SS12,Growth,0.032,%,27,juveniles per experimental treatment,table 2
+SS12_004_R03,SS12_004,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_004_R04,SS12_004,SS12,Effective quantum yield,0.369,%,27,juveniles per experimental treatment,table 2
+SS12_004_R05,SS12_004,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_005_R01,SS12_005,SS12,Survivorship,0.79,%,27,juveniles per experimental treatment,table 1
+SS12_005_R02,SS12_005,SS12,Growth,0.046,%,27,juveniles per experimental treatment,table 2
+SS12_005_R03,SS12_005,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_005_R04,SS12_005,SS12,Effective quantum yield,0.331,%,27,juveniles per experimental treatment,table 2
+SS12_005_R05,SS12_005,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_006_R01,SS12_006,SS12,Survivorship,0.81,%,27,juveniles per experimental treatment,table 1
+SS12_006_R02,SS12_006,SS12,Growth,0.038,%,27,juveniles per experimental treatment,table 2
+SS12_006_R03,SS12_006,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_006_R04,SS12_006,SS12,Effective quantum yield,0.329,%,27,juveniles per experimental treatment,table 2
+SS12_006_R05,SS12_006,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_007_R01,SS12_007,SS12,Survivorship,0.79,%,27,juveniles per experimental treatment,table 1
+SS12_007_R02,SS12_007,SS12,Growth,0.031,%,27,juveniles per experimental treatment,table 2
+SS12_007_R03,SS12_007,SS12,Maximum quantum yield,0.65,%,27,juveniles per experimental treatment,table 2
+SS12_007_R04,SS12_007,SS12,Effective quantum yield,0.362,%,27,juveniles per experimental treatment,table 2
+SS12_007_R05,SS12_007,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_008_R01,SS12_008,SS12,Survivorship,0.97,%,47,juveniles per experimental treatment,table 1
+SS12_008_R02,SS12_008,SS12,Growth,0.073,%,47,juveniles per experimental treatment,table 2
+SS12_008_R03,SS12_008,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_008_R04,SS12_008,SS12,Effective quantum yield,0.321,%,47,juveniles per experimental treatment,table 2
+SS12_008_R05,SS12_008,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_009_R01,SS12_009,SS12,Survivorship,0.94,%,47,juveniles per experimental treatment,table 1
+SS12_009_R02,SS12_009,SS12,Growth,0.064,%,47,juveniles per experimental treatment,table 2
+SS12_009_R03,SS12_009,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_009_R04,SS12_009,SS12,Effective quantum yield,0.326,%,47,juveniles per experimental treatment,table 2
+SS12_009_R05,SS12_009,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_010_R01,SS12_010,SS12,Survivorship,0.86,%,47,juveniles per experimental treatment,table 1
+SS12_010_R02,SS12_010,SS12,Growth,0.061,%,47,juveniles per experimental treatment,table 2
+SS12_010_R03,SS12_010,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_010_R04,SS12_010,SS12,Effective quantum yield,0.334,%,47,juveniles per experimental treatment,table 2
+SS12_010_R05,SS12_010,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_011_R01,SS12_011,SS12,Survivorship,0.82,%,47,juveniles per experimental treatment,table 1
+SS12_011_R02,SS12_011,SS12,Growth,0.057,%,47,juveniles per experimental treatment,table 2
+SS12_011_R03,SS12_011,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_011_R04,SS12_011,SS12,Effective quantum yield,0.341,%,47,juveniles per experimental treatment,table 2
+SS12_011_R05,SS12_011,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_012_R01,SS12_012,SS12,Survivorship,0.89,%,47,juveniles per experimental treatment,table 1
+SS12_012_R02,SS12_012,SS12,Growth,0.066,%,47,juveniles per experimental treatment,table 2
+SS12_012_R03,SS12_012,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_012_R04,SS12_012,SS12,Effective quantum yield,0.324,%,47,juveniles per experimental treatment,table 2
+SS12_012_R05,SS12_012,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_013_R01,SS12_013,SS12,Survivorship,0.84,%,47,juveniles per experimental treatment,table 1
+SS12_013_R02,SS12_013,SS12,Growth,0.059,%,47,juveniles per experimental treatment,table 2
+SS12_013_R03,SS12_013,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_013_R04,SS12_013,SS12,Effective quantum yield,0.332,%,47,juveniles per experimental treatment,table 2
+SS12_013_R05,SS12_013,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_014_R01,SS12_014,SS12,Survivorship,0.64,%,47,juveniles per experimental treatment,table 1
+SS12_014_R02,SS12_014,SS12,Growth,0.052,%,47,juveniles per experimental treatment,table 2
+SS12_014_R03,SS12_014,SS12,Maximum quantum yield,0.64,%,47,juveniles per experimental treatment,table 2
+SS12_014_R04,SS12_014,SS12,Effective quantum yield,0.341,%,47,juveniles per experimental treatment,table 2
+SS12_014_R05,SS12_014,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_015_R01,SS12_015,SS12,Survivorship,0.99,%,66,juveniles per experimental treatment,table 1
+SS12_015_R02,SS12_015,SS12,Growth,0.12,%,66,juveniles per experimental treatment,table 2
+SS12_015_R03,SS12_015,SS12,Maximum quantum yield,0.67,%,66,juveniles per experimental treatment,table 2
+SS12_015_R04,SS12_015,SS12,Effective quantum yield,0.361,%,66,juveniles per experimental treatment,table 2
+SS12_015_R05,SS12_015,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_016_R01,SS12_016,SS12,Survivorship,0.98,%,66,juveniles per experimental treatment,table 1
+SS12_016_R02,SS12_016,SS12,Growth,0.093,%,66,juveniles per experimental treatment,table 2
+SS12_016_R03,SS12_016,SS12,Maximum quantum yield,0.67,%,66,juveniles per experimental treatment,table 2
+SS12_016_R04,SS12_016,SS12,Effective quantum yield,0.358,%,66,juveniles per experimental treatment,table 2
+SS12_016_R05,SS12_016,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_017_R01,SS12_017,SS12,Survivorship,0.96,%,66,juveniles per experimental treatment,table 1
+SS12_017_R02,SS12_017,SS12,Growth,0.074,%,66,juveniles per experimental treatment,table 2
+SS12_017_R03,SS12_017,SS12,Maximum quantum yield,0.67,%,66,juveniles per experimental treatment,table 2
+SS12_017_R04,SS12_017,SS12,Effective quantum yield,0.356,%,66,juveniles per experimental treatment,table 2
+SS12_017_R05,SS12_017,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+SS12_018_R01,SS12_018,SS12,Survivorship,0.94,%,66,juveniles per experimental treatment,table 1
+SS12_018_R02,SS12_018,SS12,Growth,0.054,%,66,juveniles per experimental treatment,table 2
+SS12_018_R03,SS12_018,SS12,Maximum quantum yield,0.67,%,66,juveniles per experimental treatment,table 2
+SS12_018_R04,SS12_018,SS12,Effective quantum yield,0.354,%,66,juveniles per experimental treatment,table 2
+SS12_018_R05,SS12_018,SS12,Respiration,1.68,mmol O2 cm^-2 h^-1,2,juveniles per experimental treatment,table 3
+DS17_001_R01,DS17_001,DS17,Fv/Fm,0.59,n/r,12,n/r,Fig. 1
+DS17_001_R02,DS17_001,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_001_R03,DS17_001,DS17,Fv/Fm,0.55,n/r,12,n/r,Fig. 1
+DS17_001_R04,DS17_001,DS17,Fv/Fm,0.64,n/r,12,n/r,Fig. 1
+DS17_002_R01,DS17_002,DS17,Fv/Fm,0.59,n/r,12,n/r,Fig. 1
+DS17_002_R02,DS17_002,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_002_R03,DS17_002,DS17,Fv/Fm,0.55,n/r,12,n/r,Fig. 1
+DS17_002_R04,DS17_002,DS17,Fv/Fm,0.64,n/r,12,n/r,Fig. 1
+DS17_003_R01,DS17_003,DS17,Fv/Fm,0.69,n/r,12,n/r,Fig. 1
+DS17_003_R02,DS17_003,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_003_R03,DS17_003,DS17,Fv/Fm,0.62,n/r,12,n/r,Fig. 1
+DS17_003_R04,DS17_003,DS17,Fv/Fm,0.58,n/r,12,n/r,Fig. 1
+DS17_004_R01,DS17_004,DS17,Fv/Fm,0.69,n/r,12,n/r,Fig. 1
+DS17_004_R02,DS17_004,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_004_R03,DS17_004,DS17,Fv/Fm,0.62,n/r,12,n/r,Fig. 1
+DS17_004_R04,DS17_004,DS17,Fv/Fm,0.58,n/r,12,n/r,Fig. 1
+DS17_005_R01,DS17_005,DS17,Fv/Fm,0.59,n/r,12,n/r,Fig. 1
+DS17_005_R02,DS17_005,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_005_R03,DS17_005,DS17,Fv/Fm,0.55,n/r,12,n/r,Fig. 1
+DS17_005_R04,DS17_005,DS17,Fv/Fm,0.64,n/r,12,n/r,Fig. 1
+DS17_006_R01,DS17_006,DS17,Fv/Fm,0.69,n/r,12,n/r,Fig. 1
+DS17_006_R02,DS17_006,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_006_R03,DS17_006,DS17,Fv/Fm,0.62,n/r,12,n/r,Fig. 1
+DS17_006_R04,DS17_006,DS17,Fv/Fm,0.58,n/r,12,n/r,Fig. 1
+DS17_007_R01,DS17_007,DS17,Fv/Fm,0.59,n/r,12,n/r,Fig. 1
+DS17_007_R02,DS17_007,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_007_R03,DS17_007,DS17,Fv/Fm,0.55,n/r,12,n/r,Fig. 1
+DS17_007_R04,DS17_007,DS17,Fv/Fm,0.64,n/r,12,n/r,Fig. 1
+DS17_008_R01,DS17_008,DS17,Fv/Fm,0.69,n/r,12,n/r,Fig. 1
+DS17_008_R02,DS17_008,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_008_R03,DS17_008,DS17,Fv/Fm,0.62,n/r,12,n/r,Fig. 1
+DS17_008_R04,DS17_008,DS17,Fv/Fm,0.58,n/r,12,n/r,Fig. 1
+DS17_009_R01,DS17_009,DS17,Fv/Fm,0.59,n/r,12,n/r,Fig. 1
+DS17_009_R02,DS17_009,DS17,Fv/Fm,0.57,n/r,12,n/r,Fig. 1
+DS17_009_R03,DS17_009,DS17,Fv/Fm,0.55,n/r,12,n/r,Fig. 1
+DS17_009_R04,DS17_009,DS17,Fv/Fm,0.64,n/r,12,n/r,Fig. 1
+DS18_001_R01,DS18_001,DS18,Growth rate (mg day-1),52,mg day-1,n/a,n/a,Figure 6A
+DS18_001_R02,DS18_001,DS18,Growth rate (% day-1),3.1,% day-1,n/a,n/a,Figure 6B
+DS18_001_R03,DS18_001,DS18,Mortality,n/a,n/a,n/a,n/a,n/a
+DS18_002_R01,DS18_002,DS18,Growth rate (mg day-1),3.1,mg day-1,n/a,n/a,Figure 6A
+DS18_002_R02,DS18_002,DS18,Growth rate (% day-1),0.3,% day-1,n/a,n/a,Figure 6B
+DS18_002_R03,DS18_002,DS18,Mortality,n/a,n/a,n/a,n/a,n/a
+DS18_003_R01,DS18_003,DS18,Growth rate (mg day-1),-16.5,mg day-1,n/a,n/a,Figure 6A
+DS18_003_R02,DS18_003,DS18,Growth rate (% day-1),-1.1,% day-1,n/a,n/a,Figure 6B
+DS18_003_R03,DS18_003,DS18,Mortality,n/a,n/a,n/a,n/a,n/a
+DS18_004_R01,DS18_004,DS18,Growth rate (mg day-1),n/a,n/a,n/a,n/a,n/a
+DS18_004_R02,DS18_004,DS18,Growth rate (% day-1),n/a,n/a,n/a,n/a,n/a
+DS18_004_R03,DS18_004,DS18,Mortality,n/a,n/a,n/a,n/a,n/a
+DS20_001_R01,DS20_001,DS20,Productivity,1.03,mgCg-1d-1,n/r,n/r,Table 1
+DS20_001_R02,DS20_001,DS20,Respiration,0.55,mgCg-1d-1,n/r,n/r,Table 1
+DS20_002_R01,DS20_002,DS20,Productivity,0.59,mgCg-1d-1,n/r,n/r,Table 1
+DS20_002_R02,DS20_002,DS20,Respiration,0.46,mgCg-1d-1,n/r,n/r,Table 1
+DS20_003_R01,DS20_003,DS20,Productivity,1.03,mgCg-1d-1,n/r,n/r,Table 1
+DS20_003_R02,DS20_003,DS20,Respiration,0.58,mgCg-1d-1,n/r,n/r,Table 1
+DS20_004_R01,DS20_004,DS20,Productivity,0.59,mgCg-1d-1,n/r,n/r,Table 1
+DS20_004_R02,DS20_004,DS20,Respiration,0.47,mgCg-1d-1,n/r,n/r,Table 1
+DS20_005_R01,DS20_005,DS20,Productivity,0.53,mgCg-1d-1,n/r,n/r,Table 1
+DS20_005_R02,DS20_005,DS20,Respiration,0.46,mgCg-1d-1,n/r,n/r,Table 1
+DS20_006_R01,DS20_006,DS20,Productivity,0.35,mgCg-1d-1,n/r,n/r,Table 1
+DS20_006_R02,DS20_006,DS20,Respiration,0.40,mgCg-1d-1,n/r,n/r,Table 1
+DS20_007_R01,DS20_007,DS20,Productivity,0.45,mgCg-1d-1,n/r,n/r,Table 1
+DS20_007_R02,DS20_007,DS20,Respiration,0.59,mgCg-1d-1,n/r,n/r,Table 1
+DS20_008_R01,DS20_008,DS20,Productivity,0.21,mgCg-1d-1,n/r,n/r,Table 1
+DS20_008_R02,DS20_008,DS20,Respiration,0.21,mgCg-1d-1,n/r,n/r,Table 1
+DS20_009_R01,DS20_009,DS20,Productivity,0.13,mgCg-1d-1,n/r,n/r,Table 1
+DS20_009_R02,DS20_009,DS20,Respiration,0.21,mgCg-1d-1,n/r,n/r,Table 1
+DS20_010_R01,DS20_010,DS20,Productivity,0.25,mgCg-1d-1,n/r,n/r,Table 1
+DS20_010_R02,DS20_010,DS20,Respiration,0.14,mgCg-1d-1,n/r,n/r,Table 1
+DS20_011_R01,DS20_011,DS20,Productivity,0.12,mgCg-1d-1,n/r,n/r,Table 1
+DS20_011_R02,DS20_011,DS20,Respiration,0.13,mgCg-1d-1,n/r,n/r,Table 1
+DS20_012_R01,DS20_012,DS20,Productivity,0.37,mgCg-1d-1,n/r,n/r,Table 1
+DS20_012_R02,DS20_012,DS20,Respiration,0.29,mgCg-1d-1,n/r,n/r,Table 1
+DS20_013_R01,DS20_013,DS20,Productivity,0.57,mgCg-1d-1,n/r,n/r,Table 2
+DS20_013_R02,DS20_013,DS20,Respiration,0.55,mgCg-1d-1,n/r,n/r,Table 2
+DS20_014_R01,DS20_014,DS20,Productivity,0.30,mgCg-1d-1,n/r,n/r,Table 2
+DS20_014_R02,DS20_014,DS20,Respiration,0.46,mgCg-1d-1,n/r,n/r,Table 2
+DS20_015_R01,DS20_015,DS20,Productivity,0.59,mgCg-1d-1,n/r,n/r,Table 2
+DS20_015_R02,DS20_015,DS20,Respiration,0.58,mgCg-1d-1,n/r,n/r,Table 2
+DS20_016_R01,DS20_016,DS20,Productivity,0.27,mgCg-1d-1,n/r,n/r,Table 2
+DS20_016_R02,DS20_016,DS20,Respiration,0.45,mgCg-1d-1,n/r,n/r,Table 2
+DS20_017_R01,DS20_017,DS20,Productivity,0.53,mgCg-1d-1,n/r,n/r,Table 2
+DS20_017_R02,DS20_017,DS20,Respiration,0.46,mgCg-1d-1,n/r,n/r,Table 2
+DS20_018_R01,DS20_018,DS20,Productivity,0.32,mgCg-1d-1,n/r,n/r,Table 2
+DS20_018_R02,DS20_018,DS20,Respiration,0.36,mgCg-1d-1,n/r,n/r,Table 2
+DS20_019_R01,DS20_019,DS20,Productivity,0.45,mgCg-1d-1,n/r,n/r,Table 2
+DS20_019_R02,DS20_019,DS20,Respiration,0.59,mgCg-1d-1,n/r,n/r,Table 2
+DS20_020_R01,DS20_020,DS20,Productivity,0.28,mgCg-1d-1,n/r,n/r,Table 2
+DS20_020_R02,DS20_020,DS20,Respiration,0.48,mgCg-1d-1,n/r,n/r,Table 2
+DS20_021_R01,DS20_021,DS20,Productivity,0.21,mgCg-1d-1,n/r,n/r,Table 2
+DS20_021_R02,DS20_021,DS20,Respiration,0.21,mgCg-1d-1,n/r,n/r,Table 2
+DS20_022_R01,DS20_022,DS20,Productivity,0.10,mgCg-1d-1,n/r,n/r,Table 2
+DS20_022_R02,DS20_022,DS20,Respiration,0.18,mgCg-1d-1,n/r,n/r,Table 2
+DS20_023_R01,DS20_023,DS20,Productivity,0.16,mgCg-1d-1,n/r,n/r,Table 2
+DS20_023_R02,DS20_023,DS20,Respiration,0.13,mgCg-1d-1,n/r,n/r,Table 2
+DS20_024_R01,DS20_024,DS20,Productivity,0.11,mgCg-1d-1,n/r,n/r,Table 2
+DS20_024_R02,DS20_024,DS20,Respiration,0.12,mgCg-1d-1,n/r,n/r,Table 2
+DS20_025_R01,DS20_025,DS20,Productivity,0.10,mgCg-1d-1,n/r,n/r,Table 2
+DS20_025_R02,DS20_025,DS20,Respiration,0.15,mgCg-1d-1,n/r,n/r,Table 2
+DS20_026_R01,DS20_026,DS20,Productivity,0.17,mgCg-1d-1,n/r,n/r,Table 2
+DS20_026_R02,DS20_026,DS20,Respiration,0.15,mgCg-1d-1,n/r,n/r,Table 2
+DS20_027_R01,DS20_027,DS20,Productivity,0.24,mgCg-1d-1,n/r,n/r,Table 2
+DS20_027_R02,DS20_027,DS20,Respiration,0.23,mgCg-1d-1,n/r,n/r,Table 2
+DS21_001_R01,DS21_001,DS21,Average branch growth rate,8.3,cm/year,n/r,n/r,n/r
+DS21_001_R02,DS21_001,DS21,Average growth rate of corals,6.5,cm/year,n/r,n/r,n/r
+DS21_001_R03,DS21_001,DS21,Mean  branch growth rate,7.6,cm/year,n/r,n/r,n/r
+DS21_001_R04,DS21_001,DS21,Change in branch length,0.1,cm,n/r,n/r,n/r
+DS21_001_R05,DS21_001,DS21,Extrapolated growth rate,8.3,cm/year,n/r,n/r,n/r
+DS21_001_R06,DS21_001,DS21,Frequency of sediment application,Zero,n/a,n/r,n/r,n/r
+DS21_001_R07,DS21_001,DS21,Rate of growth,7.1,cm/year,n/r,n/r,n/r
+DS28_001_R01,DS28_001,DS28,Growth rate,3.7,% month−1,12,colonies,"laboratory experiment, Table 1"
+DS28_001_R02,DS28_001,DS28,Lipid content,7.7,mg cm−2,11,colonies,"laboratory experiment, Table 1"
+DS28_001_R03,DS28_001,DS28,Maximum quantum yield (Fv/Fm),0.59,dimensionless,36,colonies,"laboratory experiment, Table 1"
+DS28_002_R01,DS28_002,DS28,Growth rate,3.5,% month−1,11,colonies,"laboratory experiment, Table 1"
+DS28_002_R02,DS28_002,DS28,Lipid content,8.5,mg cm−2,12,colonies,"laboratory experiment, Table 1"
+DS28_002_R03,DS28_002,DS28,Maximum quantum yield (Fv/Fm),0.60,dimensionless,35,colonies,"laboratory experiment, Table 1"
+DS28_003_R01,DS28_003,DS28,Growth rate,3.0,% month−1,12,colonies,"laboratory experiment, Table 1"
+DS28_003_R02,DS28_003,DS28,Lipid content,7.4,mg cm−2,12,colonies,"laboratory experiment, Table 1"
+DS28_003_R03,DS28_003,DS28,Maximum quantum yield (Fv/Fm),0.60,dimensionless,34,colonies,"laboratory experiment, Table 1"
+DS28_004_R01,DS28_004,DS28,Growth rate,3.1,% month−1,12,colonies,"laboratory experiment, Table 1"
+DS28_004_R02,DS28_004,DS28,Lipid content,6.9,mg cm−2,11,colonies,"laboratory experiment, Table 1"
+DS28_004_R03,DS28_004,DS28,Maximum quantum yield (Fv/Fm),0.61,dimensionless,33,colonies,"laboratory experiment, Table 1"
+DS28_005_R01,DS28_005,DS28,Growth rate,3.9,% month−1,11,colonies,"laboratory experiment, Table 1"
+DS28_005_R02,DS28_005,DS28,Lipid content,8.0,mg cm−2,11,colonies,"laboratory experiment, Table 1"
+DS28_005_R03,DS28_005,DS28,Maximum quantum yield (Fv/Fm),0.59,dimensionless,33,colonies,"laboratory experiment, Table 1"
+DS28_006_R01,DS28_006,DS28,Growth rate,3.5,% month−1,11,colonies,"laboratory experiment, Table 1"
+DS28_006_R02,DS28_006,DS28,Lipid content,7.6,mg cm−2,12,colonies,"laboratory experiment, Table 1"
+DS28_006_R03,DS28_006,DS28,Maximum quantum yield (Fv/Fm),0.59,dimensionless,33,colonies,"laboratory experiment, Table 1"
+DS28_007_R01,DS28_007,DS28,Lipid content,8.8,mg cm−2,20,colonies,"field controls, Table 1"
+DS28_007_R02,DS28_007,DS28,Maximum quantum yield (Fv/Fm),0.55,dimensionless,80,colonies,"field controls, Table 1"
+DS28_008_R01,DS28_008,DS28,Lipid content,10.1,mg cm−2,n/r,colonies,"field samples, text p. 750"
+DS36_001_R01,DS36_001,DS36,coral growth rate,-0.29,mg cm-2 d-1,"na","na",Fig. 1
+DS36_002_R01,DS36_002,DS36,coral growth rate,0.29,mg cm-2 d-1,"na","na",Fig. 1
+DS36_003_R01,DS36_003,DS36,coral growth rate,0.0047,mg cm-2 d-1,"na","na",Fig. 1
+DS36_004_R01,DS36_004,DS36,coral growth rate,-0.77,mg cm-2 d-1,"na","na",Fig. 1
+DS03_001_R01,DS03_001,DS03,photosynthetic efficiency,0.24,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_001_R02,DS03_001,DS03,Sediment rejection,2.3,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_001_R03,DS03_001,DS03,Colour index,0.43,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_001_R04,DS03_001,DS03,Chl  a,1.34,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_002_R01,DS03_002,DS03,photosynthetic efficiency,0.23,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_002_R02,DS03_002,DS03,Sediment rejection,2.6,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_002_R03,DS03_002,DS03,Colour index,0.43,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_002_R04,DS03_002,DS03,Chl  a,1.34,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_003_R01,DS03_003,DS03,photosynthetic efficiency,0.22,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_003_R02,DS03_003,DS03,Sediment rejection,3.1,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_003_R03,DS03_003,DS03,Colour index,0.43,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_003_R04,DS03_003,DS03,Chl  a,1.34,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_004_R01,DS03_004,DS03,photosynthetic efficiency,0.73,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_004_R02,DS03_004,DS03,Sediment rejection,0.1,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_004_R03,DS03_004,DS03,Colour index,0.85,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_004_R04,DS03_004,DS03,Chl  a,2.99,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_005_R01,DS03_005,DS03,photosynthetic efficiency,0.41,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_005_R02,DS03_005,DS03,Sediment rejection,2.3,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_005_R03,DS03_005,DS03,Colour index,0.63,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_005_R04,DS03_005,DS03,Chl  a,2.47,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_006_R01,DS03_006,DS03,photosynthetic efficiency,0.39,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_006_R02,DS03_006,DS03,Sediment rejection,2.6,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_006_R03,DS03_006,DS03,Colour index,0.63,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_006_R04,DS03_006,DS03,Chl  a,2.47,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_007_R01,DS03_007,DS03,photosynthetic efficiency,0.37,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_007_R02,DS03_007,DS03,Sediment rejection,3.4,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_007_R03,DS03_007,DS03,Colour index,0.63,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_007_R04,DS03_007,DS03,Chl  a,2.47,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_008_R01,DS03_008,DS03,photosynthetic efficiency,0.69,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_008_R02,DS03_008,DS03,Sediment rejection,0.1,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_008_R03,DS03_008,DS03,Colour index,0.85,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_008_R04,DS03_008,DS03,Chl  a,3.65,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_009_R01,DS03_009,DS03,photosynthetic efficiency,0.38,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_009_R02,DS03_009,DS03,Sediment rejection,2.1,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_009_R03,DS03_009,DS03,Colour index,0.55,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_009_R04,DS03_009,DS03,Chl  a,2.23,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_010_R01,DS03_010,DS03,photosynthetic efficiency,0.35,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_010_R02,DS03_010,DS03,Sediment rejection,2.5,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_010_R03,DS03_010,DS03,Colour index,0.55,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_010_R04,DS03_010,DS03,Chl  a,2.23,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_011_R01,DS03_011,DS03,photosynthetic efficiency,0.32,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_011_R02,DS03_011,DS03,Sediment rejection,3.8,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_011_R03,DS03_011,DS03,Colour index,0.55,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_011_R04,DS03_011,DS03,Chl  a,2.23,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+DS03_012_R01,DS03_012,DS03,photosynthetic efficiency,0.67,Fv/Fm,3,fragments,"Supplementary  Table  S1,  Figure  1"
+DS03_012_R02,DS03_012,DS03,Sediment rejection,0.1,mg cm^-2,3,fragments,"Supplementary  Table  S1,  Figure  4"
+DS03_012_R03,DS03_012,DS03,Colour index,0.85,arbitrary  units,3,fragments,"Table  1,  Figure  3"
+DS03_012_R04,DS03_012,DS03,Chl  a,3.43,µg Chl  a cm^-2,3,fragments,"Table  1,  Figure  3"
+SS06_001_R01,SS06_001,SS06,Net photosynthesis,1.08,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_001_R02,SS06_001,SS06,Respiration,0.85,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_001_R03,SS06_001,SS06,Yield,0.64,unitless,5,n/r,Fig. 3
+SS06_001_R04,SS06_001,SS06,Tissue mortality rate,0,%,5,n/r,Fig. 4
+SS06_002_R01,SS06_002,SS06,Net photosynthesis,0.45,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_002_R02,SS06_002,SS06,Respiration,0.46,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_002_R03,SS06_002,SS06,Yield,0.55,unitless,5,n/r,Fig. 3
+SS06_002_R04,SS06_002,SS06,Tissue mortality rate,0,%,5,n/r,Fig. 4
+SS06_003_R01,SS06_003,SS06,Net photosynthesis,1.08,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_003_R02,SS06_003,SS06,Respiration,0.85,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_003_R03,SS06_003,SS06,Yield,0.64,unitless,5,n/r,Fig. 3
+SS06_003_R04,SS06_003,SS06,Tissue mortality rate,0,%,5,n/r,Fig. 4
+SS06_004_R01,SS06_004,SS06,Net photosynthesis,0.59,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_004_R02,SS06_004,SS06,Respiration,0.99,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_004_R03,SS06_004,SS06,Yield,0.59,unitless,5,n/r,Fig. 3
+SS06_004_R04,SS06_004,SS06,Tissue mortality rate,0,%,5,n/r,Fig. 4
+SS06_005_R01,SS06_005,SS06,Net photosynthesis,0.45,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_005_R02,SS06_005,SS06,Respiration,0.46,μmol O2 cm^{-2} h^{-1},5,n/r,Fig. 2
+SS06_005_R03,SS06_005,SS06,Yield,0.55,unitless,5,n/r,Fig. 3
+SS06_005_R04,SS06_005,SS06,Tissue mortality rate,0,%,5,n/r,Fig. 4
+SS15_001_R01,SS15_001,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_001_R02,SS15_001,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_001_R03,SS15_001,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_002_R01,SS15_002,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_002_R02,SS15_002,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_002_R03,SS15_002,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_003_R01,SS15_003,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_003_R02,SS15_003,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_003_R03,SS15_003,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_004_R01,SS15_004,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_004_R02,SS15_004,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_004_R03,SS15_004,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_005_R01,SS15_005,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_005_R02,SS15_005,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_005_R03,SS15_005,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_006_R01,SS15_006,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_006_R02,SS15_006,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_006_R03,SS15_006,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_007_R01,SS15_007,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_007_R02,SS15_007,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_007_R03,SS15_007,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_008_R01,SS15_008,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_008_R02,SS15_008,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_008_R03,SS15_008,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_009_R01,SS15_009,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_009_R02,SS15_009,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_009_R03,SS15_009,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_010_R01,SS15_010,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_010_R02,SS15_010,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_010_R03,SS15_010,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_011_R01,SS15_011,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_011_R02,SS15_011,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_011_R03,SS15_011,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_012_R01,SS15_012,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_012_R02,SS15_012,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_012_R03,SS15_012,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_013_R01,SS15_013,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_013_R02,SS15_013,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_013_R03,SS15_013,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_014_R01,SS15_014,SS15,Growth,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_014_R02,SS15_014,SS15,Partial Mortality,n/r,%,n/r,n/a,Laboratory measurment after 10 month exposure
+SS15_014_R03,SS15_014,SS15,Recruitment,n/r,n/r,n/r,n/a,Laboratory measurment after 10 month exposure
+DS10_001_R01,DS10_001,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.80,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_001_R02,DS10_001,DS10,total respiration,1,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_001_R03,DS10_001,DS10,PRatio,4.15,Ratio,n/r,n/r,Mean
+DS10_001_R04,DS10_001,DS10,Yield,0.52,Ratio,n/r,n/r,Mean
+DS10_001_R05,DS10_001,DS10,% change in Net photosynthesis,210.41,%,n/r,n/r,Mean
+DS10_001_R06,DS10_001,DS10,% change in Respiration,20.57,%,n/r,n/r,Mean
+DS10_001_R07,DS10_001,DS10,% change in Yield,1.07,%,n/r,n/r,Mean
+DS10_002_R01,DS10_002,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.61,mmol cm[2][2] hr[2][1],n/r,n/r,"mean, week 2"
+DS10_002_R02,DS10_002,DS10,total respiration,0.84,mmol cm[2][2] hr[2][1],n/r,n/r,"mean, week 2"
+DS10_002_R03,DS10_002,DS10,PRatio,4.11,Ratio,n/r,n/r,"mean, week 2"
+DS10_002_R04,DS10_002,DS10,Yield,0.50,Ratio,n/r,n/r,"mean, week 2"
+DS10_002_R05,DS10_002,DS10,% change in Net photosynthesis,20.95,%,n/r,n/r,"mean, week 2"
+DS10_002_R06,DS10_002,DS10,% change in Respiration,0.46,%,n/r,n/r,"mean, week 2"
+DS10_002_R07,DS10_002,DS10,% change in Yield,0.00,%,n/r,n/r,"mean, week 2"
+DS10_003_R01,DS10_003,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.79,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_003_R02,DS10_003,DS10,total respiration,0.89,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_003_R03,DS10_003,DS10,PRatio,4.13,Ratio,n/r,n/r,Mean
+DS10_003_R04,DS10_003,DS10,Yield,0.52,Ratio,n/r,n/r,Mean
+DS10_003_R05,DS10_003,DS10,% change in Net photosynthesis,0.10,%,n/r,n/r,Mean
+DS10_003_R06,DS10_003,DS10,% change in Respiration,0.00,%,n/r,n/r,Mean
+DS10_003_R07,DS10_003,DS10,% change in Yield,0.00,%,n/r,n/r,Mean
+DS10_004_R01,DS10_004,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.79,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_004_R02,DS10_004,DS10,total respiration,0.89,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_004_R03,DS10_004,DS10,PRatio,4.15,Ratio,n/r,n/r,Mean
+DS10_004_R04,DS10_004,DS10,Yield,0.62,Ratio,n/r,n/r,Mean
+DS10_004_R05,DS10_004,DS10,% change in Net photosynthesis,0.00,%,n/r,n/r,Mean
+DS10_004_R06,DS10_004,DS10,% change in Respiration,0.00,%,n/r,n/r,Mean
+DS10_004_R07,DS10_004,DS10,% change in Yield,0.00,%,n/r,n/r,Mean
+DS10_005_R01,DS10_005,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.78,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_005_R02,DS10_005,DS10,total respiration,0.88,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_005_R03,DS10_005,DS10,PRatio,4.15,Ratio,n/r,n/r,Mean
+DS10_005_R04,DS10_005,DS10,Yield,0.66,Ratio,n/r,n/r,Mean
+DS10_005_R05,DS10_005,DS10,% change in Net photosynthesis,0.00,%,n/r,n/r,Mean
+DS10_005_R06,DS10_005,DS10,% change in Respiration,0.00,%,n/r,n/r,Mean
+DS10_005_R07,DS10_005,DS10,% change in Yield,0.00,%,n/r,n/r,Mean
+DS10_006_R01,DS10_006,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.67,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_006_R02,DS10_006,DS10,total respiration,0.93,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_006_R03,DS10_006,DS10,PRatio,3.89,Ratio,n/r,n/r,Mean
+DS10_006_R04,DS10_006,DS10,Yield,0.50,Ratio,n/r,n/r,Mean
+DS10_006_R05,DS10_006,DS10,% change in Net photosynthesis,20.76,%,n/r,n/r,Mean
+DS10_006_R06,DS10_006,DS10,% change in Respiration,0.62,%,n/r,n/r,Mean
+DS10_006_R07,DS10_006,DS10,% change in Yield,0.57,%,n/r,n/r,Mean
+DS10_007_R01,DS10_007,DS10,Net photosynthesis mmol cm[2][2] hr[2][1],2.64,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_007_R02,DS10_007,DS10,total respiration,0.92,mmol cm[2][2] hr[2][1],n/r,n/r,Mean
+DS10_007_R03,DS10_007,DS10,PRatio,3.87,Ratio,n/r,n/r,Mean
+DS10_007_R04,DS10_007,DS10,Yield,0.66,Ratio,n/r,n/r,Mean
+DS10_007_R05,DS10_007,DS10,% change in Net photosynthesis,20.67,%,n/r,n/r,Mean
+DS10_007_R06,DS10_007,DS10,% change in Respiration,0.25,%,n/r,n/r,Mean
+DS10_007_R07,DS10_007,DS10,% change in Yield,6.7,%,n/r,n/r,Mean

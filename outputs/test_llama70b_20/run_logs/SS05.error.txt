@@ -1,0 +1,5154 @@
+ref_id: SS05
+md_filename: browne-2014-SS05.md
+stage: openrouter_parse
+parse_mode: structured
+error_type: LLMParseError
+message: 319 validation errors for PaperExtraction
+bibliography.source_file_path
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.0.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.0.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.0.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.0.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.0.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.0.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.1.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.1.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.1.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.1.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.1.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.2.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.2.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.2.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.2.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.2.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.3.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.3.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.3.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.3.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.3.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment composition
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment level UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment level converted to mg/cm2/day.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.exposure.Sediment level converted to mg/cm2/day.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment upper error estimate.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.exposure.Sediment upper error estimate.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.4.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.4.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.exposure.Sediment level converted to mg/cm2/day.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.exposure.Sediment level converted to mg/cm2/day.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.exposure.Sediment upper error estimate.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.exposure.Sediment upper error estimate.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.5.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.5.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.6.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.6.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.6.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.6.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.6.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.7.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.7.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.7.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.7.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.7.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.8.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.8.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.8.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.8.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.8.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment composition
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment level UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment level converted to mg/cm2/day.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.exposure.Sediment level converted to mg/cm2/day.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment upper error estimate.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.exposure.Sediment upper error estimate.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.9.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.9.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.exposure.Sediment level converted to mg/cm2/day.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.exposure.Sediment level converted to mg/cm2/day.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.exposure.Sediment upper error estimate.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.exposure.Sediment upper error estimate.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.10.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.10.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.11.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.11.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.11.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.11.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.11.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.12.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.12.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.12.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.12.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.12.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.13.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.13.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.13.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.13.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.13.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.study.Event latitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.study.Event longitude
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.population.Colony form
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment composition
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.exposure.Sediment level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment level UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment level converted to mg/cm2/day.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.exposure.Sediment level converted to mg/cm2/day.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment upper error estimate.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.exposure.Sediment upper error estimate.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.exposure.Sediment level error type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.0.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.responses.0.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.0.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.1.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.responses.1.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.1.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.1.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.2.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.responses.2.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.2.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.3.Response level.float
+  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_type
+setups.14.responses.3.Response level.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.3.Unit of measurement
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+setups.14.responses.3.N UoM
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+validation_errors:
+[
+  {
+    "type": "string_type",
+    "loc": [
+      "bibliography",
+      "source_file_path"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      0,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      0,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      1,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      2,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      3,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment composition"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment upper error estimate",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment upper error estimate",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      4,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment upper error estimate",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment upper error estimate",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      5,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      6,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      7,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      8,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment composition"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment upper error estimate",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment upper error estimate",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      9,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment upper error estimate",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment upper error estimate",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      10,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      11,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      12,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      13,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "Event latitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "study",
+      "Event longitude"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "population",
+      "Colony form"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment composition"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level converted to mg/cm2/day",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment upper error estimate",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment upper error estimate",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "exposure",
+      "Sediment level error type"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      0,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      0,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      0,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      1,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      1,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      1,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      1,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      2,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      2,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      2,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "float_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      3,
+      "Response level",
+      "float"
+    ],
+    "msg": "Input should be a valid number",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/float_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      3,
+      "Response level",
+      "str"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      3,
+      "Unit of measurement"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  },
+  {
+    "type": "string_type",
+    "loc": [
+      "setups",
+      14,
+      "responses",
+      3,
+      "N UoM"
+    ],
+    "msg": "Input should be a valid string",
+    "input": null,
+    "url": "https://errors.pydantic.dev/2.13/v/string_type"
+  }
+]

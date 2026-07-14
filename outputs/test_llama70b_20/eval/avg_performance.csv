@@ -1,0 +1,30 @@
+variable,accuracy,fuzzy_score,numcat,oginf,speco
+Study location,0.0,0.3248296336286937,desc,og,Study
+Study site,0.16071428571428573,0.24038461538461534,cat,inf,Study
+Study type,0.32142857142857145,0.32142857142857145,,,
+Event latitude,0.017857142857142856,0.017857142857142856,num,inf,Study
+Event longitude,0.08928571428571429,0.08928571428571429,num,inf,Study
+Coral age class,0.19642857142857142,0.2532467532467532,cat,inf,Population
+Current genus name,1.0,1.0,cat,og,Population
+Current species name,1.0,1.0,cat,og,Population
+Colony form,0.2857142857142857,0.5183035714285719,cat,inf,Population
+Sediment composition,0.0,0.34689696933463576,desc,summ,Exposure
+Sediment level,0.017857142857142856,0.017857142857142856,num,og,Exposure
+Sediment level UoM,0.0,0.5139396084507428,cat,og,Exposure
+Sediment level converted to mg/cm2/day,0.017857142857142856,0.017857142857142856,num,calc,Exposure
+Sediment N for computing average,0.10714285714285714,0.10714285714285714,num,og,Exposure
+Sediment N UoM,0.10714285714285714,0.2826037529636363,desc,summ,Exposure
+Sediment upper error estimate,0.19642857142857142,0.19642857142857142,num,og,Exposure
+Sediment level error type,0.10714285714285714,0.3500425170068028,cat,og,Exposure
+Sediment notes,0.0,0.16579813658974193,desc,summ,Exposure
+Increased mucus?,0.03571428571428571,0.03571428571428571,bin,inf,Binary Responses
+Mortality reported?,0.16071428571428573,0.16071428571428573,bin,inf,Data Reported?
+Response type,0.410958904109589,0.8559388996409092,cat,inf,Outcome
+Response level,0.0821917808219178,0.0821917808219178,num,inf,Outcome
+Unit of measurement,0.0,0.1740222472751007,cat,og,Outcome
+N for computing average,0.1095890410958904,0.1095890410958904,num,og,Outcome
+N UoM,0.1917808219178082,0.3607266021649589,desc,summ,Outcome
+Source of data,0.0,0.18932534873571558,desc,summ,Outcome
+num_species,0.8235294117647058,0.8235294117647058,num,inf,arity
+num_setups,0.17647058823529413,0.17647058823529413,num,inf,arity
+num_responses,0.17647058823529413,0.17647058823529413,num,inf,arity

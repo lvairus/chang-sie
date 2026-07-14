@@ -1,0 +1,272 @@
+{
+  "evaluated_ref_ids": [
+    "DS02",
+    "DS03",
+    "DS04",
+    "DS10",
+    "DS16",
+    "DS17",
+    "DS18",
+    "DS20",
+    "DS21",
+    "DS25",
+    "DS28",
+    "DS36",
+    "DS37",
+    "DS43",
+    "DS45",
+    "SS04",
+    "SS06",
+    "SS12",
+    "SS15"
+  ],
+  "setup_rows": {
+    "num_matched": 56,
+    "num_unmatched_pred": 107,
+    "num_unmatched_truth": 337,
+    "precision": 0.34355828220858897,
+    "recall": 0.14249363867684478,
+    "f1": 0.20143884892086333
+  },
+  "response_rows": {
+    "num_matched": 73,
+    "num_unmatched_pred": 680,
+    "num_unmatched_truth": 821,
+    "precision": 0.09694555112881806,
+    "recall": 0.08165548098434004,
+    "f1": 0.08864602307225258
+  },
+  "response_types": {
+    "DS02": {
+      "truth": [
+        "Larval settlement",
+        "Larval settlement rate",
+        "Recruit survival",
+        "Recruit survival rate"
+      ],
+      "pred": [
+        "settlement"
+      ],
+      "matched": {}
+    },
+    "DS03": {
+      "truth": [
+        "Chlorophyll a concentration",
+        "Maximum quantum yield"
+      ],
+      "pred": [
+        "Chl  a",
+        "Sediment rejection",
+        "photosynthetic efficiency"
+      ],
+      "matched": {
+        "Color index": "Colour index"
+      }
+    },
+    "DS04": {
+      "truth": [
+        "Maximum quantum yield",
+        "Sediment accumulation rate"
+      ],
+      "pred": [
+        "% sediment cover",
+        "Quantum yield decrease after sediment removal",
+        "Sediment accumulation rate",
+        "Sediment rejection",
+        "Self-cleaning index (SCI)"
+      ],
+      "matched": {
+        "Sediment accumulation rate": "Sediment accumulation rate"
+      }
+    },
+    "DS10": {
+      "truth": [
+        "Net photosynthesis",
+        "P/R",
+        "Photosynthetic yield",
+        "Respiration"
+      ],
+      "pred": [
+        "% change in Net photosynthesis",
+        "% change in Respiration",
+        "% change in Yield",
+        "Net photosynthesis mmol cm[2][2] hr[2][1]",
+        "PRatio",
+        "Yield",
+        "total respiration"
+      ],
+      "matched": {}
+    },
+    "DS16": {
+      "truth": [],
+      "pred": [
+        "Chlorophyll a and c2 concentration",
+        "DF/F mV",
+        "Fv/Fm",
+        "Zooxanthellae density"
+      ],
+      "matched": {}
+    },
+    "DS17": {
+      "truth": [
+        "Maximum photosynthetic yield"
+      ],
+      "pred": [
+        "Fv/Fm"
+      ],
+      "matched": {}
+    },
+    "DS18": {
+      "truth": [
+        "Colony mortality",
+        "Growth rate",
+        "Tissue mortality"
+      ],
+      "pred": [],
+      "matched": {
+        "Tissue mortality": "Mortality",
+        "Growth rate": "Growth rate (mg day-1)"
+      }
+    },
+    "DS20": {
+      "truth": [
+        "Mucus Production",
+        "Productivity",
+        "Respiration"
+      ],
+      "pred": [
+        "Productivity",
+        "Respiration"
+      ],
+      "matched": {
+        "Productivity": "Productivity",
+        "Respiration": "Respiration"
+      }
+    },
+    "DS21": {
+      "truth": [
+        "Growth rate"
+      ],
+      "pred": [
+        "Average branch growth rate",
+        "Average growth rate of corals",
+        "Change in branch length",
+        "Extrapolated growth rate",
+        "Frequency of sediment application",
+        "Mean  branch growth rate",
+        "Rate of growth"
+      ],
+      "matched": {}
+    },
+    "DS25": {
+      "truth": [
+        "Mortality"
+      ],
+      "pred": [
+        "Survival rate",
+        "Time to infection"
+      ],
+      "matched": {}
+    },
+    "DS28": {
+      "truth": [
+        "Energy stores",
+        "n/r"
+      ],
+      "pred": [
+        "Growth rate",
+        "Lipid content",
+        "Maximum quantum yield (Fv/Fm)"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate",
+        "Maximum photosynthetic yield": "Maximum quantum yield (Fv/Fm)"
+      }
+    },
+    "DS36": {
+      "truth": [
+        "Growth rate (skeletal)",
+        "Sediment removal",
+        "n/a"
+      ],
+      "pred": [
+        "coral growth rate"
+      ],
+      "matched": {}
+    },
+    "DS37": {
+      "truth": [
+        "Recruit mortality rate",
+        "Recruit survival rate"
+      ],
+      "pred": [],
+      "matched": {
+        "Recruit mortality rate": "Mortality"
+      }
+    },
+    "DS43": {
+      "truth": [
+        "Net oxygen produced",
+        "Weight (convert to growth rate)"
+      ],
+      "pred": [],
+      "matched": {}
+    },
+    "SS04": {
+      "truth": [
+        "Partial mortality rate",
+        "Total mortality rate"
+      ],
+      "pred": [
+        "Chl a ( \u00b5g/gdw)",
+        "Colour Index",
+        "N",
+        "Sediment concentration"
+      ],
+      "matched": {}
+    },
+    "SS06": {
+      "truth": [
+        "Max Photosynthetic Yield",
+        "Net Photosynthesis",
+        "P/R ratio",
+        "Partial mortality",
+        "Partial mortality rate",
+        "respiration"
+      ],
+      "pred": [
+        "Net photosynthesis",
+        "Respiration",
+        "Tissue mortality rate",
+        "Yield"
+      ],
+      "matched": {}
+    },
+    "SS12": {
+      "truth": [],
+      "pred": [
+        "Effective quantum yield",
+        "Growth",
+        "Maximum quantum yield",
+        "Respiration",
+        "Survivorship"
+      ],
+      "matched": {}
+    },
+    "SS15": {
+      "truth": [
+        "Growth rate",
+        "Larval settlement",
+        "Partial mortality",
+        "Total mortality"
+      ],
+      "pred": [
+        "Recruitment"
+      ],
+      "matched": {
+        "Partial mortality": "Partial Mortality",
+        "Growth rate": "Growth"
+      }
+    }
+  }
+}

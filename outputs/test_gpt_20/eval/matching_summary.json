@@ -1,0 +1,271 @@
+{
+  "evaluated_ref_ids": [
+    "DS02",
+    "DS03",
+    "DS04",
+    "DS10",
+    "DS16",
+    "DS17",
+    "DS18",
+    "DS20",
+    "DS21",
+    "DS25",
+    "DS28",
+    "DS36",
+    "DS37",
+    "DS43",
+    "DS45",
+    "SS05",
+    "SS06",
+    "SS12",
+    "SS15"
+  ],
+  "setup_rows": {
+    "num_matched": 92,
+    "num_unmatched_pred": 56,
+    "num_unmatched_truth": 304,
+    "precision": 0.6216216216216216,
+    "recall": 0.23232323232323232,
+    "f1": 0.338235294117647
+  },
+  "response_rows": {
+    "num_matched": 193,
+    "num_unmatched_pred": 412,
+    "num_unmatched_truth": 731,
+    "precision": 0.31900826446280994,
+    "recall": 0.20887445887445888,
+    "f1": 0.2524525833878352
+  },
+  "response_types": {
+    "DS02": {
+      "truth": [
+        "Larval settlement",
+        "Larval settlement rate",
+        "Recruit survival",
+        "Recruit survival rate"
+      ],
+      "pred": [
+        "Mortality rate",
+        "Settlement"
+      ],
+      "matched": {}
+    },
+    "DS03": {
+      "truth": [
+        "Maximum quantum yield"
+      ],
+      "pred": [
+        "Mucus Production",
+        "Photosynthetic efficiency",
+        "Sediment clearance (deposited sediment remaining on coral)"
+      ],
+      "matched": {
+        "Chlorophyll a concentration": "Chlorophyll concentration",
+        "Color index": "Colour index"
+      }
+    },
+    "DS04": {
+      "truth": [
+        "Maximum quantum yield",
+        "Sediment accumulation rate"
+      ],
+      "pred": [
+        "Bleaching",
+        "Final dark-adapted Fv/Fm",
+        "Mortality rate",
+        "Mucus Production",
+        "Percent sediment cover",
+        "Projected area sedimentation rate",
+        "Self-cleaning index (SCI)"
+      ],
+      "matched": {
+        "Sediment accumulation rate": "Projected area sedimentation rate"
+      }
+    },
+    "DS10": {
+      "truth": [
+        "Net photosynthesis",
+        "P/R",
+        "Photosynthetic yield",
+        "Respiration"
+      ],
+      "pred": [
+        "Gross photosynthesis",
+        "P/R ratio"
+      ],
+      "matched": {
+        "Net photosynthesis": "Net photosynthesis",
+        "Respiration": "Respiration",
+        "Photosynthetic yield": "Photosynthetic yield"
+      }
+    },
+    "DS16": {
+      "truth": [],
+      "pred": [
+        "Chlorophyll concentration",
+        "Photosynthesis",
+        "Zooxanthellae density"
+      ],
+      "matched": {}
+    },
+    "DS17": {
+      "truth": [
+        "Maximum photosynthetic yield"
+      ],
+      "pred": [
+        "Fluorescence yield (Fv/Fm)"
+      ],
+      "matched": {}
+    },
+    "DS18": {
+      "truth": [
+        "Colony mortality",
+        "Growth rate",
+        "Tissue mortality"
+      ],
+      "pred": [
+        "Mortality (combined: dead + partial)"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate"
+      }
+    },
+    "DS20": {
+      "truth": [
+        "Mucus Production",
+        "Productivity",
+        "Respiration"
+      ],
+      "pred": [
+        "Daily mucus production",
+        "Mucus as % of 24h PC",
+        "Mucus as % of 24h respiration",
+        "Net photosynthesis (P)",
+        "Net photosynthesis (P/R ratio)",
+        "Respiration (R)"
+      ],
+      "matched": {
+        "Respiration": "Respiration (R)",
+        "Mucus Production": "Daily mucus production"
+      }
+    },
+    "DS21": {
+      "truth": [
+        "Growth rate"
+      ],
+      "pred": [],
+      "matched": {}
+    },
+    "DS25": {
+      "truth": [
+        "Mortality"
+      ],
+      "pred": [
+        "Infection probability (infected fragments)"
+      ],
+      "matched": {}
+    },
+    "DS28": {
+      "truth": [
+        "Energy stores",
+        "n/r"
+      ],
+      "pred": [
+        "Growth rate",
+        "Lipid content",
+        "Photosynthesis"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate",
+        "Maximum photosynthetic yield": "Photosynthesis"
+      }
+    },
+    "DS36": {
+      "truth": [
+        "Growth rate (skeletal)",
+        "Sediment removal",
+        "n/a"
+      ],
+      "pred": [
+        "Coral growth rate (skeletal growth)",
+        "Proportion of sediment removed (6 h after sediment application)"
+      ],
+      "matched": {}
+    },
+    "DS37": {
+      "truth": [
+        "Recruit survival rate"
+      ],
+      "pred": [],
+      "matched": {
+        "Recruit mortality rate": "Mortality rate"
+      }
+    },
+    "DS43": {
+      "truth": [
+        "Net oxygen produced",
+        "Weight (convert to growth rate)"
+      ],
+      "pred": [],
+      "matched": {}
+    },
+    "SS05": {
+      "truth": [],
+      "pred": [],
+      "matched": {
+        "P/R ratio": "P/R ratio",
+        "Respiration": "Respiration",
+        "Net photosynthesis": "Net photosynthesis",
+        "Photosynthetic efficiency": "Photosynthetic yield"
+      }
+    },
+    "SS06": {
+      "truth": [
+        "Max Photosynthetic Yield",
+        "Net Photosynthesis",
+        "P/R ratio",
+        "Partial mortality",
+        "Partial mortality rate",
+        "respiration"
+      ],
+      "pred": [
+        "Net photosynthesis",
+        "Photosynthetic yield",
+        "Respiration"
+      ],
+      "matched": {
+        "Max Photosynthetic Yield": "Photosynthetic yield",
+        "Partial mortality rate": "Tissue mortality",
+        "Net Photosynthesis": "Net photosynthesis",
+        "respiration": "Respiration",
+        "Partial mortality": "Tissue mortality"
+      }
+    },
+    "SS12": {
+      "truth": [],
+      "pred": [
+        "Effective quantum yield (\u0394F/Fm\u2032)",
+        "Growth rate",
+        "Maximum quantum yield (Fv/Fm)",
+        "Respiration (dark respiration, RD)",
+        "Survivorship"
+      ],
+      "matched": {}
+    },
+    "SS15": {
+      "truth": [
+        "Growth rate",
+        "Larval settlement",
+        "Partial mortality",
+        "Total mortality"
+      ],
+      "pred": [
+        "Recruitment"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate",
+        "Total mortality": "Mortality rate"
+      }
+    }
+  }
+}

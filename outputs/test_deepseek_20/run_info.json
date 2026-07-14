@@ -1,0 +1,7 @@
+{
+  "run_name": "test_deepseek_20",
+  "domain": "coral",
+  "model": "deepseek/deepseek-v4-pro",
+  "schema": "1.0.0",
+  "num_papers": 19
+}

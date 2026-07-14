@@ -1,0 +1,294 @@
+{
+  "evaluated_ref_ids": [
+    "DS02",
+    "DS03",
+    "DS04",
+    "DS10",
+    "DS16",
+    "DS17",
+    "DS18",
+    "DS20",
+    "DS21",
+    "DS25",
+    "DS28",
+    "DS37",
+    "DS43",
+    "DS45",
+    "SS04",
+    "SS05",
+    "SS06",
+    "SS12",
+    "SS15"
+  ],
+  "setup_rows": {
+    "num_matched": 111,
+    "num_unmatched_pred": 91,
+    "num_unmatched_truth": 292,
+    "precision": 0.5495049504950495,
+    "recall": 0.27543424317617865,
+    "f1": 0.36694214876033054
+  },
+  "response_rows": {
+    "num_matched": 221,
+    "num_unmatched_pred": 608,
+    "num_unmatched_truth": 717,
+    "precision": 0.26658624849215923,
+    "recall": 0.23560767590618337,
+    "f1": 0.2501414827391058
+  },
+  "response_types": {
+    "DS02": {
+      "truth": [
+        "Larval settlement",
+        "Larval settlement rate",
+        "Recruit survival",
+        "Recruit survival rate"
+      ],
+      "pred": [
+        "Juvenile survival to 8 months (% of reference)",
+        "Settlement (% of reference)"
+      ],
+      "matched": {}
+    },
+    "DS03": {
+      "truth": [],
+      "pred": [
+        "Chlorophyll a concentration",
+        "Colour index",
+        "Maximum quantum yield",
+        "Sediment remaining after 1st deposition",
+        "Sediment remaining after 7th deposition"
+      ],
+      "matched": {
+        "Maximum quantum yield": "Maximum quantum yield",
+        "Chlorophyll a concentration": "Chlorophyll a concentration",
+        "Color index": "Colour index"
+      }
+    },
+    "DS04": {
+      "truth": [
+        "Maximum quantum yield",
+        "Sediment accumulation rate"
+      ],
+      "pred": [
+        "Bleaching",
+        "Final dark-adapted Fv/Fm",
+        "Percent sediment cover",
+        "Self-cleaning index"
+      ],
+      "matched": {
+        "Sediment accumulation rate": "Sediment accumulation on live coral"
+      }
+    },
+    "DS10": {
+      "truth": [
+        "Net photosynthesis",
+        "P/R",
+        "Photosynthetic yield",
+        "Respiration"
+      ],
+      "pred": [
+        "P/R ratio change"
+      ],
+      "matched": {
+        "Photosynthetic yield": "Photosynthetic yield change"
+      }
+    },
+    "DS16": {
+      "truth": [],
+      "pred": [
+        "DF/Fm'",
+        "Fv/Fm",
+        "chlorophyll concentration",
+        "zooxanthellae density"
+      ],
+      "matched": {}
+    },
+    "DS17": {
+      "truth": [
+        "Maximum photosynthetic yield"
+      ],
+      "pred": [],
+      "matched": {
+        "Maximum photosynthetic yield": "Photosynthetic efficiency (Fv/Fm)"
+      }
+    },
+    "DS18": {
+      "truth": [
+        "Colony mortality",
+        "Growth rate",
+        "Tissue mortality"
+      ],
+      "pred": [
+        "growth_rate_percent_per_day",
+        "mortality_percent_dead_Apr_July",
+        "mortality_percent_dead_Aug_Oct",
+        "mortality_percent_dead_Feb_Apr",
+        "mortality_percent_dead_Oct_Feb",
+        "mortality_percent_healthy_Apr_July",
+        "mortality_percent_healthy_Aug_Oct",
+        "mortality_percent_healthy_Feb_Apr",
+        "mortality_percent_healthy_Oct_Feb",
+        "mortality_percent_partial_Apr_July",
+        "mortality_percent_partial_Aug_Oct",
+        "mortality_percent_partial_Feb_Apr",
+        "mortality_percent_partial_Oct_Feb"
+      ],
+      "matched": {
+        "Growth rate": "growth_rate_mg_per_day"
+      }
+    },
+    "DS20": {
+      "truth": [
+        "Mucus Production",
+        "Productivity",
+        "Respiration"
+      ],
+      "pred": [
+        "24-h C-productivity (25% PAR)",
+        "24-h C-productivity (50% PAR)",
+        "24-h P/R (25% PAR)",
+        "24-h P/R (50% PAR)",
+        "24-h respiration (25% PAR)",
+        "24-h respiration (50% PAR)",
+        "Daily mucus production",
+        "Mucous sheet % of daily PC",
+        "Mucous sheet production",
+        "Mucus % of daily PC",
+        "Mucus % of daily Rc",
+        "Noon P/R (25% PAR)",
+        "Noon P/R (50% PAR)"
+      ],
+      "matched": {
+        "Mucus Production": "Daily mucus production",
+        "Respiration": "24-h respiration (50% PAR)",
+        "Productivity": "24-h C-productivity (50% PAR)"
+      }
+    },
+    "DS21": {
+      "truth": [],
+      "pred": [
+        "Growth rate"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate"
+      }
+    },
+    "DS25": {
+      "truth": [
+        "Mortality"
+      ],
+      "pred": [
+        "infection"
+      ],
+      "matched": {}
+    },
+    "DS28": {
+      "truth": [
+        "n/r"
+      ],
+      "pred": [
+        "Energy stores",
+        "Growth rate",
+        "Maximum quantum yield (Fv/Fm)"
+      ],
+      "matched": {
+        "Growth rate": "Growth rate",
+        "Energy stores": "Energy stores",
+        "Maximum photosynthetic yield": "Maximum quantum yield (Fv/Fm)"
+      }
+    },
+    "DS37": {
+      "truth": [
+        "Recruit mortality rate",
+        "Recruit survival rate"
+      ],
+      "pred": [],
+      "matched": {
+        "Recruit mortality rate": "mortality"
+      }
+    },
+    "DS43": {
+      "truth": [
+        "Net oxygen produced",
+        "Weight (convert to growth rate)"
+      ],
+      "pred": [
+        "Tissue damage score"
+      ],
+      "matched": {}
+    },
+    "SS04": {
+      "truth": [
+        "Partial mortality rate",
+        "Total mortality rate"
+      ],
+      "pred": [
+        "chlorophyll a concentration",
+        "colour index",
+        "maximum quantum yield"
+      ],
+      "matched": {
+        "Partial mortality rate": "partial mortality"
+      }
+    },
+    "SS05": {
+      "truth": [
+        "Photosynthetic efficiency"
+      ],
+      "pred": [
+        "Maximum quantum yield"
+      ],
+      "matched": {
+        "P/R ratio": "P/R ratio",
+        "Respiration": "Respiration",
+        "Net photosynthesis": "Net photosynthesis"
+      }
+    },
+    "SS06": {
+      "truth": [
+        "Max Photosynthetic Yield",
+        "Net Photosynthesis",
+        "P/R ratio",
+        "Partial mortality",
+        "Partial mortality rate",
+        "respiration"
+      ],
+      "pred": [
+        "Maximum photosynthetic yield",
+        "Net photosynthesis",
+        "Respiration"
+      ],
+      "matched": {
+        "Max Photosynthetic Yield": "Maximum photosynthetic yield",
+        "Partial mortality rate": "Tissue mortality",
+        "Net Photosynthesis": "Net photosynthesis",
+        "respiration": "Respiration",
+        "Partial mortality": "Tissue mortality"
+      }
+    },
+    "SS12": {
+      "truth": [],
+      "pred": [
+        "effective quantum yield",
+        "growth",
+        "maximum quantum yield",
+        "net photosynthesis",
+        "respiration",
+        "survivorship"
+      ],
+      "matched": {}
+    },
+    "SS15": {
+      "truth": [
+        "Larval settlement",
+        "Partial mortality"
+      ],
+      "pred": [],
+      "matched": {
+        "Total mortality": "mortality",
+        "Growth rate": "growth"
+      }
+    }
+  }
+}

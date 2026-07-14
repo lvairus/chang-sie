@@ -1,0 +1,30 @@
+variable,accuracy,fuzzy_score,numcat,oginf,speco
+Study location,0.018018018018018018,0.337207482670364,desc,og,Study
+Study site,0.6126126126126126,0.6915073882815822,cat,inf,Study
+Study type,0.7387387387387387,0.7387387387387387,,,
+Event latitude,0.5045045045045045,0.5045045045045045,num,inf,Study
+Event longitude,0.5045045045045045,0.5045045045045045,num,inf,Study
+Coral age class,0.9099099099099099,0.9115479115479116,cat,inf,Population
+Current genus name,0.963963963963964,0.9978802331743507,cat,og,Population
+Current species name,0.963963963963964,0.9975975975975977,cat,og,Population
+Colony form,0.32432432432432434,0.5299565299565294,cat,inf,Population
+Sediment composition,0.0,0.382533543587168,desc,summ,Exposure
+Sediment level,0.7297297297297297,0.7297297297297297,num,og,Exposure
+Sediment level UoM,0.35135135135135137,0.6392873998756347,cat,og,Exposure
+Sediment level converted to mg/cm2/day,0.23423423423423423,0.23423423423423423,num,calc,Exposure
+Sediment N for computing average,0.4144144144144144,0.4144144144144144,num,og,Exposure
+Sediment N UoM,0.13513513513513514,0.3014179165721818,desc,summ,Exposure
+Sediment upper error estimate,0.4594594594594595,0.4594594594594595,num,og,Exposure
+Sediment level error type,0.3783783783783784,0.5147647647647643,cat,og,Exposure
+Sediment notes,0.0,0.18153641198201248,desc,summ,Exposure
+Increased mucus?,0.018018018018018018,0.018018018018018018,bin,inf,Binary Responses
+Mortality reported?,0.2972972972972973,0.2972972972972973,bin,inf,Data Reported?
+Response type,0.40271493212669685,0.8373096973117397,cat,inf,Outcome
+Response level,0.28054298642533937,0.28054298642533937,num,inf,Outcome
+Unit of measurement,0.01809954751131222,0.314212368623572,cat,og,Outcome
+N for computing average,0.48868778280542985,0.48868778280542985,num,og,Outcome
+N UoM,0.35294117647058826,0.4714010636837403,desc,summ,Outcome
+Source of data,0.0,0.29377994605820307,desc,summ,Outcome
+num_species,0.7647058823529411,0.7647058823529411,num,inf,arity
+num_setups,0.11764705882352941,0.11764705882352941,num,inf,arity
+num_responses,0.29411764705882354,0.29411764705882354,num,inf,arity

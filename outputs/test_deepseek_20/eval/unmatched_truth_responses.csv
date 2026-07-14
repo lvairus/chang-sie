@@ -1,0 +1,718 @@
+best_score,truth_response_type,pred_response_type,best_match,response_id,setup_id,RefID,Response type,Response level,Unit of measurement,Average type,N for computing average,N UoM,"Lower error bound, if taken from Figure","Upper error bound, if taken from Figure",Lower error estimate,Upper error estimate,Error type,"Time to response, numeric","Time to response, UoM","Duration of response, numeric","Duration of response, UoM",Source of data
+0.3548387096774194,Recruit survival,Juvenile survival to 8 months (% of reference),DS02_001,DS02_03_R1,DS02_03,DS02,Recruit survival,1.4,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.1,2.7,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+0.417910447761194,Recruit survival rate,Juvenile survival to 8 months (% of reference),DS02_001,DS02_03_R2,DS02_03,DS02,Recruit survival rate,5.49,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.53,8.41,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+0.3548387096774194,Recruit survival,Juvenile survival to 8 months (% of reference),DS02_002,DS02_04_R1,DS02_04,DS02,Recruit survival,0.6,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,1.2,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+0.417910447761194,Recruit survival rate,Juvenile survival to 8 months (% of reference),DS02_002,DS02_04_R2,DS02_04,DS02,Recruit survival rate,3.16,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,4.90,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Larval settlement,,,DS02_01_R1,DS02_01,DS02,Larval settlement,25.5,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",18.9,32.1,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_01_R2,DS02_01,DS02,Larval settlement rate,2.13,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.58,2.68,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Larval settlement,,,DS02_02_R1,DS02_02,DS02,Larval settlement,19.0,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",13.5,24.5,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_02_R2,DS02_02,DS02,Larval settlement rate,1.58,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.13,2.04,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Larval settlement,,,DS02_05_R1,DS02_05,DS02,Larval settlement,3.1,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.3,4.9,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_05_R2,DS02_05,DS02,Larval settlement rate,0.26,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.11,0.41,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Larval settlement,,,DS02_06_R1,DS02_06,DS02,Larval settlement,1.7,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.7,1.7,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_06_R2,DS02_06,DS02,Larval settlement rate,0.14,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.14,0.14,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Recruit survival,,,DS02_07_R1,DS02_07,DS02,Recruit survival,0.0,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,0.0,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_07_R2,DS02_07,DS02,Recruit survival rate,0.00,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,0.00,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Recruit survival,,,DS02_08_R1,DS02_08,DS02,Recruit survival,0.0,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,0.0,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_08_R2,DS02_08,DS02,Recruit survival rate,0.00,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,0.00,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Larval settlement,,,DS02_09_R1,DS02_09,DS02,Larval settlement,0.7,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.7,0.7,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_09_R2,DS02_09,DS02,Larval settlement rate,0.06,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.06,0.06,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Larval settlement,,,DS02_10_R1,DS02_10,DS02,Larval settlement,0.0,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,0.0,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_10_R2,DS02_10,DS02,Larval settlement rate,0.00,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,0.00,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Recruit survival,,,DS02_11_R1,DS02_11,DS02,Recruit survival,0.1,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.1,0.1,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_11_R2,DS02_11,DS02,Recruit survival rate,14.29,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",14.29,14.29,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Recruit survival,,,DS02_12_R1,DS02_12,DS02,Recruit survival,0.0,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,0.0,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_12_R2,DS02_12,DS02,Recruit survival rate,0.00,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,0.00,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Larval settlement,,,DS02_13_R1,DS02_13,DS02,Larval settlement,28.6,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",21.5,35.7,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_13_R2,DS02_13,DS02,Larval settlement rate,2.38,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.79,2.98,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Larval settlement,,,DS02_14_R1,DS02_14,DS02,Larval settlement,20.1,number of larvae settled per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",13.2,27.0,n/a,n/a,95% CI,4,days,n/a,n/a,Fig. 1 Datathief
+,Larval settlement rate,,,DS02_14_R2,DS02_14,DS02,Larval settlement rate,1.68,"% of larvae settled, of n=1630 larvae released per tank",mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.10,2.25,n/a,n/a,95% CI,4,days,n/a,n/a,"Larval settlement (Response 1) converted to a rate, based on estimate that 1200 larvae released into each field enclosure"
+,Recruit survival,,,DS02_15_R1,DS02_15,DS02,Recruit survival,1.4,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.4,2.4,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_15_R2,DS02_15,DS02,Recruit survival rate,4.90,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",1.86,6.72,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Recruit survival,,,DS02_16_R1,DS02_16,DS02,Recruit survival,0.5,number of larvae per plate,mean,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.0,1.0,n/a,n/a,95% CI,8,months,n/a,n/a,Fig. 2 Datathief
+,Recruit survival rate,,,DS02_16_R2,DS02_16,DS02,Recruit survival rate,2.49,% of settlers that survived 8 months,mean rate,16,"settlement plate, each 64 cm2 area with 48 hr to settle",0.00,3.70,n/a,n/a,95% CI,8,months,n/a,n/a,Recruit survival (Response 1) converted to a rate: 100*(# survived 8 mo/# settled after 4 days)
+,Sediment accumulation rate,,,DS04_03_R1,DS04_03,DS04,Sediment accumulation rate,2.5,mg/cm2,mean,9,fragments,1.0,4.0,1.5,1.5,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_04_R1,DS04_04,DS04,Sediment accumulation rate,0.2,mg/cm2,mean,9,fragments,0.2,0.2,0.0,0.0,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_05_R1,DS04_05,DS04,Sediment accumulation rate,2.5,mg/cm2,mean,9,fragments,1.5,3.5,1.0,1.0,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_06_R1,DS04_06,DS04,Sediment accumulation rate,0.0,mg/cm2,mean,9,fragments,-0.1,0.1,0.1,0.1,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_07_R1,DS04_07,DS04,Sediment accumulation rate,0.4,mg/cm2,mean,9,fragments,0.2,0.6,0.2,0.2,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_08_R1,DS04_08,DS04,Sediment accumulation rate,0.2,mg/cm2,mean,9,fragments,0.0,0.4,0.2,0.2,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_09_R1,DS04_09,DS04,Sediment accumulation rate,0.0,mg/cm2,mean,9,fragments,-0.2,0.2,0.2,0.2,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_10_R1,DS04_10,DS04,Sediment accumulation rate,0.0,mg/cm2,mean,9,fragments,-0.1,0.1,0.1,0.1,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_11_R1,DS04_11,DS04,Sediment accumulation rate,72.4,mg/cm2,mean,9,fragments,63.4,81.4,9.0,9.0,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_11_R2,DS04_11,DS04,Maximum quantum yield,100,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_12_R2,DS04_12,DS04,Maximum quantum yield,88,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_13_R1,DS04_13,DS04,Sediment accumulation rate,43.9,mg/cm2,mean,9,fragments,33.2,54.6,10.7,10.7,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_13_R2,DS04_13,DS04,Maximum quantum yield,95,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_14_R2,DS04_14,DS04,Maximum quantum yield,101,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_15_R1,DS04_15,DS04,Sediment accumulation rate,68.5,mg/cm2,mean,9,fragments,57.8,79.2,10.7,10.7,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_15_R2,DS04_15,DS04,Maximum quantum yield,96,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_16_R2,DS04_16,DS04,Maximum quantum yield,86,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_17_R1,DS04_17,DS04,Sediment accumulation rate,32.9,mg/cm2,mean,9,fragments,24.1,41.7,8.8,8.8,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_17_R2,DS04_17,DS04,Maximum quantum yield,92,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_18_R2,DS04_18,DS04,Maximum quantum yield,104,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_19_R1,DS04_19,DS04,Sediment accumulation rate,65.0,mg/cm2,mean,9,fragments,54.0,76.0,11.0,11.0,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_19_R2,DS04_19,DS04,Maximum quantum yield,85,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_20_R2,DS04_20,DS04,Maximum quantum yield,85,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_21_R1,DS04_21,DS04,Sediment accumulation rate,36.4,mg/cm2,mean,9,fragments,18.4,54.4,18.0,18.0,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_21_R2,DS04_21,DS04,Maximum quantum yield,90,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_22_R2,DS04_22,DS04,Maximum quantum yield,100,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_23_R1,DS04_23,DS04,Sediment accumulation rate,71.3,mg/cm2,mean,9,fragments,59.5,83.1,11.8,11.8,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_23_R2,DS04_23,DS04,Maximum quantum yield,81,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_24_R2,DS04_24,DS04,Maximum quantum yield,76,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_25_R1,DS04_25,DS04,Sediment accumulation rate,27.9,mg/cm2,mean,9,fragments,15.5,40.3,12.4,12.4,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_25_R2,DS04_25,DS04,Maximum quantum yield,94,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_26_R2,DS04_26,DS04,Maximum quantum yield,100,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_27_R1,DS04_27,DS04,Sediment accumulation rate,59.1,mg/cm2,mean,9,fragments,52.0,66.2,7.1,7.1,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_27_R2,DS04_27,DS04,Maximum quantum yield,71,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,16,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_28_R2,DS04_28,DS04,Maximum quantum yield,74,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_29_R1,DS04_29,DS04,Sediment accumulation rate,27.1,mg/cm2,mean,9,fragments,16.4,37.8,10.7,10.7,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_29_R2,DS04_29,DS04,Maximum quantum yield,73,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,16,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_30_R2,DS04_30,DS04,Maximum quantum yield,96,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_31_R1,DS04_31,DS04,Sediment accumulation rate,8.7,mg/cm2,mean,9,fragments,1.7,15.7,7.0,7.0,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_31_R2,DS04_31,DS04,Maximum quantum yield,98,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_32_R2,DS04_32,DS04,Maximum quantum yield,92,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_33_R1,DS04_33,DS04,Sediment accumulation rate,3.5,mg/cm2,mean,9,fragments,2.0,5.0,1.5,1.5,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_33_R2,DS04_33,DS04,Maximum quantum yield,91,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_34_R2,DS04_34,DS04,Maximum quantum yield,103,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_35_R1,DS04_35,DS04,Sediment accumulation rate,2.2,mg/cm2,mean,9,fragments,1.2,3.2,1.0,1.0,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_35_R2,DS04_35,DS04,Maximum quantum yield,94,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_36_R2,DS04_36,DS04,Maximum quantum yield,90,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_37_R1,DS04_37,DS04,Sediment accumulation rate,1.9,mg/cm2,mean,9,fragments,1.1,2.7,0.8,0.8,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_37_R2,DS04_37,DS04,Maximum quantum yield,70,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_38_R2,DS04_38,DS04,Maximum quantum yield,95,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_39_R1,DS04_39,DS04,Sediment accumulation rate,3.3,mg/cm2,mean,9,fragments,1.3,5.3,2.0,2.0,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_39_R2,DS04_39,DS04,Maximum quantum yield,99,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_40_R2,DS04_40,DS04,Maximum quantum yield,81,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_41_R1,DS04_41,DS04,Sediment accumulation rate,3.6,mg/cm2,mean,9,fragments,2.6,4.6,1.0,1.0,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_41_R2,DS04_41,DS04,Maximum quantum yield,95,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_42_R2,DS04_42,DS04,Maximum quantum yield,94,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_43_R1,DS04_43,DS04,Sediment accumulation rate,2.6,mg/cm2,mean,9,fragments,1.7,3.5,0.9,0.9,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_43_R2,DS04_43,DS04,Maximum quantum yield,97,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_44_R2,DS04_44,DS04,Maximum quantum yield,71,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_45_R1,DS04_45,DS04,Sediment accumulation rate,3.6,mg/cm2,mean,9,fragments,2.1,5.1,1.5,1.5,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_45_R2,DS04_45,DS04,Maximum quantum yield,84,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_46_R2,DS04_46,DS04,Maximum quantum yield,94,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_47_R1,DS04_47,DS04,Sediment accumulation rate,1.4,mg/cm2,mean,9,fragments,0.9,1.9,0.5,0.5,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_47_R2,DS04_47,DS04,Maximum quantum yield,103,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,16,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_48_R2,DS04_48,DS04,Maximum quantum yield,76,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_49_R1,DS04_49,DS04,Sediment accumulation rate,0.5,mg/cm2,mean,9,fragments,0.4,0.6,0.1,0.1,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Sediment accumulation rate,,,DS04_51_R1,DS04_51,DS04,Sediment accumulation rate,27.3,mg/cm2,mean,9,fragments,19.3,35.3,8.0,8.0,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_51_R2,DS04_51,DS04,Maximum quantum yield,87,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_52_R2,DS04_52,DS04,Maximum quantum yield,79,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_53_R1,DS04_53,DS04,Sediment accumulation rate,22.3,mg/cm2,mean,9,fragments,13.3,31.3,9.0,9.0,s.e.,1,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_53_R2,DS04_53,DS04,Maximum quantum yield,102,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,1,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_54_R2,DS04_54,DS04,Maximum quantum yield,107,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_55_R1,DS04_55,DS04,Sediment accumulation rate,28.2,mg/cm2,mean,9,fragments,22.0,34.4,6.2,6.2,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_55_R2,DS04_55,DS04,Maximum quantum yield,67,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_56_R2,DS04_56,DS04,Maximum quantum yield,91,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_57_R1,DS04_57,DS04,Sediment accumulation rate,32.6,mg/cm2,mean,9,fragments,20.5,44.7,12.1,12.1,s.e.,2,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_57_R2,DS04_57,DS04,Maximum quantum yield,76,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,2,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_58_R2,DS04_58,DS04,Maximum quantum yield,104,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_59_R1,DS04_59,DS04,Sediment accumulation rate,22.9,mg/cm2,mean,9,fragments,18.8,27.0,4.1,4.1,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_59_R2,DS04_59,DS04,Maximum quantum yield,79,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_60_R2,DS04_60,DS04,Maximum quantum yield,82,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_61_R1,DS04_61,DS04,Sediment accumulation rate,38.1,mg/cm2,mean,9,fragments,26.0,50.2,12.1,12.1,s.e.,4,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_61_R2,DS04_61,DS04,Maximum quantum yield,68,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,4,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_62_R2,DS04_62,DS04,Maximum quantum yield,94,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_63_R1,DS04_63,DS04,Sediment accumulation rate,25.4,mg/cm2,mean,9,fragments,16.7,34.1,8.7,8.7,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_63_R2,DS04_63,DS04,Maximum quantum yield,63,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_64_R2,DS04_64,DS04,Maximum quantum yield,75,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_65_R1,DS04_65,DS04,Sediment accumulation rate,18.3,mg/cm2,mean,9,fragments,11.2,25.4,7.1,7.1,s.e.,8,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_65_R2,DS04_65,DS04,Maximum quantum yield,51,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,8,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_66_R2,DS04_66,DS04,Maximum quantum yield,90,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_67_R1,DS04_67,DS04,Sediment accumulation rate,22.9,mg/cm2,mean,9,fragments,13.9,31.9,9.0,9.0,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_67_R2,DS04_67,DS04,Maximum quantum yield,71,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,16,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_68_R2,DS04_68,DS04,Maximum quantum yield,83,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,58,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Sediment accumulation rate,,,DS04_69_R1,DS04_69,DS04,Sediment accumulation rate,16.7,mg/cm2,mean,9,fragments,8.9,24.5,7.8,7.8,s.e.,16,day,n/a,n/a,Fig. 6 with Datathief
+,Maximum quantum yield,,,DS04_69_R2,DS04_69,DS04,Maximum quantum yield,71,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,16,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+,Maximum quantum yield,,,DS04_70_R2,DS04_70,DS04,Maximum quantum yield,93,"Fv/Fm, % of control","mean, standardized to control",9,fragments,n/r,n/r,n/r,n/r,n/r,56,day,n/a,n/a,"Fig. 7 with Datathief, initial and final timepoint for each sediment treatment"
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_003,DS10_05_R1,DS10_05,DS10,Net photosynthesis,2.79,micromol/cm2/hr,mean,4,fragments,2.66,2.92,0.13,0.13,s.e.,1,week,n/a,n/a,Fig. 3A with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_003,DS10_05_R2,DS10_05,DS10,Respiration,0.91,micromol/cm2/hr,mean,4,fragments,0.87,0.95,0.04,0.04,s.e.,1,week,n/a,n/a,Fig. 3B with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_003,DS10_05_R3,DS10_05,DS10,P/R,4.10,ratio,mean,4,fragments,4.08,4.12,0.02,0.02,s.e.,1,week,n/a,n/a,Fig. 3C with Datathief
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_006,DS10_13_R1,DS10_13,DS10,Net photosynthesis,2.72,micromol/cm2/hr,mean,4,fragments,2.59,2.85,0.13,0.13,s.e.,1,week,n/a,n/a,Fig. 3D with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_006,DS10_13_R2,DS10_13,DS10,Respiration,0.96,micromol/cm2/hr,mean,4,fragments,0.91,1.01,0.05,0.05,s.e.,1,week,n/a,n/a,Fig. 3E with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_006,DS10_13_R3,DS10_13,DS10,P/R,3.84,ratio,mean,4,fragments,3.83,3.85,0.01,0.01,s.e.,1,week,n/a,n/a,Fig. 3F with Datathief
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_001,DS10_01_R1,DS10_01,DS10,Net photosynthesis,2.80,micromol/cm2/hr,mean,4,fragments,2.59,3.01,0.21,0.21,s.e.,1,week,n/a,n/a,Fig. 3A with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_001,DS10_01_R2,DS10_01,DS10,Respiration,0.90,micromol/cm2/hr,mean,4,fragments,0.85,0.95,0.05,0.05,s.e.,1,week,n/a,n/a,Fig. 3B with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_001,DS10_01_R3,DS10_01,DS10,P/R,4.13,ratio,mean,4,fragments,4.07,4.19,0.06,0.06,s.e.,1,week,n/a,n/a,Fig. 3C with Datathief
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_002,DS10_02_R1,DS10_02,DS10,Net photosynthesis,2.79,micromol/cm2/hr,mean,4,fragments,2.58,3.00,0.21,0.21,s.e.,2,week,n/a,n/a,Fig. 3A with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_002,DS10_02_R2,DS10_02,DS10,Respiration,0.89,micromol/cm2/hr,mean,4,fragments,0.83,0.95,0.06,0.06,s.e.,2,week,n/a,n/a,Fig. 3B with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_002,DS10_02_R3,DS10_02,DS10,P/R,4.17,ratio,mean,4,fragments,4.13,4.21,0.04,0.04,s.e.,2,week,n/a,n/a,Fig. 3C with Datathief
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_004,DS10_09_R1,DS10_09,DS10,Net photosynthesis,2.68,micromol/cm2/hr,mean,4,fragments,2.56,2.80,0.12,0.12,s.e.,1,week,n/a,n/a,Fig. 3D with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_004,DS10_09_R2,DS10_09,DS10,Respiration,0.93,micromol/cm2/hr,mean,4,fragments,0.81,1.05,0.12,0.12,s.e.,1,week,n/a,n/a,Fig. 3E with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_004,DS10_09_R3,DS10_09,DS10,P/R,3.88,ratio,mean,4,fragments,3.80,3.96,0.08,0.08,s.e.,1,week,n/a,n/a,Fig. 3F with Datathief
+0.5333333333333333,Net photosynthesis,Photosynthetic yield change,DS10_005,DS10_10_R1,DS10_10,DS10,Net photosynthesis,2.67,micromol/cm2/hr,mean,4,fragments,2.54,2.80,0.13,0.13,s.e.,2,week,n/a,n/a,Fig. 3D with Datathief
+0.5185185185185185,Respiration,P/R ratio change,DS10_005,DS10_10_R2,DS10_10,DS10,Respiration,0.93,micromol/cm2/hr,mean,4,fragments,0.82,1.04,0.11,0.11,s.e.,2,week,n/a,n/a,Fig. 3E with Datathief
+0.3157894736842105,P/R,P/R ratio change,DS10_005,DS10_10_R3,DS10_10,DS10,P/R,3.90,ratio,mean,4,fragments,3.82,3.98,0.08,0.08,s.e.,2,week,n/a,n/a,Fig. 3F with Datathief
+,Net photosynthesis,,,DS10_03_R1,DS10_03,DS10,Net photosynthesis,2.79,micromol/cm2/hr,mean,4,fragments,2.59,2.99,0.20,0.20,s.e.,3,week,n/a,n/a,Fig. 3A with Datathief
+,Respiration,,,DS10_03_R2,DS10_03,DS10,Respiration,0.89,micromol/cm2/hr,mean,4,fragments,0.83,0.95,0.06,0.06,s.e.,3,week,n/a,n/a,Fig. 3B with Datathief
+,P/R,,,DS10_03_R3,DS10_03,DS10,P/R,4.16,ratio,mean,4,fragments,4.11,4.21,0.05,0.05,s.e.,3,week,n/a,n/a,Fig. 3C with Datathief
+,Photosynthetic yield,,,DS10_03_R4,DS10_03,DS10,Photosynthetic yield,0.50,Fv/Fm,mean,4,fragments,0.49,0.51,0.01,0.01,s.e.,3,week,n/a,n/a,Fig. 4A with Datathief
+,Net photosynthesis,,,DS10_04_R1,DS10_04,DS10,Net photosynthesis,2.78,micromol/cm2/hr,mean,4,fragments,2.57,2.99,0.21,0.21,s.e.,4,week,n/a,n/a,Fig. 3A with Datathief
+,Respiration,,,DS10_04_R2,DS10_04,DS10,Respiration,0.90,micromol/cm2/hr,mean,4,fragments,0.84,0.96,0.06,0.06,s.e.,4,week,n/a,n/a,Fig. 3B with Datathief
+,P/R,,,DS10_04_R3,DS10_04,DS10,P/R,4.12,ratio,mean,4,fragments,4.07,4.17,0.05,0.05,s.e.,4,week,n/a,n/a,Fig. 3C with Datathief
+,Photosynthetic yield,,,DS10_04_R4,DS10_04,DS10,Photosynthetic yield,0.53,Fv/Fm,mean,4,fragments,0.52,0.54,0.01,0.01,s.e.,4,week,n/a,n/a,Fig. 4A with Datathief
+,Net photosynthesis,,,DS10_06_R1,DS10_06,DS10,Net photosynthesis,2.77,micromol/cm2/hr,mean,4,fragments,2.64,2.90,0.13,0.13,s.e.,2,week,n/a,n/a,Fig. 3A with Datathief
+,Respiration,,,DS10_06_R2,DS10_06,DS10,Respiration,0.92,micromol/cm2/hr,mean,4,fragments,0.88,0.96,0.04,0.04,s.e.,2,week,n/a,n/a,Fig. 3B with Datathief
+,P/R,,,DS10_06_R3,DS10_06,DS10,P/R,4.05,ratio,mean,4,fragments,4.04,4.06,0.01,0.01,s.e.,2,week,n/a,n/a,Fig. 3C with Datathief
+,Photosynthetic yield,,,DS10_06_R4,DS10_06,DS10,Photosynthetic yield,0.48,Fv/Fm,mean,4,fragments,0.48,0.48,0.00,0.00,s.e.,2,week,n/a,n/a,Fig. 4A with Datathief
+,Net photosynthesis,,,DS10_07_R1,DS10_07,DS10,Net photosynthesis,2.44,micromol/cm2/hr,mean,4,fragments,2.34,2.54,0.10,0.10,s.e.,3,week,n/a,n/a,Fig. 3A with Datathief
+,Respiration,,,DS10_07_R2,DS10_07,DS10,Respiration,1.00,micromol/cm2/hr,mean,4,fragments,0.96,1.04,0.04,0.04,s.e.,3,week,n/a,n/a,Fig. 3B with Datathief
+,P/R,,,DS10_07_R3,DS10_07,DS10,P/R,3.37,ratio,mean,4,fragments,3.20,3.54,0.17,0.17,s.e.,3,week,n/a,n/a,Fig. 3C with Datathief
+,Photosynthetic yield,,,DS10_07_R4,DS10_07,DS10,Photosynthetic yield,0.41,Fv/Fm,mean,4,fragments,0.39,0.43,0.02,0.02,s.e.,3,week,n/a,n/a,Fig. 4A with Datathief
+,Net photosynthesis,,,DS10_08_R1,DS10_08,DS10,Net photosynthesis,2.22,micromol/cm2/hr,mean,4,fragments,2.12,2.32,0.10,0.10,s.e.,4,week,n/a,n/a,Fig. 3A with Datathief
+,Respiration,,,DS10_08_R2,DS10_08,DS10,Respiration,1.00,micromol/cm2/hr,mean,4,fragments,0.96,1.04,0.04,0.04,s.e.,4,week,n/a,n/a,Fig. 3B with Datathief
+,P/R,,,DS10_08_R3,DS10_08,DS10,P/R,3.24,ratio,mean,4,fragments,3.16,3.32,0.08,0.08,s.e.,4,week,n/a,n/a,Fig. 3C with Datathief
+,Photosynthetic yield,,,DS10_08_R4,DS10_08,DS10,Photosynthetic yield,0.41,Fv/Fm,mean,4,fragments,0.40,0.42,0.01,0.01,s.e.,4,week,n/a,n/a,Fig. 4A with Datathief
+,Net photosynthesis,,,DS10_11_R1,DS10_11,DS10,Net photosynthesis,2.66,micromol/cm2/hr,mean,4,fragments,2.53,2.79,0.13,0.13,s.e.,3,week,n/a,n/a,Fig. 3D with Datathief
+,Respiration,,,DS10_11_R2,DS10_11,DS10,Respiration,0.92,micromol/cm2/hr,mean,4,fragments,0.81,1.03,0.11,0.11,s.e.,3,week,n/a,n/a,Fig. 3E with Datathief
+,P/R,,,DS10_11_R3,DS10_11,DS10,P/R,3.90,ratio,mean,4,fragments,3.83,3.97,0.07,0.07,s.e.,3,week,n/a,n/a,Fig. 3F with Datathief
+,Photosynthetic yield,,,DS10_11_R4,DS10_11,DS10,Photosynthetic yield,0.67,Fv/Fm,mean,4,fragments,0.67,0.67,0.00,0.00,s.e.,3,week,n/a,n/a,Fig. 4B with Datathief
+,Net photosynthesis,,,DS10_12_R1,DS10_12,DS10,Net photosynthesis,2.64,micromol/cm2/hr,mean,4,fragments,2.50,2.78,0.14,0.14,s.e.,4,week,n/a,n/a,Fig. 3D with Datathief
+,Respiration,,,DS10_12_R2,DS10_12,DS10,Respiration,0.92,micromol/cm2/hr,mean,4,fragments,0.81,1.03,0.11,0.11,s.e.,4,week,n/a,n/a,Fig. 3E with Datathief
+,P/R,,,DS10_12_R3,DS10_12,DS10,P/R,3.88,ratio,mean,4,fragments,3.81,3.95,0.07,0.07,s.e.,4,week,n/a,n/a,Fig. 3F with Datathief
+,Photosynthetic yield,,,DS10_12_R4,DS10_12,DS10,Photosynthetic yield,0.67,Fv/Fm,mean,4,fragments,0.66,0.68,0.01,0.01,s.e.,4,week,n/a,n/a,Fig. 4B with Datathief
+,Net photosynthesis,,,DS10_14_R1,DS10_14,DS10,Net photosynthesis,2.71,micromol/cm2/hr,mean,4,fragments,2.59,2.83,0.12,0.12,s.e.,2,week,n/a,n/a,Fig. 3D with Datathief
+,Respiration,,,DS10_14_R2,DS10_14,DS10,Respiration,0.97,micromol/cm2/hr,mean,4,fragments,0.92,1.02,0.05,0.05,s.e.,2,week,n/a,n/a,Fig. 3E with Datathief
+,P/R,,,DS10_14_R3,DS10_14,DS10,P/R,3.80,ratio,mean,4,fragments,3.78,3.82,0.02,0.02,s.e.,2,week,n/a,n/a,Fig. 3F with Datathief
+,Photosynthetic yield,,,DS10_14_R4,DS10_14,DS10,Photosynthetic yield,0.54,Fv/Fm,mean,4,fragments,0.52,0.56,0.02,0.02,s.e.,2,week,n/a,n/a,Fig. 4B with Datathief
+,Net photosynthesis,,,DS10_15_R1,DS10_15,DS10,Net photosynthesis,2.43,micromol/cm2/hr,mean,4,fragments,2.34,2.52,0.09,0.09,s.e.,3,week,n/a,n/a,Fig. 3D with Datathief
+,Respiration,,,DS10_15_R2,DS10_15,DS10,Respiration,1.10,micromol/cm2/hr,mean,4,fragments,1.04,1.16,0.06,0.06,s.e.,3,week,n/a,n/a,Fig. 3E with Datathief
+,P/R,,,DS10_15_R3,DS10_15,DS10,P/R,3.23,ratio,mean,4,fragments,3.19,3.27,0.04,0.04,s.e.,3,week,n/a,n/a,Fig. 3F with Datathief
+,Photosynthetic yield,,,DS10_15_R4,DS10_15,DS10,Photosynthetic yield,0.51,Fv/Fm,mean,4,fragments,0.50,0.52,0.01,0.01,s.e.,3,week,n/a,n/a,Fig. 4B with Datathief
+,Net photosynthesis,,,DS10_16_R1,DS10_16,DS10,Net photosynthesis,2.23,micromol/cm2/hr,mean,4,fragments,2.15,2.31,0.08,0.08,s.e.,4,week,n/a,n/a,Fig. 3D with Datathief
+,Respiration,,,DS10_16_R2,DS10_16,DS10,Respiration,1.10,micromol/cm2/hr,mean,4,fragments,1.04,1.16,0.06,0.06,s.e.,4,week,n/a,n/a,Fig. 3E with Datathief
+,P/R,,,DS10_16_R3,DS10_16,DS10,P/R,3.05,ratio,mean,4,fragments,3.01,3.09,0.04,0.04,s.e.,4,week,n/a,n/a,Fig. 3F with Datathief
+,Photosynthetic yield,,,DS10_16_R4,DS10_16,DS10,Photosynthetic yield,0.40,Fv/Fm,mean,4,fragments,0.37,0.43,0.03,0.03,s.e.,4,week,n/a,n/a,Fig. 4B with Datathief
+,Maximum photosynthetic yield,,,DS17_04_R1,DS17_04,DS17,Maximum photosynthetic yield,0.61,Fv/Fm,mean,3,colonies,0.61,0.61,0.00,0.00,s.d.,21,hr,n/a,n/a,"Fig. 1A with Datathief; can also get individual level data from Fig. 2, if interested"
+,Maximum photosynthetic yield,,,DS17_07_R1,DS17_07,DS17,Maximum photosynthetic yield,0.61,Fv/Fm,mean,3,colonies,0.59,0.63,0.02,0.02,s.d.,30,hr,n/a,n/a,"Fig. 1A with Datathief; can also get individual level data from Fig. 2, if interested"
+,Maximum photosynthetic yield,,,DS17_10_R1,DS17_10,DS17,Maximum photosynthetic yield,0.60,Fv/Fm,mean,3,colonies,0.60,0.60,0.00,0.00,s.d.,45,hr,n/a,n/a,"Fig. 1A with Datathief; can also get individual level data from Fig. 2, if interested"
+,Maximum photosynthetic yield,,,DS17_16_R1,DS17_16,DS17,Maximum photosynthetic yield,0.61,Fv/Fm,mean,3,colonies,0.58,0.64,0.03,0.03,s.d.,21,hr,n/a,n/a,"Fig. 1B with Datathief; can also get individual level data from Fig. 2, if interested"
+,Maximum photosynthetic yield,,,DS17_19_R1,DS17_19,DS17,Maximum photosynthetic yield,0.57,Fv/Fm,mean,3,colonies,0.52,0.62,0.05,0.05,s.d.,30,hr,n/a,n/a,"Fig. 1B with Datathief; can also get individual level data from Fig. 2, if interested"
+,Maximum photosynthetic yield,,,DS17_22_R1,DS17_22,DS17,Maximum photosynthetic yield,0.57,Fv/Fm,mean,3,colonies,0.54,0.60,0.03,0.03,s.d.,45,hr,n/a,n/a,"Fig. 1B with Datathief; can also get individual level data from Fig. 2, if interested"
+0.6060606060606061,Growth rate,growth_rate_mg_per_day,DS18_001,DS18_04_R2,DS18_04,DS18,Growth rate,3.4,%/day (coral weight change),mean,24,colonies,3.1,3.7,0.3,0.3,s.d.,53,days,n/a,n/a,Fig. 6B with Datathief
+0.391304347826087,Tissue mortality,mortality_percent_dead_Aug_Oct,DS18_001,DS18_04_R3,DS18_04,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3
+0.391304347826087,Colony mortality,mortality_percent_dead_Aug_Oct,DS18_001,DS18_04_R4,DS18_04,DS18,Colony mortality,0.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3
+0.6060606060606061,Growth rate,growth_rate_mg_per_day,DS18_002,DS18_08_R2,DS18_08,DS18,Growth rate,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Fig. 6B with Datathief
+0.391304347826087,Tissue mortality,mortality_percent_dead_Aug_Oct,DS18_002,DS18_08_R3,DS18_08,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3; mortality attributed to storms
+0.391304347826087,Colony mortality,mortality_percent_dead_Aug_Oct,DS18_002,DS18_08_R4,DS18_08,DS18,Colony mortality,100.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3; mortality attributed to storms
+0.6060606060606061,Growth rate,growth_rate_mg_per_day,DS18_003,DS18_12_R2,DS18_12,DS18,Growth rate,-0.6,%/day (coral weight change),mean,24,colonies,-0.9,-0.3,0.3,0.3,s.d.,57,days,n/a,n/a,Fig. 6B with Datathief
+0.391304347826087,Tissue mortality,mortality_percent_dead_Aug_Oct,DS18_003,DS18_12_R3,DS18_12,DS18,Tissue mortality,37.5,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3; mortality attributed to storms
+0.391304347826087,Colony mortality,mortality_percent_dead_Aug_Oct,DS18_003,DS18_12_R4,DS18_12,DS18,Colony mortality,62.5,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3; mortality attributed to storms
+0.6060606060606061,Growth rate,growth_rate_mg_per_day,DS18_004,DS18_16_R2,DS18_16,DS18,Growth rate,0.3,%/day (coral weight change),mean,24,colonies,0.2,0.4,0.1,0.1,s.d.,91,days,n/a,n/a,Fig. 6B with Datathief
+0.391304347826087,Tissue mortality,mortality_percent_dead_Aug_Oct,DS18_004,DS18_16_R3,DS18_16,DS18,Tissue mortality,25.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to storms
+0.391304347826087,Colony mortality,mortality_percent_dead_Aug_Oct,DS18_004,DS18_16_R4,DS18_16,DS18,Colony mortality,37.5,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to storms
+,Growth rate,,,DS18_01_R1,DS18_01,DS18,Growth rate,-8.7,mg/day (change in coral weight),mean,24,colonies,-11.1,-6.3,2.4,2.4,s.d.,53,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_01_R2,DS18_01,DS18,Growth rate,-0.4,%/day (coral weight change),mean,24,colonies,-0.5,-0.3,0.1,0.1,s.d.,53,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_01_R3,DS18_01,DS18,Tissue mortality,8.3,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3; mortality attributed to burial
+,Colony mortality,,,DS18_01_R4,DS18_01,DS18,Colony mortality,4.2,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3; mortality attributed to burial
+,Growth rate,,,DS18_02_R1,DS18_02,DS18,Growth rate,53.9,mg/day (change in coral weight),mean,24,colonies,49.1,58.7,4.8,4.8,s.d.,53,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_02_R2,DS18_02,DS18,Growth rate,3.0,%/day (coral weight change),mean,24,colonies,2.7,3.3,0.3,0.3,s.d.,53,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_02_R3,DS18_02,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3
+,Colony mortality,,,DS18_02_R4,DS18_02,DS18,Colony mortality,0.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3
+,Growth rate,,,DS18_03_R1,DS18_03,DS18,Growth rate,-58.3,mg/day (change in coral weight),mean,24,colonies,-67.6,-49.0,9.3,9.3,s.d.,53,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_03_R2,DS18_03,DS18,Growth rate,-3.0,%/day (coral weight change),mean,24,colonies,-3.4,-2.6,0.4,0.4,s.d.,53,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_03_R3,DS18_03,DS18,Tissue mortality,29.2,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3; mortality attributed to fish
+,Colony mortality,,,DS18_03_R4,DS18_03,DS18,Colony mortality,70.8,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,53,days,n/a,n/a,Table 3; mortality attributed to fish
+,Growth rate,,,DS18_05_R1,DS18_05,DS18,Growth rate,3.9,mg/day (change in coral weight),mean,24,colonies,2,5.8,1.9,1.9,s.d.,127,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_05_R2,DS18_05,DS18,Growth rate,0.3,%/day (coral weight change),mean,24,colonies,0.3,0.3,0.0,0.0,s.d.,127,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_05_R3,DS18_05,DS18,Tissue mortality,29.2,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3; mortality attributed to burial
+,Colony mortality,,,DS18_05_R4,DS18_05,DS18,Colony mortality,33.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3; mortality attributed to burial
+,Growth rate,,,DS18_06_R1,DS18_06,DS18,Growth rate,49.5,mg/day (change in coral weight),mean,24,colonies,46.1,52.9,3.4,3.4,s.d.,127,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_06_R2,DS18_06,DS18,Growth rate,2.0,%/day (coral weight change),mean,24,colonies,1.9,2.1,0.1,0.1,s.d.,127,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_06_R3,DS18_06,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3
+,Colony mortality,,,DS18_06_R4,DS18_06,DS18,Colony mortality,0.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,Table 3
+,Growth rate,,,DS18_07_R1,DS18_07,DS18,Growth rate,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_07_R2,DS18_07,DS18,Growth rate,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_07_R3,DS18_07,DS18,Tissue mortality,50.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Colony mortality,,,DS18_07_R4,DS18_07,DS18,Colony mortality,50.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,127,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Growth rate,,,DS18_09_R1,DS18_09,DS18,Growth rate,8.3,mg/day (change in coral weight),mean,24,colonies,7.4,9.2,0.9,0.9,s.d.,57,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_09_R2,DS18_09,DS18,Growth rate,0.9,%/day (coral weight change),mean,24,colonies,0.7,1.1,0.2,0.2,s.d.,57,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_09_R3,DS18_09,DS18,Tissue mortality,58.3,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3; mortality attributed to burial
+,Colony mortality,,,DS18_09_R4,DS18_09,DS18,Colony mortality,0.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3; mortality attributed to burial
+,Growth rate,,,DS18_10_R1,DS18_10,DS18,Growth rate,28.2,mg/day (change in coral weight),mean,24,colonies,23.9,32.5,4.3,4.3,s.d.,57,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_10_R2,DS18_10,DS18,Growth rate,2.7,%/day (coral weight change),mean,24,colonies,2.3,3.1,0.4,0.4,s.d.,57,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_10_R3,DS18_10,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3
+,Colony mortality,,,DS18_10_R4,DS18_10,DS18,Colony mortality,0.0,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,Table 3
+,Growth rate,,,DS18_11_R1,DS18_11,DS18,Growth rate,-45.6,mg/day (change in coral weight),mean,24,colonies,-55.3,-35.9,9.7,9.7,s.d.,57,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_11_R2,DS18_11,DS18,Growth rate,-3.5,%/day (coral weight change),mean,24,colonies,-4.0,-3.0,0.5,0.5,s.d.,57,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_11_R3,DS18_11,DS18,Tissue mortality,45.8,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Colony mortality,,,DS18_11_R4,DS18_11,DS18,Colony mortality,54.2,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,57,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Growth rate,,,DS18_13_R1,DS18_13,DS18,Growth rate,3.4,mg/day (change in coral weight),mean,24,colonies,1.9,4.9,1.5,1.5,s.d.,91,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_13_R2,DS18_13,DS18,Growth rate,0.3,%/day (coral weight change),mean,24,colonies,0.2,0.4,0.1,0.1,s.d.,91,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_13_R3,DS18_13,DS18,Tissue mortality,45.8,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to burial
+,Colony mortality,,,DS18_13_R4,DS18_13,DS18,Colony mortality,41.7,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to burial
+,Growth rate,,,DS18_14_R1,DS18_14,DS18,Growth rate,69.4,mg/day (change in coral weight),mean,24,colonies,64.5,74.3,4.9,4.9,s.d.,91,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_14_R2,DS18_14,DS18,Growth rate,5.7,%/day (coral weight change),mean,24,colonies,5.5,5.9,0.2,0.2,s.d.,91,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_14_R3,DS18_14,DS18,Tissue mortality,0.0,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to burial
+,Colony mortality,,,DS18_14_R4,DS18_14,DS18,Colony mortality,12.5,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,Table 3; mortality attributed to burial
+,Growth rate,,,DS18_15_R1,DS18_15,DS18,Growth rate,-8.3,mg/day (change in coral weight),mean,24,colonies,-10.8,-5.8,2.5,2.5,s.d.,91,days,n/a,n/a,Fig. 6A with Datathief
+,Growth rate,,,DS18_15_R2,DS18_15,DS18,Growth rate,-0.7,%/day (coral weight change),mean,24,colonies,-0.8,-0.6,0.1,0.1,s.d.,91,days,n/a,n/a,Fig. 6B with Datathief
+,Tissue mortality,,,DS18_15_R3,DS18_15,DS18,Tissue mortality,16.7,% partial mortality,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Colony mortality,,,DS18_15_R4,DS18_15,DS18,Colony mortality,83.3,% colonies dead,n/a,24,colonies,n/a,n/a,n/a,n/a,n/a,91,days,n/a,n/a,"Table 3; mortality attributed to fish, algae"
+,Productivity,,,DS20_07_R1,DS20_07,DS20,Productivity,66.2,microgramC/gcoral/hour,mean,20,replicates,n/a,n/a,12.9,12.9,s.d.,n/s,n/s,n/s,n/s,Table 1; 20 replicates = 4 to 6 corals per species (conservative=4) * 5 runs per treatment/species combo = 4*5
+,Respiration,,,DS20_07_R2,DS20_07,DS20,Respiration,28.8,microgramC/gcoral/hour,mean,20,replicates,n/a,n/a,21.6,21.6,s.d.,n/s,n/s,n/s,n/s,Table 1; 20 replicates = 4 to 6 corals per species (conservative=4) * 5 runs per treatment/species combo = 4*5
+,Mucus Production,,,DS20_07_R3,DS20_07,DS20,Mucus Production,0.12,mg/Cg/d,n/s,4 - 6,"colonies (2 experimental runs with 5 corals per species, which means 2-3 colonies per treatment)",n/a,n/a,n/a,n/a,n/a,3,h,24,h,"Table 3, columns 1 and 4"
+,Productivity,,,DS20_08_R1,DS20_08,DS20,Productivity,40.7,microgramC/gcoral/hour,mean,20,replicates,n/a,n/a,14.8,14.8,s.d.,n/s,n/s,n/s,n/s,Table 1; 20 replicates = 4 to 6 corals per species (conservative=4) * 5 runs per treatment/species combo = 4*5
+,Respiration,,,DS20_08_R2,DS20_08,DS20,Respiration,33.8,microgramC/gcoral/hour,mean,20,replicates,n/a,n/a,7.3,7.3,s.d.,n/s,n/s,n/s,n/s,Table 1; 20 replicates = 4 to 6 corals per species (conservative=4) * 5 runs per treatment/species combo = 4*5
+,Mucus Production,,,DS20_08_R3,DS20_08,DS20,Mucus Production,0.25,mg/Cg/d,n/s,4 - 6,"colonies (2 experimental runs with 5 corals per species, which means 2-3 colonies per treatment)",n/a,n/a,n/a,n/a,n/a,3,h,24,h,"Table 3, columns 1 and 4"
+0.1111111111111111,Mortality,infection,DS25_002,DS25_02_R1,DS25_02,DS25,Mortality,0.0,%,colonies affected,8,fragments,0.0,0.0,0.0,0.0,s.e.,35,days,n/a,n/a,Fig. 2
+0.1111111111111111,Mortality,infection,DS25_001,DS25_01_R1,DS25_01,DS25,Mortality,0.0,%,colonies affected,8,fragments,0.0,0.0,0.0,0.0,s.e.,35,days,n/a,n/a,Fig. 2
+0.25,n/r,Energy stores,DS28_007,DS28_04_R1,DS28_04,DS28,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/r,n/a,n/a,n/a
+0.2,Recruit survival rate,mortality,DS37_001,DS37_01_R2,DS37_01,DS37,Recruit survival rate,100.0,% survival,mean,8,tiles,100.0,100.0,0.0,0.0,s.e.,43,h,n/a,n/a,"% of recruits (26 days old at start of experiment) that survived (100%-mortality rate, Response 1) treatment after 43 h exposure; based on Fig. 2A"
+,Recruit mortality rate,,,DS37_02_R1,DS37_02,DS37,Recruit mortality rate,0.0,% mortality,mean,8,tiles,0.0,0.0,0.0,0.0,s.e.,43,h,n/a,n/a,% of recruits (26 days old at start of experiment) died from treatment after 43 h exposure; based on Fig. 2A
+,Recruit survival rate,,,DS37_02_R2,DS37_02,DS37,Recruit survival rate,100.0,% survival,mean,8,tiles,100.0,100.0,0.0,0.0,s.e.,43,h,n/a,n/a,"% of recruits (26 days old at start of experiment) that survived (100%-mortality rate, Response 1) treatment after 43 h exposure; based on Fig. 2A"
+,Recruit mortality rate,,,DS37_03_R1,DS37_03,DS37,Recruit mortality rate,0.0,% mortality,mean,2,tiles,0.0,0.0,0.0,0.0,s.e.,43,h,n/a,n/a,% of recruits (26 days old at start of experiment) died from treatment after 43 h exposure; based on Fig. 2B
+,Recruit survival rate,,,DS37_03_R2,DS37_03,DS37,Recruit survival rate,100.0,% survival,mean,2,tiles,100.0,100.0,0.0,0.0,s.e.,43,h,n/a,n/a,"% of recruits (26 days old at start of experiment) that survived (100%-mortality rate, Response 1) treatment after 43 h exposure; based on Fig. 2B"
+,Recruit mortality rate,,,DS37_04_R1,DS37_04,DS37,Recruit mortality rate,0.0,% mortality,mean,2,tiles,0.0,0.0,0.0,0.0,s.e.,43,h,n/a,n/a,% of recruits (26 days old at start of experiment) died from treatment after 43 h exposure; based on Fig. 2B
+,Recruit survival rate,,,DS37_04_R2,DS37_04,DS37,Recruit survival rate,100.0,% survival,mean,2,tiles,100.0,100.0,0.0,0.0,s.e.,43,h,n/a,n/a,"% of recruits (26 days old at start of experiment) that survived (100%-mortality rate, Response 1) treatment after 43 h exposure; based on Fig. 2B"
+,Net oxygen produced,,,DS43_01_R1,DS43_01,DS43,Net oxygen produced,25.3,nMol O2/cm2/hr,mean,5,colonies,89.7,89.7,64.4,64.4,n/s,0,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_01_R2,DS43_01,DS43,Weight (convert to growth rate),6.3,g,mean,5,colonies,6.25,6.35,0.05,0.05,95% CI of weighing method,0,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_02_R1,DS43_02,DS43,Net oxygen produced,32.2,nMol O2/cm2/hr,mean,5,colonies,57.5,57.5,25.3,25.3,n/s,0,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_02_R2,DS43_02,DS43,Weight (convert to growth rate),5.8,g,mean,5,colonies,5.75,5.85,0.05,0.05,95% CI of weighing method,0,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_03_R1,DS43_03,DS43,Net oxygen produced,344.8,nMol O2/cm2/hr,mean,5,colonies,457.5,457.5,112.7,112.7,n/s,0,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_03_R2,DS43_03,DS43,Weight (convert to growth rate),7.8,g,mean,5,colonies,7.75,7.85,0.05,0.05,95% CI of weighing method,0,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_04_R1,DS43_04,DS43,Net oxygen produced,241.4,nMol O2/cm2/hr,mean,5,colonies,333.3,333.3,91.9,91.9,n/s,0,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_04_R2,DS43_04,DS43,Weight (convert to growth rate),6.2,g,mean,5,colonies,6.15,6.25,0.05,0.05,95% CI of weighing method,0,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_05_R1,DS43_05,DS43,Net oxygen produced,-43.7,nMol O2/cm2/hr,mean,5,colonies,16.9,16.9,60.6,60.6,n/s,2,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_05_R2,DS43_05,DS43,Weight (convert to growth rate),6.7,g,mean,5,colonies,6.65,6.75,0.05,0.05,95% CI of weighing method,2,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_06_R1,DS43_06,DS43,Net oxygen produced,-39.1,nMol O2/cm2/hr,mean,5,colonies,27.6,27.6,66.7,66.7,n/s,2,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_06_R2,DS43_06,DS43,Weight (convert to growth rate),5.6,g,mean,5,colonies,5.55,5.65,0.05,0.05,95% CI of weighing method,2,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_07_R1,DS43_07,DS43,Net oxygen produced,280.5,nMol O2/cm2/hr,mean,5,colonies,349.4,349.4,68.9,68.9,n/s,2,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_07_R2,DS43_07,DS43,Weight (convert to growth rate),8.0,g,mean,5,colonies,7.95,8.05,0.05,0.05,95% CI of weighing method,2,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_08_R1,DS43_08,DS43,Net oxygen produced,340.2,nMol O2/cm2/hr,mean,5,colonies,471.3,471.3,131.1,131.1,n/s,2,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_08_R2,DS43_08,DS43,Weight (convert to growth rate),6.5,g,mean,5,colonies,6.45,6.55,0.05,0.05,95% CI of weighing method,2,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_09_R1,DS43_09,DS43,Net oxygen produced,80.5,nMol O2/cm2/hr,mean,5,colonies,124.1,124.1,43.6,43.6,n/s,4,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_09_R2,DS43_09,DS43,Weight (convert to growth rate),6.8,g,mean,5,colonies,6.75,6.85,0.05,0.05,95% CI of weighing method,4,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_10_R1,DS43_10,DS43,Net oxygen produced,13.8,nMol O2/cm2/hr,mean,5,colonies,103.4,103.4,89.6,89.6,n/s,4,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_10_R2,DS43_10,DS43,Weight (convert to growth rate),5.8,g,mean,5,colonies,5.75,5.85,0.05,0.05,95% CI of weighing method,4,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_11_R1,DS43_11,DS43,Net oxygen produced,356.3,nMol O2/cm2/hr,mean,5,colonies,395.4,395.4,39.1,39.1,n/s,4,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_11_R2,DS43_11,DS43,Weight (convert to growth rate),8.1,g,mean,5,colonies,8.05,8.15,0.05,0.05,95% CI of weighing method,4,week,n/a,n/a,Fig. 2A with Datathief
+,Net oxygen produced,,,DS43_12_R1,DS43_12,DS43,Net oxygen produced,298.9,nMol O2/cm2/hr,mean,5,colonies,409.2,409.2,110.3,110.3,n/s,4,week,n/a,n/a,Fig. 1B with Datathief
+,Weight (convert to growth rate),,,DS43_12_R2,DS43_12,DS43,Weight (convert to growth rate),6.8,g,mean,5,colonies,6.75,6.85,0.05,0.05,95% CI of weighing method,4,week,n/a,n/a,Fig. 2A with Datathief
+0.7027027027027027,Total mortality rate,partial mortality,SS04_001,SS04_01_R2,SS04_01,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+0.7027027027027027,Total mortality rate,partial mortality,SS04_002,SS04_02_R2,SS04_02,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+0.7027027027027027,Total mortality rate,partial mortality,SS04_003,SS04_03_R2,SS04_03,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_04_R1,SS04_04,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_04_R2,SS04_04,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_05_R1,SS04_05,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_05_R2,SS04_05,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_06_R1,SS04_06,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_06_R2,SS04_06,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_07_R1,SS04_07,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_07_R2,SS04_07,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_08_R1,SS04_08,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_08_R2,SS04_08,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+,Partial mortality rate,,,SS04_09_R1,SS04_09,SS04,Partial mortality rate,0,% tissue mortality,mean,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,0,0,0,95% CI,28,days,n/a,n/a,"Figure 3, results text"
+,Total mortality rate,,,SS04_09_R2,SS04_09,SS04,Total mortality rate,0,% colonies experiencing total mortality,absolute,16,fragments (2 tanks with 8 frags each but mean appears to be across all 16 specimens),n/a,n/a,n/a,n/a,n/a,28,d,n/a,n/a,Results text
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_002,SS05_04_R2,SS05_04,SS05,Photosynthetic efficiency,0.56,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_006,SS05_05_R2,SS05_05,SS05,Photosynthetic efficiency,0.52,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_003,SS05_07_R2,SS05_07,SS05,Photosynthetic efficiency,0.55,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_007,SS05_08_R2,SS05_08,SS05,Photosynthetic efficiency,0.56,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_004,SS05_10_R2,SS05_10,SS05,Photosynthetic efficiency,0.57,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_008,SS05_11_R2,SS05_11,SS05,Photosynthetic efficiency,0.61,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_001,SS05_01_R2,SS05_01,SS05,Photosynthetic efficiency,0.57,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_005,SS05_02_R2,SS05_02,SS05,Photosynthetic efficiency,0.53,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_010,SS05_06_R2,SS05_06,SS05,Photosynthetic efficiency,0.6,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_011,SS05_09_R2,SS05_09,SS05,Photosynthetic efficiency,0.58,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_012,SS05_12_R2,SS05_12,SS05,Photosynthetic efficiency,0.65,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_009,SS05_03_R2,SS05_03,SS05,Photosynthetic efficiency,0.59,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.6,P/R ratio,Respiration,SS06_002,SS06_02_R5,SS06_02,SS06,P/R ratio,0.4514739155,unitless,mean,5,fragments,n/a,n/a,2.109022215,2.342787077,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_003,SS06_04_R5,SS06_04,SS06,P/R ratio,0.4390724636,unitless,mean,5,fragments,n/a,n/a,1.169624979,1.193857152,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_004,SS06_05_R5,SS06_05,SS06,P/R ratio,0.4820610727,unitless,mean,5,fragments,n/a,n/a,2.25079945,3.084669029,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_007,SS06_52_R5,SS06_52,SS06,P/R ratio,-0.02980769156,unitless,mean,5,fragments,0.3127272152,-0.4074467067,0.3776390151,0.3776390151,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_008,SS06_54_R5,SS06_54,SS06,P/R ratio,0.1599999997,unitless,mean,5,fragments,0.529545446,-0.2734041632,0.4334041629,0.4334041629,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_009,SS06_55_R5,SS06_55,SS06,P/R ratio,0.1131538468,unitless,mean,5,fragments,0.3792646602,-0.1910001191,0.3041539659,0.3041539659,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_012,SS06_102_R5,SS06_102,SS06,P/R ratio,-0.6931216914,unitless,mean,5,fragments,-0.2325925888,-1.422657958,0.7295362662,0.7295362662,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_013,SS06_104_R5,SS06_104,SS06,P/R ratio,-0.2549019608,unitless,mean,5,fragments,0.25925926,-0.9753086359,0.7204066751,0.7204066751,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+0.6,P/R ratio,Respiration,SS06_014,SS06_105_R5,SS06_105,SS06,P/R ratio,0.04056437841,unitless,mean,5,fragments,0.3155972868,-0.1851851902,0.2257495686,0.2257495686,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+,Net Photosynthesis,,,SS06_03_R2,SS06_03,SS06,Net Photosynthesis,0.5625,umol O2 cm-2 hr-1,mean,5,fragments,0.48809524,0.62202381,0.07440476,0.05952381,s.e.,0,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_03_R3,SS06_03,SS06,respiration,-0.7457627,umol O2 cm-2 hr-1,mean,5,fragments,-0.9491525,-0.5423729,0.2033898,0.2033898,s.e.,0,days,n/a,n/a,Fig. 2
+,Partial mortality rate,,,SS06_03_R4,SS06_03,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,0,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_03_R5,SS06_03,SS06,P/R ratio,0.2457386244,unitless,mean,5,fragments,n/a,n/a,1.365823458,1.292658776,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_07_R1,SS06_07,SS06,Max Photosynthetic Yield,0.57788,n/a,Fv/Fm,5,corals (5 measures each),0.5559,0.6,0.02198,0.02212,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_07_R4,SS06_07,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_08_R1,SS06_08,SS06,Max Photosynthetic Yield,0.5872,n/a,Fv/Fm,5,corals (5 measures each),0.57033,0.605,0.01687,0.0178,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_08_R4,SS06_08,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_09_R1,SS06_09,SS06,Max Photosynthetic Yield,0.5915,n/a,Fv/Fm,5,corals (5 measures each),0.57795,0.605,0.01355,0.0135,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_09_R4,SS06_09,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_10_R1,SS06_10,SS06,Max Photosynthetic Yield,0.58135,n/a,Fv/Fm,5,corals (5 measures each),0.54915,0.612559,0.0322,0.031209,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_10_R4,SS06_10,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_11_R1,SS06_11,SS06,Max Photosynthetic Yield,0.59068,n/a,Fv/Fm,5,corals (5 measures each),0.57712,0.60593,0.01356,0.01525,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_11_R4,SS06_11,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_12_R1,SS06_12,SS06,Max Photosynthetic Yield,0.57203,n/a,Fv/Fm,5,corals (5 measures each),0.55339,0.59068,0.01864,0.01865,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_12_R4,SS06_12,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_13_R1,SS06_13,SS06,Max Photosynthetic Yield,0.57712,n/a,Fv/Fm,5,corals (5 measures each),0.5536,0.60132,0.02352,0.0242,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_13_R4,SS06_13,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_14_R1,SS06_14,SS06,Max Photosynthetic Yield,0.5972,n/a,Fv/Fm,5,corals (5 measures each),0.57612,0.61835,0.02108,0.02115,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_14_R4,SS06_14,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_15_R1,SS06_15,SS06,Max Photosynthetic Yield,0.59042,n/a,Fv/Fm,5,corals (5 measures each),0.55296,0.62789,0.03746,0.03747,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_15_R4,SS06_15,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_16_R1,SS06_16,SS06,Max Photosynthetic Yield,0.5896,n/a,Fv/Fm,5,corals (5 measures each),0.5782,0.5999,0.0114,0.0103,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_16_R4,SS06_16,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_17_R1,SS06_17,SS06,Max Photosynthetic Yield,0.59055556,n/a,Fv/Fm,5,corals (5 measures each),0.57964286,0.60146825,0.0109127,0.01091269,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_17_R4,SS06_17,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_18_R1,SS06_18,SS06,Max Photosynthetic Yield,0.5802,n/a,Fv/Fm,5,corals (5 measures each),0.55933,0.6011,0.02087,0.0209,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_18_R4,SS06_18,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_19_R1,SS06_19,SS06,Max Photosynthetic Yield,0.5912,n/a,Fv/Fm,5,corals (5 measures each),0.5707,0.61373,0.0205,0.02253,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_19_R4,SS06_19,SS06,Partial mortality rate,0.662650602,% tissue mortality,mean,5,fragments,-0.3012048,1.26506024,0.963855402,0.602409638,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_20_R1,SS06_20,SS06,Max Photosynthetic Yield,0.5971,n/a,Fv/Fm,5,corals (5 measures each),0.5644,0.6306,0.0327,0.0335,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_20_R4,SS06_20,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_21_R1,SS06_21,SS06,Max Photosynthetic Yield,0.58535,n/a,Fv/Fm,5,corals (5 measures each),0.57071429,0.60246032,0.01463571,0.01711032,s.e.,28,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_21_R4,SS06_21,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_22_R1,SS06_22,SS06,Max Photosynthetic Yield,0.5684,n/a,Fv/Fm,5,corals (5 measures each),0.5451,0.592,0.0233,0.0236,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_22_R2,SS06_22,SS06,Net Photosynthesis,0.33783,umol O2 cm-2 hr-1,mean,5,fragments,0.16071429,0.44345238,0.17711571,0.10562238,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_22_R3,SS06_22,SS06,respiration,-0.7118644,umol O2 cm-2 hr-1,mean,5,fragments,-0.8305085,-0.6101695,0.1186441,0.1016949,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality rate,,,SS06_22_R4,SS06_22,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_22_R5,SS06_22,SS06,P/R ratio,0.5254292812,unitless,mean,5,fragments,0.8064868812,0.2732308318,0.2521984494,0.2521984494,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_23_R1,SS06_23,SS06,Max Photosynthetic Yield,0.5825,n/a,Fv/Fm,5,corals (5 measures each),0.5597,0.605,0.0228,0.0225,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_23_R2,SS06_23,SS06,Net Photosynthesis,0.45833333,umol O2 cm-2 hr-1,mean,5,fragments,0.39880952,0.5327381,0.05952381,0.07440477,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_23_R3,SS06_23,SS06,respiration,-0.5932203,umol O2 cm-2 hr-1,mean,5,fragments,-0.6610169,-0.559322,0.0677966,0.0338983,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality rate,,,SS06_23_R4,SS06_23,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_23_R5,SS06_23,SS06,P/R ratio,0.2273809072,unitless,mean,5,fragments,0.3966727326,0.04752879379,0.1798521134,0.1798521134,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_24_R1,SS06_24,SS06,Max Photosynthetic Yield,0.5691,n/a,Fv/Fm,5,corals (5 measures each),0.5471,0.59,0.022,0.0209,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_24_R2,SS06_24,SS06,Net Photosynthesis,0.25,umol O2 cm-2 hr-1,mean,5,fragments,0.14583333,0.29464286,0.10416667,0.04464286,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_24_R3,SS06_24,SS06,respiration,-0.9152542,umol O2 cm-2 hr-1,mean,5,fragments,-1.2033898,-0.6949153,0.2881356,0.2203389,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality rate,,,SS06_24_R4,SS06_24,SS06,Partial mortality rate,2.559,% tissue mortality,mean,5,fragments,0.595,4.1666,1.964,1.6076,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_24_R5,SS06_24,SS06,P/R ratio,0.7268518407,unitless,mean,5,fragments,0.8788145537,0.576001766,0.1508500748,0.1508500748,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_25_R1,SS06_25,SS06,Max Photosynthetic Yield,0.5898,n/a,Fv/Fm,5,corals (5 measures each),0.5573,0.6235,0.0325,0.0337,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_25_R2,SS06_25,SS06,Net Photosynthesis,0.25,umol O2 cm-2 hr-1,mean,5,fragments,0.14583333,0.33928571,0.10416667,0.08928571,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_25_R3,SS06_25,SS06,respiration,-1.2033898,umol O2 cm-2 hr-1,mean,5,fragments,-0.694915254,,0.508474546,0.508474546,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality rate,,,SS06_25_R4,SS06_25,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_25_R5,SS06_25,SS06,P/R ratio,0.7922535159,unitless,mean,5,fragments,0.7901422811,#DIV/0!,#DIV/0!,#DIV/0!,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_26_R1,SS06_26,SS06,Max Photosynthetic Yield,0.5849,n/a,Fv/Fm,5,corals (5 measures each),0.569,0.6008,0.0159,0.0159,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_26_R4,SS06_26,SS06,Partial mortality rate,0,% tissue mortality,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_27_R1,SS06_27,SS06,Max Photosynthetic Yield,0.5681,n/a,Fv/Fm,5,corals (5 measures each),0.5451,0.592,0.023,0.0239,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality rate,,,SS06_27_R4,SS06_27,SS06,Partial mortality rate,2.68,% tissue mortality,mean,5,fragments,1.08,4.28,1.6,1.6,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_28_R1,SS06_28,SS06,Max Photosynthetic Yield,0.58318,n/a,Fv/Fm,5,corals (5 measures each),0.56017,0.6044,0.02301,0.02122,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_28_R4,SS06_28,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_29_R1,SS06_29,SS06,Max Photosynthetic Yield,0.569,n/a,Fv/Fm,5,corals (5 measures each),0.5469,0.5902,0.0221,0.0212,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_29_R4,SS06_29,SS06,Partial mortality,1.9048,%,mean,5,fragments,0,3.79518072,1.9048,1.89038072,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_30_R1,SS06_30,SS06,Max Photosynthetic Yield,0.5902,n/a,Fv/Fm,5,corals (5 measures each),0.5575,0.623,0.0327,0.0328,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_30_R4,SS06_30,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_31_R1,SS06_31,SS06,Max Photosynthetic Yield,0.5769,n/a,Fv/Fm,5,corals (5 measures each),0.5646,0.5911,0.0123,0.0142,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_31_R4,SS06_31,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_32_R1,SS06_32,SS06,Max Photosynthetic Yield,0.57256,n/a,Fv/Fm,5,corals (5 measures each),0.5486,0.59734,0.02396,0.02478,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_32_R4,SS06_32,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_33_R1,SS06_33,SS06,Max Photosynthetic Yield,0.5628,n/a,Fv/Fm,5,corals (5 measures each),0.5433,0.5823,0.0195,0.0195,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_33_R4,SS06_33,SS06,Partial mortality,5.833,%,mean,5,fragments,4.27710843,7,1.55589157,1.167,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_34_R1,SS06_34,SS06,Max Photosynthetic Yield,0.5752,n/a,Fv/Fm,5,corals (5 measures each),0.5548,0.59557,0.0204,0.02037,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_34_R4,SS06_34,SS06,Partial mortality,1.9,%,mean,5,fragments,0.19,3.45,1.71,1.55,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_35_R1,SS06_35,SS06,Max Photosynthetic Yield,0.5818,n/a,Fv/Fm,5,corals (5 measures each),0.5566,0.6079,0.0252,0.0261,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_35_R4,SS06_35,SS06,Partial mortality,3.43373494,%,mean,5,fragments,-0.5421687,6.92771084,3.97590364,3.4939759,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_36_R1,SS06_36,SS06,Max Photosynthetic Yield,0.58261905,n/a,Fv/Fm,5,corals (5 measures each),0.57468254,0.59055556,0.00793651,0.00793651,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_36_R4,SS06_36,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_37_R1,SS06_37,SS06,Max Photosynthetic Yield,0.56972222,n/a,Fv/Fm,5,corals (5 measures each),0.54690476,0.59204365,0.02281746,0.02232143,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_37_R4,SS06_37,SS06,Partial mortality,2.22891566,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_38_R1,SS06_38,SS06,Max Photosynthetic Yield,0.55285714,n/a,Fv/Fm,5,corals (5 measures each),0.52656746,0.57666667,0.02628968,0.02380953,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_38_R4,SS06_38,SS06,Partial mortality,5.361445783,%,mean,5,fragments,-0.3012048,10.7831325,5.662650583,5.421686717,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_39_R1,SS06_39,SS06,Max Photosynthetic Yield,0.55434524,n/a,Fv/Fm,5,corals (5 measures each),0.53896825,0.56873016,0.01537699,0.01438492,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_39_R4,SS06_39,SS06,Partial mortality,5,%,mean,5,fragments,1.38554217,7.40963855,3.61445783,2.40963855,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_40_R1,SS06_40,SS06,Max Photosynthetic Yield,0.56873016,n/a,Fv/Fm,5,corals (5 measures each),0.53896825,0.60146825,0.02976191,0.03273809,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_40_R4,SS06_40,SS06,Partial mortality,0.78313253,%,mean,5,fragments,-0.3012048,1.26506024,1.08433733,0.48192771,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_41_R1,SS06_41,SS06,Max Photosynthetic Yield,0.58063492,n/a,Fv/Fm,5,corals (5 measures each),0.56873016,0.59402778,0.01190476,0.01339286,s.e.,56,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_41_R4,SS06_41,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_42_R1,SS06_42,SS06,Max Photosynthetic Yield,0.53202381,n/a,Fv/Fm,5,corals (5 measures each),0.5052381,0.55880952,0.02678571,0.02678571,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_42_R2,SS06_42,SS06,Net Photosynthesis,0.42857143,umol O2 cm-2 hr-1,mean,5,fragments,0.25,0.57738095,0.17857143,0.14880952,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_42_R3,SS06_42,SS06,respiration,-0.9322034,umol O2 cm-2 hr-1,mean,5,fragments,-1.1355932,-0.7542373,0.2033898,0.1779661,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_42_R4,SS06_42,SS06,Partial mortality,3.79518072,%,mean,5,fragments,1.26506024,6.44578313,2.53012048,2.65060241,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_42_R5,SS06_42,SS06,P/R ratio,0.5402597437,unitless,mean,5,fragments,0.7798507423,0.2344836963,0.3057760474,0.3057760474,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_43_R1,SS06_43,SS06,Max Photosynthetic Yield,0.55484127,n/a,Fv/Fm,5,corals (5 measures each),0.52607143,0.58212302,0.02876984,0.02728175,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_43_R2,SS06_43,SS06,Net Photosynthesis,0.39880952,umol O2 cm-2 hr-1,mean,5,fragments,0.13095238,0.60714286,0.26785714,0.20833334,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_43_R3,SS06_43,SS06,respiration,-0.6440678,umol O2 cm-2 hr-1,mean,5,fragments,-0.8135593,-0.5254237,0.1694915,0.1186441,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_43_R4,SS06_43,SS06,Partial mortality,6.08433735,%,mean,5,fragments,-1.3855422,12.8313253,7.46987955,6.74698795,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_43_R5,SS06_43,SS06,P/R ratio,0.3807957485,unitless,mean,5,fragments,0.8390376952,-0.1555300227,0.5363257712,0.5363257712,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_44_R1,SS06_44,SS06,Max Photosynthetic Yield,0.53896825,n/a,Fv/Fm,5,corals (5 measures each),0.51019841,0.56625,0.02876984,0.02728175,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_44_R2,SS06_44,SS06,Net Photosynthesis,-0.985119,umol O2 cm-2 hr-1,mean,5,fragments,-0.702381,-1.297619,0.282738,0.3125,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_44_R3,SS06_44,SS06,respiration,-2.1525424,umol O2 cm-2 hr-1,mean,5,fragments,-2.5762712,-1.7711864,0.4237288,0.381356,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_44_R4,SS06_44,SS06,Partial mortality,6.56626506,,,,,3.79518072,9.09638554,2.77108434,2.53012048,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_44_R5,SS06_44,SS06,P/R ratio,1.457653703,unitless,mean,5,fragments,1.272634729,1.732627012,0.2749733091,0.2749733091,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_45_R1,SS06_45,SS06,Max Photosynthetic Yield,0.53003968,n/a,Fv/Fm,5,corals (5 measures each),0.50722222,0.55186508,0.02281746,0.0218254,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_45_R2,SS06_45,SS06,Net Photosynthesis,-2.2797619,umol O2 cm-2 hr-1,mean,5,fragments,-1.8630952,-2.6369048,0.4166667,0.3571429,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_45_R3,SS06_45,SS06,respiration,-2.7457627,umol O2 cm-2 hr-1,mean,5,fragments,-3.2033898,-2.3220339,0.4576271,0.4237288,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_45_R4,SS06_45,SS06,Partial mortality,9.3373494,%,mean,5,fragments,-0.060241,18.7349398,9.3975904,9.3975904,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_45_R5,SS06_45,SS06,P/R ratio,1.830283659,unitless,mean,5,fragments,1.581601153,2.135601336,0.3053176779,0.3053176779,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_46_R1,SS06_46,SS06,Max Photosynthetic Yield,0.57269841,n/a,Fv/Fm,5,corals (5 measures each),0.56277778,0.58162698,0.00992063,0.00892857,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_46_R4,SS06_46,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_47_R1,SS06_47,SS06,Max Photosynthetic Yield,0.53103175,n/a,Fv/Fm,5,corals (5 measures each),0.49829365,0.56575397,0.0327381,0.03472222,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_47_R4,SS06_47,SS06,Partial mortality,3.07228916,%,mean,5,fragments,0.90361446,5,2.1686747,1.92771084,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_48_R1,SS06_48,SS06,Max Photosynthetic Yield,0.59055556,n/a,Fv/Fm,5,corals (5 measures each),0.54343254,0.6381746,0.04712302,0.04761904,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_48_R4,SS06_48,SS06,Partial mortality,5.12048193,%,mean,5,fragments,-1.1445783,11.0240964,6.26506023,5.90361447,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_49_R1,SS06_49,SS06,Max Photosynthetic Yield,0.53896825,n/a,Fv/Fm,5,corals (5 measures each),0.50623016,0.57170635,0.03273809,0.0327381,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_49_R4,SS06_49,SS06,Partial mortality,5.120481928,%,mean,5,fragments,2.8313253,7.04819277,2.289156628,1.927710842,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_50_R1,SS06_50,SS06,Max Photosynthetic Yield,0.51912698,n/a,Fv/Fm,5,corals (5 measures each),0.47845238,0.56079365,0.0406746,0.04166667,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_50_R4,SS06_50,SS06,Partial mortality,7.1686747,%,mean,5,fragments,-2.2289157,15.9638554,9.3975904,8.7951807,s.e.,77,days,n/a,n/a,Figure 4
+,Net Photosynthesis,,,SS06_53_R2,SS06_53,SS06,Net Photosynthesis,0.525,umol O2 cm-2 hr-1,mean,5,fragments,0.375,0.65,0.15,0.125,s.e.,0,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_53_R3,SS06_53,SS06,respiration,-0.412698413,umol O2 cm-2 hr-1,mean,5,fragments,-0.4603175,-0.3809524,0.047619087,0.031746013,s.e.,0,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_53_R4,SS06_53,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,0,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_53_R5,SS06_53,SS06,P/R ratio,-0.2721153837,unitless,mean,5,fragments,0.1853448978,-0.7062499147,0.434134531,0.434134531,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_57_R1,SS06_57,SS06,Max Photosynthetic Yield,0.54178082,n/a,Fv/Fm,5,corals (5 measures each),0.53082192,0.55410959,0.0109589,0.01232877,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_57_R4,SS06_57,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_58_R1,SS06_58,SS06,Max Photosynthetic Yield,0.55136986,n/a,Fv/Fm,5,corals (5 measures each),0.52260274,0.58013699,0.02876712,0.02876713,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_58_R4,SS06_58,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_59_R1,SS06_59,SS06,Max Photosynthetic Yield,0.55958904,n/a,Fv/Fm,5,corals (5 measures each),0.55273973,0.56643836,0.00684931,0.00684932,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_59_R4,SS06_59,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_60_R1,SS06_60,SS06,Max Photosynthetic Yield,0.55136986,n/a,Fv/Fm,5,corals (5 measures each),0.54041096,0.55958904,0.0109589,0.00821918,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_60_R4,SS06_60,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_61_R1,SS06_61,SS06,Max Photosynthetic Yield,0.55547945,n/a,Fv/Fm,5,corals (5 measures each),0.54315068,0.56506849,0.01232877,0.00958904,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_61_R4,SS06_61,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_62_R1,SS06_62,SS06,Max Photosynthetic Yield,0.55684932,n/a,Fv/Fm,5,corals (5 measures each),0.54589041,0.56643836,0.01095891,0.00958904,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_62_R4,SS06_62,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_63_R1,SS06_63,SS06,Max Photosynthetic Yield,0.53356164,n/a,Fv/Fm,5,corals (5 measures each),0.52671233,0.5390411,0.00684931,0.00547946,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_63_R4,SS06_63,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_64_R1,SS06_64,SS06,Max Photosynthetic Yield,0.55547945,n/a,Fv/Fm,5,corals (5 measures each),0.54589041,0.56369863,0.00958904,0.00821918,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_64_R4,SS06_64,SS06,Partial mortality,3.33333333,%,mean,5,fragments,2.30769231,3.97435897,1.02564102,0.64102564,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_65_R1,SS06_65,SS06,Max Photosynthetic Yield,0.56917808,n/a,Fv/Fm,5,corals (5 measures each),0.5609589,0.5760274,0.00821918,0.00684932,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_65_R4,SS06_65,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_66_R1,SS06_66,SS06,Max Photosynthetic Yield,0.55821918,n/a,Fv/Fm,5,corals (5 measures each),0.54315068,0.57465753,0.0150685,0.01643835,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_66_R4,SS06_66,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_67_R1,SS06_67,SS06,Max Photosynthetic Yield,0.55410959,n/a,Fv/Fm,5,corals (5 measures each),0.53630137,0.56917808,0.01780822,0.01506849,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_67_R4,SS06_67,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_68_R1,SS06_68,SS06,Max Photosynthetic Yield,0.55684932,n/a,Fv/Fm,5,corals (5 measures each),0.54863014,0.56506849,0.00821918,0.00821917,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_68_R4,SS06_68,SS06,Partial mortality,8.84615385,%,mean,5,fragments,0.12820513,17.8205128,8.71794872,8.97435895,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_69_R1,SS06_69,SS06,Max Photosynthetic Yield,0.57876712,n/a,Fv/Fm,5,corals (5 measures each),0.56917808,0.58767123,0.00958904,0.00890411,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_69_R4,SS06_69,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_70_R1,SS06_70,SS06,Max Photosynthetic Yield,0.56506849,n/a,Fv/Fm,5,corals (5 measures each),0.56232877,0.56780822,0.00273972,0.00273973,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_70_R4,SS06_70,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_71_R1,SS06_71,SS06,Max Photosynthetic Yield,0.55410959,n/a,Fv/Fm,5,corals (5 measures each),0.53630137,0.57054795,0.01780822,0.01643836,s.e.,28,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_71_R4,SS06_71,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_72_R1,SS06_72,SS06,Max Photosynthetic Yield,0.56506849,n/a,Fv/Fm,5,corals (5 measures each),0.54315068,0.5869863,0.02191781,0.02191781,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_72_R2,SS06_72,SS06,Net Photosynthesis,0.431,umol O2 cm-2 hr-1,mean,5,fragments,0.356,0.506,0.075,0.075,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_72_R3,SS06_72,SS06,respiration,-0.3571429,umol O2 cm-2 hr-1,mean,5,fragments,-0.4603175,-0.2857143,0.1031746,0.0714286,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_72_R4,SS06_72,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_72_R5,SS06_72,SS06,P/R ratio,-0.2067998552,unitless,mean,5,fragments,0.2266207563,-0.7709999115,0.5642000563,0.5642000563,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_73_R1,SS06_73,SS06,Max Photosynthetic Yield,0.59246575,n/a,Fv/Fm,5,corals (5 measures each),0.5760274,0.60753425,0.01643835,0.0150685,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_73_R2,SS06_73,SS06,Net Photosynthesis,0.343,umol O2 cm-2 hr-1,mean,5,fragments,0.237,0.449,0.106,0.106,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_73_R3,SS06_73,SS06,respiration,-0.3650794,umol O2 cm-2 hr-1,mean,5,fragments,-0.4285714,-0.2857143,0.063492,0.0793651,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_73_R4,SS06_73,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_73_R5,SS06_73,SS06,P/R ratio,0.06047835074,unitless,mean,5,fragments,0.4469999631,-0.5714999214,0.6319782722,0.6319782722,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_74_R1,SS06_74,SS06,Max Photosynthetic Yield,0.58972603,n/a,Fv/Fm,5,corals (5 measures each),0.58150685,0.59794521,0.00821918,0.00821918,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_74_R2,SS06_74,SS06,Net Photosynthesis,0.35,umol O2 cm-2 hr-1,mean,5,fragments,0.254,0.446,0.096,0.096,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_74_R3,SS06_74,SS06,respiration,-0.3492063,umol O2 cm-2 hr-1,mean,5,fragments,-0.4920635,-0.2380952,0.1428572,0.1111111,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_74_R4,SS06_74,SS06,Partial mortality,13.7179487,%,mean,5,fragments,4.74358974,22.4358974,8.97435896,8.7179487,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_74_R5,SS06_74,SS06,P/R ratio,-0.002272868502,unitless,mean,5,fragments,0.4838064599,-0.8732002997,0.8709274312,0.8709274312,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_75_R1,SS06_75,SS06,Max Photosynthetic Yield,0.58150685,n/a,Fv/Fm,5,corals (5 measures each),0.57191781,0.58972603,0.00958904,0.00821918,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_75_R2,SS06_75,SS06,Net Photosynthesis,-0.206,umol O2 cm-2 hr-1,mean,5,fragments,-0.270,-0.142,0.064,0.064,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_75_R3,SS06_75,SS06,respiration,-0.2539683,umol O2 cm-2 hr-1,mean,5,fragments,-0.3333333,-0.1746032,0.079365,0.0793651,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_75_R4,SS06_75,SS06,Partial mortality,3.84615385,%,mean,5,fragments,0.25641026,7.17948718,3.58974359,3.33333333,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_75_R5,SS06_75,SS06,P/R ratio,1.811124853,unitless,mean,5,fragments,1.810000081,1.813272609,0.002147755995,0.002147755995,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_76_R1,SS06_76,SS06,Max Photosynthetic Yield,0.54726027,n/a,Fv/Fm,5,corals (5 measures each),0.52808219,0.56369863,0.01917808,0.01643836,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_76_R4,SS06_76,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_77_R1,SS06_77,SS06,Max Photosynthetic Yield,0.57191781,n/a,Fv/Fm,5,corals (5 measures each),0.54863014,0.59794521,0.02328767,0.0260274,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_77_R4,SS06_77,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_78_R1,SS06_78,SS06,Max Photosynthetic Yield,0.58150685,n/a,Fv/Fm,5,corals (5 measures each),0.56506849,0.59794521,0.01643836,0.01643836,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_78_R4,SS06_78,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_79_R1,SS06_79,SS06,Max Photosynthetic Yield,0.61986301,n/a,Fv/Fm,5,corals (5 measures each),0.61438356,0.62534247,0.00547945,0.00547946,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_79_R4,SS06_79,SS06,Partial mortality,17.3717949,%,mean,5,fragments,5.8974359,28.8461538,11.474359,11.4743589,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_80_R1,SS06_80,SS06,Max Photosynthetic Yield,0.59657534,n/a,Fv/Fm,5,corals (5 measures each),0.58835616,0.60479452,0.00821918,0.00821918,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_80_R4,SS06_80,SS06,Partial mortality,2.69230769,%,mean,5,fragments,0.25641026,4.74358974,2.43589743,2.05128205,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_81_R1,SS06_81,SS06,Max Photosynthetic Yield,0.5390411,n/a,Fv/Fm,5,corals (5 measures each),0.52534247,0.55273973,0.01369863,0.01369863,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_81_R4,SS06_81,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_82_R1,SS06_82,SS06,Max Photosynthetic Yield,0.55,n/a,Fv/Fm,5,corals (5 measures each),0.51986301,0.57876712,0.03013699,0.02876712,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_82_R4,SS06_82,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_83_R1,SS06_83,SS06,Max Photosynthetic Yield,0.57191781,n/a,Fv/Fm,5,corals (5 measures each),0.5609589,0.58150685,0.01095891,0.00958904,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_83_R4,SS06_83,SS06,Partial mortality,0.64102564,%,mean,5,fragments,-0.1282051,1.41025641,0.76923074,0.76923077,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_84_R1,SS06_84,SS06,Max Photosynthetic Yield,0.62671233,n/a,Fv/Fm,5,corals (5 measures each),0.61575342,0.6390411,0.01095891,0.01232877,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_84_R4,SS06_84,SS06,Partial mortality,15.8974359,%,mean,5,fragments,4.48717949,27.0512821,11.41025641,11.1538462,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_85_R1,SS06_85,SS06,Max Photosynthetic Yield,0.60479452,n/a,Fv/Fm,5,corals (5 measures each),0.59383562,0.61849315,0.0109589,0.01369863,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_85_R4,SS06_85,SS06,Partial mortality,2.69230769,%,mean,5,fragments,0.25641026,4.74358974,2.43589743,2.05128205,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_86_R1,SS06_86,SS06,Max Photosynthetic Yield,0.53493151,n/a,Fv/Fm,5,corals (5 measures each),0.52945205,0.54178082,0.00547946,0.00684931,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_86_R4,SS06_86,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_87_R1,SS06_87,SS06,Max Photosynthetic Yield,0.54589041,n/a,Fv/Fm,5,corals (5 measures each),0.51986301,0.57328767,0.0260274,0.02739726,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_87_R4,SS06_87,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_88_R1,SS06_88,SS06,Max Photosynthetic Yield,0.56780822,n/a,Fv/Fm,5,corals (5 measures each),0.55958904,0.57739726,0.00821918,0.00958904,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_88_R4,SS06_88,SS06,Partial mortality,0.51282051,%,mean,5,fragments,0.76923077,-0.2564103,-0.25641026,-0.76923081,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_89_R1,SS06_89,SS06,Max Photosynthetic Yield,0.61027397,n/a,Fv/Fm,5,corals (5 measures each),0.59657534,0.62123288,0.01369863,0.01095891,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_89_R4,SS06_89,SS06,Partial mortality,12.4358974,%,mean,5,fragments,3.58974359,21.2820513,8.84615381,8.8461539,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_90_R1,SS06_90,SS06,Max Photosynthetic Yield,0.60068493,n/a,Fv/Fm,5,corals (5 measures each),0.58561644,0.61438356,0.01506849,0.01369863,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_90_R4,SS06_90,SS06,Partial mortality,2.05128205,%,mean,5,fragments,0,3.46153846,2.05128205,1.41025641,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_91_R1,SS06_91,SS06,Max Photosynthetic Yield,0.53356164,n/a,Fv/Fm,5,corals (5 measures each),0.52945205,0.53630137,0.00410959,0.00273973,s.e.,56,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_91_R4,SS06_91,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_92_R1,SS06_92,SS06,Max Photosynthetic Yield,0.51986301,n/a,Fv/Fm,5,corals (5 measures each),0.48835616,0.55273973,0.03150685,0.03287672,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_92_R2,SS06_92,SS06,Net Photosynthesis,0.425,umol O2 cm-2 hr-1,mean,5,fragments,0.25,0.6,0.175,0.175,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_92_R3,SS06_92,SS06,respiration,-0.2857143,umol O2 cm-2 hr-1,mean,5,fragments,-0.5079365,-0.0793651,0.2222222,0.2063492,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_92_R4,SS06_92,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_92_R5,SS06_92,SS06,P/R ratio,-0.4874999256,unitless,mean,5,fragments,0.5078124923,-6.559998034,6.072498109,6.072498109,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_93_R1,SS06_93,SS06,Max Photosynthetic Yield,0.5609589,n/a,Fv/Fm,5,corals (5 measures each),0.5609589,0.5609589,0,0,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_93_R2,SS06_93,SS06,Net Photosynthesis,0.475,umol O2 cm-2 hr-1,mean,5,fragments,0.4,0.575,0.075,0.1,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_93_R3,SS06_93,SS06,respiration,-0.587301587,umol O2 cm-2 hr-1,mean,5,fragments,-0.6190476,-0.5555556,0.031746013,0.031745987,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_93_R4,SS06_93,SS06,Partial mortality,2.05128205,%,mean,5,fragments,0,4.1025641,2.05128205,2.05128205,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_93_R5,SS06_93,SS06,P/R ratio,0.1912162158,unitless,mean,5,fragments,0.353846134,-0.0349999172,0.226216133,0.226216133,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_94_R1,SS06_94,SS06,Max Photosynthetic Yield,0.56369863,n/a,Fv/Fm,5,corals (5 measures each),0.55958904,0.56780822,0.00410959,0.00410959,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_94_R2,SS06_94,SS06,Net Photosynthesis,-0.825,umol O2 cm-2 hr-1,mean,5,fragments,-0.875,-0.775,0.05,0.05,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_94_R3,SS06_94,SS06,respiration,-1.3492063,umol O2 cm-2 hr-1,mean,5,fragments,-1.5873016,-1.1349206,0.2380953,0.2142857,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_94_R4,SS06_94,SS06,Partial mortality,12.3076923,%,mean,5,fragments,2.30769231,21.9230769,9.99999999,9.6153846,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_94_R5,SS06_94,SS06,P/R ratio,1.611470611,unitless,mean,5,fragments,1.551249996,1.682867154,0.07139654334,0.07139654334,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_95_R1,SS06_95,SS06,Max Photosynthetic Yield,0.54041096,n/a,Fv/Fm,5,corals (5 measures each),0.53219178,0.54863014,0.00821918,0.00821918,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_95_R2,SS06_95,SS06,Net Photosynthesis,-0.625,umol O2 cm-2 hr-1,mean,5,fragments,-0.9875,-0.275,0.3625,0.35,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_95_R3,SS06_95,SS06,respiration,-1.26984127,umol O2 cm-2 hr-1,mean,5,fragments,-1.6190476,-0.8888889,0.34920633,0.38095237,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_95_R4,SS06_95,SS06,Partial mortality,5.25641026,%,mean,5,fragments,2.94871795,7.17948718,2.30769231,1.92307692,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_95_R5,SS06_95,SS06,P/R ratio,1.4921875,unitless,mean,5,fragments,1.609926478,1.309374996,0.1828125038,0.1828125038,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_96_R1,SS06_96,SS06,Max Photosynthetic Yield,0.54041096,n/a,Fv/Fm,5,corals (5 measures each),0.53356164,0.54863014,0.00684932,0.00821918,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_96_R4,SS06_96,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_97_R1,SS06_97,SS06,Max Photosynthetic Yield,0.51986301,n/a,Fv/Fm,5,corals (5 measures each),0.49657534,0.54589041,0.02328767,0.0260274,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_97_R4,SS06_97,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_98_R1,SS06_98,SS06,Max Photosynthetic Yield,0.5390411,n/a,Fv/Fm,5,corals (5 measures each),0.51986301,0.55684932,0.01917809,0.01780822,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_98_R4,SS06_98,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_99_R1,SS06_99,SS06,Max Photosynthetic Yield,0.51164384,n/a,Fv/Fm,5,corals (5 measures each),0.50479452,0.51849315,0.00684932,0.00684931,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_99_R4,SS06_99,SS06,Partial mortality,10.2564103,%,mean,5,fragments,1.92307692,18.2051282,8.33333338,7.9487179,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_100_R1,SS06_100,SS06,Max Photosynthetic Yield,0.51575342,n/a,Fv/Fm,5,corals (5 measures each),0.50342466,0.52808219,0.01232876,0.01232877,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_100_R4,SS06_100,SS06,Partial mortality,2.43589744,%,mean,5,fragments,,3.20512821,2.43589744,0.76923077,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_103_R1,SS06_103,SS06,Max Photosynthetic Yield,,,,,,,,,,,,,,,
+,Net Photosynthesis,,,SS06_103_R2,SS06_103,SS06,Net Photosynthesis,1.07407407,umol O2 cm-2 hr-1,mean,5,fragments,0.87037037,1.2037037,0.2037037,0.12962963,s.e.,0,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_103_R3,SS06_103,SS06,respiration,-0.84375,umol O2 cm-2 hr-1,mean,5,fragments,-0.953125,-0.75,0.109375,0.09375,s.e.,0,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_103_R4,SS06_103,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,n/a,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_103_R5,SS06_103,SS06,P/R ratio,-0.2729766756,unitless,mean,5,fragments,0.08682452984,-0.6049382667,0.3319615911,0.3319615911,s.e.,0,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_107_R1,SS06_107,SS06,Max Photosynthetic Yield,0.80138889,n/a,Fv/Fm,5,corals (5 measures each),0.8,0.81666667,0.00138889,0.01527778,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_107_R4,SS06_107,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_108_R1,SS06_108,SS06,Max Photosynthetic Yield,0.78055556,n/a,Fv/Fm,5,corals (5 measures each),0.75,0.81666667,0.03055556,0.03611111,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_108_R4,SS06_108,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_109_R1,SS06_109,SS06,Max Photosynthetic Yield,0.77222222,n/a,Fv/Fm,5,corals (5 measures each),0.77222222,0.80277778,0,0.03055556,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_109_R4,SS06_109,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_110_R1,SS06_110,SS06,Max Photosynthetic Yield,0.79444444,n/a,Fv/Fm,5,corals (5 measures each),0.74722222,0.84166667,0.04722222,0.04722223,s.e.,7,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_110_R4,SS06_110,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,7,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_111_R1,SS06_111,SS06,Max Photosynthetic Yield,0.78055556,n/a,Fv/Fm,5,corals (5 measures each),0.75277778,0.81111111,0.02777778,0.03055555,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_111_R4,SS06_111,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_112_R1,SS06_112,SS06,Max Photosynthetic Yield,0.80833333,n/a,Fv/Fm,5,corals (5 measures each),0.81111111,0.83888889,-0.00277778,0.03055556,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_112_R4,SS06_112,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_113_R1,SS06_113,SS06,Max Photosynthetic Yield,0.775,n/a,Fv/Fm,5,corals (5 measures each),0.74722222,0.80277778,0.02777778,0.02777778,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_113_R4,SS06_113,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_114_R1,SS06_114,SS06,Max Photosynthetic Yield,0.75,n/a,Fv/Fm,5,corals (5 measures each),0.75,0.78611111,0,0.03611111,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_114_R4,SS06_114,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_115_R1,SS06_115,SS06,Max Photosynthetic Yield,0.80555556,n/a,Fv/Fm,5,corals (5 measures each),0.76944444,0.84166667,0.03611112,0.03611111,s.e.,14,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_115_R4,SS06_115,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,14,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_116_R1,SS06_116,SS06,Max Photosynthetic Yield,0.76666667,n/a,Fv/Fm,5,corals (5 measures each),0.73055556,0.80277778,0.03611111,0.03611111,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_116_R4,SS06_116,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_117_R1,SS06_117,SS06,Max Photosynthetic Yield,0.82777778,n/a,Fv/Fm,5,corals (5 measures each),0.83055556,0.85833333,-0.00277778,0.03055555,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_117_R4,SS06_117,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_118_R1,SS06_118,SS06,Max Photosynthetic Yield,0.78611111,n/a,Fv/Fm,5,corals (5 measures each),0.73888889,0.82777778,0.04722222,0.04166667,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_118_R4,SS06_118,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_119_R1,SS06_119,SS06,Max Photosynthetic Yield,0.73333333,n/a,Fv/Fm,5,corals (5 measures each),0.73055556,0.77222222,0.00277777,0.03888889,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_119_R4,SS06_119,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_120_R1,SS06_120,SS06,Max Photosynthetic Yield,0.81388889,n/a,Fv/Fm,5,corals (5 measures each),0.81388889,0.84166667,0,0.02777778,s.e.,21,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_120_R4,SS06_120,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,21,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_121_R1,SS06_121,SS06,Max Photosynthetic Yield,0.76944444,n/a,Fv/Fm,5,corals (5 measures each),0.73611111,0.8,0.03333333,0.03055556,s.e.,28,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_121_R4,SS06_121,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_122_R1,SS06_122,SS06,Max Photosynthetic Yield,0.83888889,n/a,Fv/Fm,5,corals (5 measures each),0.83888889,0.85833333,0,0.01944444,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_122_R2,SS06_122,SS06,Net Photosynthesis,0.66666667,umol O2 cm-2 hr-1,mean,5,fragments,0.33333333,0.98148148,0.33333334,0.31481481,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_122_R3,SS06_122,SS06,respiration,-0.90625,umol O2 cm-2 hr-1,mean,5,fragments,-1,-0.828125,0.09375,0.078125,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_122_R4,SS06_122,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_122_R5,SS06_122,SS06,P/R ratio,0.2643678124,unitless,mean,5,fragments,0.66666667,-0.1851851834,0.4495529958,0.4495529958,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_123_R1,SS06_123,SS06,Max Photosynthetic Yield,0.75833333,n/a,Fv/Fm,5,corals (5 measures each),0.71944444,0.79722222,0.03888889,0.03888889,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_123_R2,SS06_123,SS06,Net Photosynthesis,1.01851852,umol O2 cm-2 hr-1,mean,5,fragments,0.88888889,1.16666667,0.12962963,0.14814815,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_123_R3,SS06_123,SS06,respiration,-0.828125,umol O2 cm-2 hr-1,mean,5,fragments,-1.109375,-0.5625,0.28125,0.265625,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_123_R4,SS06_123,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_123_R5,SS06_123,SS06,P/R ratio,-0.2299091562,unitless,mean,5,fragments,0.1987480428,-1.07407408,0.8441649238,0.8441649238,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_124_R1,SS06_124,SS06,Max Photosynthetic Yield,0.75,n/a,Fv/Fm,5,corals (5 measures each),0.75,0.78055556,0,0.03055556,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_124_R2,SS06_124,SS06,Net Photosynthesis,0.68518519,umol O2 cm-2 hr-1,mean,5,fragments,0.57407407,0.75925926,0.11111112,0.07407407,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_124_R3,SS06_124,SS06,respiration,-1.203125,umol O2 cm-2 hr-1,mean,5,fragments,-1.28125,-1.140625,0.078125,0.0625,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_124_R4,SS06_124,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_124_R5,SS06_124,SS06,P/R ratio,0.4304954265,unitless,mean,5,fragments,0.5519421893,0.334348046,0.09614738047,0.09614738047,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_125_R1,SS06_125,SS06,Max Photosynthetic Yield,0.80277778,n/a,Fv/Fm,5,corals (5 measures each),0.76111111,0.83888889,0.04166667,0.03611111,s.e.,28,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_125_R2,SS06_125,SS06,Net Photosynthesis,0.31481481,umol O2 cm-2 hr-1,mean,5,fragments,0.18518519,0.42592593,0.12962962,0.11111112,s.e.,28,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_125_R3,SS06_125,SS06,respiration,-1.4375,umol O2 cm-2 hr-1,mean,5,fragments,-1.5,-1.390625,0.0625,0.046875,s.e.,28,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_125_R4,SS06_125,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,28,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_125_R5,SS06_125,SS06,P/R ratio,0.780998393,unitless,mean,5,fragments,0.8765432067,0.6937161852,0.08728220787,0.08728220787,s.e.,28,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_126_R1,SS06_126,SS06,Max Photosynthetic Yield,0.73333333,n/a,Fv/Fm,5,corals (5 measures each),0.70277778,0.76666667,0.03055555,0.03333334,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_126_R4,SS06_126,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_127_R1,SS06_127,SS06,Max Photosynthetic Yield,0.81388889,n/a,Fv/Fm,5,corals (5 measures each),0.81388889,0.85555556,0,0.04166667,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_127_R4,SS06_127,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_128_R1,SS06_128,SS06,Max Photosynthetic Yield,0.71944444,n/a,Fv/Fm,5,corals (5 measures each),0.7,0.73611111,0.01944444,0.01666667,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_128_R4,SS06_128,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_129_R1,SS06_129,SS06,Max Photosynthetic Yield,0.71388889,n/a,Fv/Fm,5,corals (5 measures each),0.71388889,0.75833333,0,0.04444444,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_129_R4,SS06_129,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_130_R1,SS06_130,SS06,Max Photosynthetic Yield,0.775,n/a,Fv/Fm,5,corals (5 measures each),0.74166667,0.80833333,0.03333333,0.03333333,s.e.,35,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_130_R4,SS06_130,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,35,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_131_R1,SS06_131,SS06,Max Photosynthetic Yield,0.76111111,n/a,Fv/Fm,5,corals (5 measures each),0.73888889,0.77777778,0.02222222,0.01666667,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_131_R4,SS06_131,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_132_R1,SS06_132,SS06,Max Photosynthetic Yield,0.78611111,n/a,Fv/Fm,5,corals (5 measures each),0.78611111,0.825,0,0.03888889,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_132_R4,SS06_132,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_133_R1,SS06_133,SS06,Max Photosynthetic Yield,0.72222222,n/a,Fv/Fm,5,corals (5 measures each),0.72222222,0.75833333,0,0.03611111,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_133_R4,SS06_133,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_134_R1,SS06_134,SS06,Max Photosynthetic Yield,0.70555556,n/a,Fv/Fm,5,corals (5 measures each),0.70555556,0.74722222,0,0.04166666,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_134_R4,SS06_134,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_135_R1,SS06_135,SS06,Max Photosynthetic Yield,0.74166667,n/a,Fv/Fm,5,corals (5 measures each),0.70277778,0.78611111,0.03888889,0.04444444,s.e.,42,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_135_R4,SS06_135,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,42,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_136_R1,SS06_136,SS06,Max Photosynthetic Yield,0.75277778,n/a,Fv/Fm,5,corals (5 measures each),0.73611111,0.76944444,0.01666667,0.01666666,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_136_R4,SS06_136,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_137_R1,SS06_137,SS06,Max Photosynthetic Yield,0.78888889,n/a,Fv/Fm,5,corals (5 measures each),0.78888889,0.82222222,0,0.03333333,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_137_R4,SS06_137,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_138_R1,SS06_138,SS06,Max Photosynthetic Yield,0.72222222,n/a,Fv/Fm,5,corals (5 measures each),0.69444444,0.75277778,0.02777778,0.03055556,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_138_R4,SS06_138,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_139_R1,SS06_139,SS06,Max Photosynthetic Yield,0.72222222,n/a,Fv/Fm,5,corals (5 measures each),0.72222222,0.75,0,0.02777778,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_139_R4,SS06_139,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_140_R1,SS06_140,SS06,Max Photosynthetic Yield,0.77222222,n/a,Fv/Fm,5,corals (5 measures each),0.75277778,0.78333333,0.01944444,0.01111111,s.e.,49,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_140_R4,SS06_140,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,49,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_141_R1,SS06_141,SS06,Max Photosynthetic Yield,0.75555556,n/a,Fv/Fm,5,corals (5 measures each),0.72777778,0.78333333,0.02777778,0.02777777,s.e.,56,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_141_R4,SS06_141,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_142_R1,SS06_142,SS06,Max Photosynthetic Yield,0.79166667,n/a,Fv/Fm,5,corals (5 measures each),0.79444444,0.84166667,-0.00277777,0.05,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_142_R2,SS06_142,SS06,Net Photosynthesis,1.085,umol O2 cm-2 hr-1,mean,5,fragments,0.766,1.404,0.319,0.319,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_142_R3,SS06_142,SS06,respiration,-1.375,umol O2 cm-2 hr-1,mean,5,fragments,-1.5625,-1.234375,0.1875,0.140625,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_142_R4,SS06_142,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_142_R5,SS06_142,SS06,P/R ratio,0.2109090909,unitless,mean,5,fragments,0.50976,-0.1374177215,0.3483268124,0.3483268124,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_143_R1,SS06_143,SS06,Max Photosynthetic Yield,0.75,n/a,Fv/Fm,5,corals (5 measures each),0.73888889,0.76388889,0.01111111,0.01388889,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_143_R2,SS06_143,SS06,Net Photosynthesis,0.979,umol O2 cm-2 hr-1,mean,5,fragments,0.798,1.16,0.181,0.181,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_143_R3,SS06_143,SS06,respiration,-2.296875,umol O2 cm-2 hr-1,mean,5,fragments,-2.625,-1.96875,0.328125,0.328125,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_143_R4,SS06_143,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_143_R5,SS06_143,SS06,P/R ratio,0.5737687075,unitless,mean,5,fragments,0.696,0.4107936508,0.1629750567,0.1629750567,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_144_R1,SS06_144,SS06,Max Photosynthetic Yield,0.7,n/a,Fv/Fm,5,corals (5 measures each),0.7,0.73611111,0,0.03611111,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_144_R2,SS06_144,SS06,Net Photosynthesis,-1.138,umol O2 cm-2 hr-1,mean,5,fragments,-1.233,-1.043,0.095,0.095,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_144_R3,SS06_144,SS06,respiration,-2.3125,umol O2 cm-2 hr-1,mean,5,fragments,-2.65625,-2.03125,0.34375,0.28125,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_144_R4,SS06_144,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_144_R5,SS06_144,SS06,P/R ratio,1.492108108,unitless,mean,5,fragments,1.464188235,1.513476923,0.02136881497,0.02136881497,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_145_R1,SS06_145,SS06,Max Photosynthetic Yield,0.775,n/a,Fv/Fm,5,corals (5 measures each),0.725,0.825,0.05,0.05,s.e.,56,days,n/a,n/a,figure 3
+,Net Photosynthesis,,,SS06_145_R2,SS06_145,SS06,Net Photosynthesis,-1.096,umol O2 cm-2 hr-1,mean,5,fragments,-1.288,-0.904,0.192,0.192,s.e.,56,days,n/a,n/a,Fig. 2
+,respiration,,,SS06_145_R3,SS06_145,SS06,respiration,-2.359375,umol O2 cm-2 hr-1,mean,5,fragments,-2.75,-2.03125,0.390625,0.328125,s.e.,56,days,n/a,n/a,Fig. 2
+,Partial mortality,,,SS06_145_R4,SS06_145,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,56,days,n/a,n/a,Figure 4
+,P/R ratio,,,SS06_145_R5,SS06_145,SS06,P/R ratio,1.464529801,unitless,mean,5,fragments,1.468363636,1.445046154,0.01948364748,0.01948364748,s.e.,56,days,n/a,n/a,calculated as (net P + R)/R
+,Max Photosynthetic Yield,,,SS06_146_R1,SS06_146,SS06,Max Photosynthetic Yield,0.76944444,n/a,Fv/Fm,5,corals (5 measures each),0.75277778,0.78888889,0.01666666,0.01944445,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_146_R4,SS06_146,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_147_R1,SS06_147,SS06,Max Photosynthetic Yield,0.79166667,n/a,Fv/Fm,5,corals (5 measures each),0.79444444,0.84166667,-0.00277777,0.05,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_147_R4,SS06_147,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_148_R1,SS06_148,SS06,Max Photosynthetic Yield,0.75,n/a,Fv/Fm,5,corals (5 measures each),0.71666667,0.78055556,0.03333333,0.03055556,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_148_R4,SS06_148,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_149_R1,SS06_149,SS06,Max Photosynthetic Yield,0.69722222,n/a,Fv/Fm,5,corals (5 measures each),0.7,0.76111111,-0.00277778,0.06388889,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_149_R4,SS06_149,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+,Max Photosynthetic Yield,,,SS06_150_R1,SS06_150,SS06,Max Photosynthetic Yield,0.775,n/a,Fv/Fm,5,corals (5 measures each),0.76111111,0.79166667,0.01388889,0.01666667,s.e.,77,days,n/a,n/a,figure 3
+,Partial mortality,,,SS06_150_R4,SS06_150,SS06,Partial mortality,0,%,mean,5,fragments,n/a,n/a,0,0,s.e.,77,days,n/a,n/a,Figure 4
+0.6923076923076923,Partial mortality,mortality,SS15_002,SS15_01_R3,SS15_01,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_002,SS15_01_R4,SS15_01,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_004,SS15_02_R3,SS15_02,SS15,Partial mortality,14,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_004,SS15_02_R4,SS15_02,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_006,SS15_03_R3,SS15_03,SS15,Partial mortality,5,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_006,SS15_03_R4,SS15_03,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_008,SS15_04_R3,SS15_04,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_008,SS15_04_R4,SS15_04,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_010,SS15_05_R3,SS15_05,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_010,SS15_05_R4,SS15_05,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_001,SS15_06_R3,SS15_06,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_001,SS15_06_R4,SS15_06,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_003,SS15_07_R3,SS15_07,SS15,Partial mortality,40,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_003,SS15_07_R4,SS15_07,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_005,SS15_08_R3,SS15_08,SS15,Partial mortality,10,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_005,SS15_08_R4,SS15_08,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_007,SS15_09_R3,SS15_09,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_007,SS15_09_R4,SS15_09,SS15,Larval settlement,1,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_009,SS15_10_R3,SS15_10,SS15,Partial mortality,20,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_009,SS15_10_R4,SS15_10,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_012,SS15_11_R3,SS15_11,SS15,Partial mortality,45,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_012,SS15_11_R4,SS15_11,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_014,SS15_12_R3,SS15_12,SS15,Partial mortality,100,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_014,SS15_12_R4,SS15_12,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_016,SS15_13_R3,SS15_13,SS15,Partial mortality,10,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_016,SS15_13_R4,SS15_13,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_018,SS15_14_R3,SS15_14,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_018,SS15_14_R4,SS15_14,SS15,Larval settlement,1,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_020,SS15_15_R3,SS15_15,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_020,SS15_15_R4,SS15_15,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_011,SS15_16_R3,SS15_16,SS15,Partial mortality,10,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_011,SS15_16_R4,SS15_16,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_013,SS15_17_R3,SS15_17,SS15,Partial mortality,40,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_013,SS15_17_R4,SS15_17,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_015,SS15_18_R3,SS15_18,SS15,Partial mortality,0,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_015,SS15_18_R4,SS15_18,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_017,SS15_19_R3,SS15_19,SS15,Partial mortality,10,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_017,SS15_19_R4,SS15_19,SS15,Larval settlement,1,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2
+0.6923076923076923,Partial mortality,mortality,SS15_019,SS15_20_R3,SS15_20,SS15,Partial mortality,5,percent,mean,20,colonies,n/r,n/r,n/r,n/r,n/r,10,months,n/r,n/r,Figure 5
+0.3076923076923077,Larval settlement,mortality,SS15_019,SS15_20_R4,SS15_20,SS15,Larval settlement,0,settlements,absolute,2,tiles,n/a,n/a,n/a,n/a,n/a,10,months,n/r,n/r,Table 2

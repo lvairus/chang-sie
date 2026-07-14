@@ -1,0 +1,22 @@
+best_score,truth_response_type,pred_response_type,best_match,response_id,setup_id,RefID,Response type,Response level,Unit of measurement,Average type,N for computing average,N UoM,"Lower error bound, if taken from Figure","Upper error bound, if taken from Figure",Lower error estimate,Upper error estimate,Error type,"Time to response, numeric","Time to response, UoM","Duration of response, numeric","Duration of response, UoM",Source of data
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_001,SS05_04_R2,SS05_04,SS05,Photosynthetic efficiency,0.56,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_004,SS05_05_R2,SS05_05,SS05,Photosynthetic efficiency,0.52,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_002,SS05_07_R2,SS05_07,SS05,Photosynthetic efficiency,0.55,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_005,SS05_08_R2,SS05_08,SS05,Photosynthetic efficiency,0.56,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_003,SS05_10_R2,SS05_10,SS05,Photosynthetic efficiency,0.57,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_006,SS05_11_R2,SS05_11,SS05,Photosynthetic efficiency,0.61,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_007,SS05_06_R2,SS05_06,SS05,Photosynthetic efficiency,0.6,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_008,SS05_09_R2,SS05_09,SS05,Photosynthetic efficiency,0.58,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+0.5581395348837209,Photosynthetic efficiency,Net photosynthesis,SS05_009,SS05_12_R2,SS05_12,SS05,Photosynthetic efficiency,0.65,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+,P/R ratio,,,SS05_01_R1,SS05_01,SS05,P/R ratio,1.25,unitless,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Photosynthetic efficiency,,,SS05_01_R2,SS05_01,SS05,Photosynthetic efficiency,0.57,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Respiration,,,SS05_01_R3,SS05_01,SS05,Respiration,-1.15,Oxygen consumption/ production rate (mg O2 l−1),mean,72,fragments,n/r,n/r,0.13,0.13,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Net photosynthesis,,,SS05_01_R4,SS05_01,SS05,Net photosynthesis,0.31,Net photosynthetic (NP) rates were measured at ~150 µmol photons m−2 s−1,mean,72,fragments,n/r,n/r,0.07,0.07,s.e.,n/r,n/r,n/r,n/r,Table 1
+,P/R ratio,,,SS05_02_R1,SS05_02,SS05,P/R ratio,1.25,unitless,mean,72,fragments,n/r,n/r,0.11,0.11,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Photosynthetic efficiency,,,SS05_02_R2,SS05_02,SS05,Photosynthetic efficiency,0.53,Fv/Fm,mean,72,fragments,n/r,n/r,0.01,0.01,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Respiration,,,SS05_02_R3,SS05_02,SS05,Respiration,-0.72,Oxygen consumption/ production rate (mg O2 l−1),mean,72,fragments,n/r,n/r,0.07,0.07,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Net photosynthesis,,,SS05_02_R4,SS05_02,SS05,Net photosynthesis,0.25,Net photosynthetic (NP) rates were measured at ~150 µmol photons m−2 s−1,mean,72,fragments,n/r,n/r,0.04,0.04,s.e.,n/r,n/r,n/r,n/r,Table 1
+,P/R ratio,,,SS05_03_R1,SS05_03,SS05,P/R ratio,1.52,unitless,mean,72,fragments,n/r,n/r,0.14,0.14,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Photosynthetic efficiency,,,SS05_03_R2,SS05_03,SS05,Photosynthetic efficiency,0.59,Fv/Fm,mean,72,fragments,n/r,n/r,0.02,0.02,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Respiration,,,SS05_03_R3,SS05_03,SS05,Respiration,-1.44,Oxygen consumption/ production rate (mg O2 l−1),mean,72,fragments,n/r,n/r,0.21,0.21,s.e.,n/r,n/r,n/r,n/r,Table 1
+,Net photosynthesis,,,SS05_03_R4,SS05_03,SS05,Net photosynthesis,0.41,Net photosynthetic (NP) rates were measured at ~150 µmol photons m−2 s−1,mean,72,fragments,n/r,n/r,0.07,0.07,s.e.,n/r,n/r,n/r,n/r,Table 1

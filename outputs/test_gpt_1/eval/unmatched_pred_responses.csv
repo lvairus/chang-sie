@@ -1,0 +1,10 @@
+response_id,setup_id,RefID,Response type,Response level,Unit of measurement,N for computing average,N UoM,Source of data
+SS05_001_R04,SS05_001,SS05,Maximum quantum yield,0.56,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 2 Low sediment; heading 'Yield' corresponds to maximum quantum yield (Fv/Fm). Evidence: ""Yield 0.56 (0.02)"""
+SS05_004_R04,SS05_004,SS05,Maximum quantum yield,0.52,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 2 Low sediment. Evidence: ""Yield 0.52 (0.01)"""
+SS05_002_R04,SS05_002,SS05,Maximum quantum yield,0.55,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 3 Medium sediment. Evidence: ""Yield 0.55 (0.01)"""
+SS05_005_R04,SS05_005,SS05,Maximum quantum yield,0.56,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 3 Medium sediment. Evidence: ""Yield 0.56 (0.01)"""
+SS05_003_R04,SS05_003,SS05,Maximum quantum yield,0.57,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 4 High sediment. Evidence: ""Yield 0.57 (0.01)"""
+SS05_006_R04,SS05_006,SS05,Maximum quantum yield,0.61,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 4 High sediment. Evidence: ""Yield 0.61 (0.02)"""
+SS05_007_R04,SS05_007,SS05,Maximum quantum yield,0.6,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 2 Low sediment. Evidence: ""Yield 0.6 (0.01)"""
+SS05_008_R04,SS05_008,SS05,Maximum quantum yield,0.58,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 3 Medium sediment. Evidence: ""Yield 0.58 (0.01)"""
+SS05_009_R04,SS05_009,SS05,Maximum quantum yield,0.65,dimensionless (Fv/Fm; yield),24,fragments,"Table 1 (picture text), Treatment 4 High sediment. Evidence: ""Yield 0.65 (0.01)"""

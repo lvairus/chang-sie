@@ -1,0 +1,30 @@
+variable,accuracy,fuzzy_score,numcat,oginf,speco
+Study location,0.0,0.0,desc,og,Study
+Study site,0.0,0.6451612903225806,cat,inf,Study
+Study type,1.0,1.0,,,
+Event latitude,0.0,0.0,num,inf,Study
+Event longitude,0.0,0.0,num,inf,Study
+Coral age class,0.0,0.0,cat,inf,Population
+Current genus name,0.6666666666666666,0.9803921568627452,cat,og,Population
+Current species name,0.6666666666666666,0.9777777777777779,cat,og,Population
+Colony form,0.0,0.13333333333333333,cat,inf,Population
+Sediment composition,0.0,0.5135135135135135,desc,summ,Exposure
+Sediment level,1.0,1.0,num,og,Exposure
+Sediment level UoM,0.0,0.09090909090909093,cat,og,Exposure
+Sediment level converted to mg/cm2/day,1.0,1.0,num,calc,Exposure
+Sediment N for computing average,0.0,0.0,num,og,Exposure
+Sediment N UoM,0.0,0.25,desc,summ,Exposure
+Sediment upper error estimate,0.0,0.0,num,og,Exposure
+Sediment level error type,0.0,0.12121212121212123,cat,og,Exposure
+Sediment notes,0.0,0.0,desc,summ,Exposure
+Increased mucus?,0.0,0.0,bin,inf,Binary Responses
+Mortality reported?,1.0,1.0,bin,inf,Data Reported?
+Response type,1.0,1.0,cat,inf,Outcome
+Response level,1.0,1.0,num,inf,Outcome
+Unit of measurement,0.0,0.3418710918710919,cat,og,Outcome
+N for computing average,0.0,0.0,num,og,Outcome
+N UoM,1.0,1.0,desc,summ,Outcome
+Source of data,0.0,0.14010914938332586,desc,summ,Outcome
+num_species,1.0,1.0,num,inf,arity
+num_setups,1.0,1.0,num,inf,arity
+num_responses,1.0,1.0,num,inf,arity
