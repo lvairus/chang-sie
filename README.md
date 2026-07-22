@@ -60,3 +60,37 @@ Results:
 - `responses.csv`: response-level extracted data
 - `eval`: folder with evaluation and row-matching results
     - `plots`: folder with plotted graphs to visualize performance
+
+### Stray thoughts about paper/approach
+
+Char's analysis of two meta-analytic datasets/domains (fish + hydropower or wetland restoration and groundwater levels) showed these problems:
+
+* Even in a "clean" meta-analysis spreadsheet, we can't do a simple 1:1 mapping of the spreadsheet to a gold standard eval JSON.
+* The reason is that often outcomes of interest (e.g. groundwater level or fish biomass) are indirectly calculated from the paper (e.g. authors infer or copy individual values and average them or calculate a regression), and the intermediate trace objects (the original reported metrics) are not stored anywhere even if the source is mentioned.
+* Hypothetically, we could try to build those intermediate trace objects into a gold-standard JSON object for eval. But in some cases, this seems to be a very hard problem where you would need deep domain expertise or the original meta-analysis authors. This was especially true for the groundwater dataset. Upon reviewing 5 of the input studies, I could not understand nor reproduce their GWL difference level measurement. For the fish hydro meta-analysis, in some cases, the authors only used a subset of values in a table to estimate means, etc., and it also wasn't obvious why they did that.
+* But, we can at least build a more shallow gold standard dataset from their meta-analyses:
+```
+paper
+ ├── study[1..S]
+ │    ├── site[1..L]
+ │    ├── population[1..P]
+ │    ├── intervention[1..I]
+ │    ├── comparator[1..C]
+ │    └── outcome[1..O] ### This may often not be possible to rebuild, but we could get outcome metadata
+ │          ├── timepoint[1..T]
+ │          ├── reported_statistics
+ │          ├── evidence
+ │          └── derived_statistics
+ ```
+
+ #### Process for adding a new meta-analysis
+
+ 1. Read the meta-analysis and identify its core question (e.g. "what is the impact of hydropower dams on fish abundance") and read the methods and results carefully.
+ 2. From the methods and results, ensure you have an understanding of what the authors sought to extract.
+ 3. Look at the extraction Excel file(s) and focal sheet(s) within those Excel file(s).
+ 4. Select a handful (2-5) of studies within the extraction file based on: completeness, which should include enumerating the source for outcome or other measures, and diversity (e.g. older vs younger papers, geography).
+ 5. For each study, walk across the columns for those row(s) and see if you can reproduce the measurements. If you can, great! Those are candidate columns for a benchmark eval. If you cannot, note down the failure mode. Is the failure mode due to (select all that apply):
+    + inadequate data in paper --> meta-analysis authors contacted original study authors for unpublished data, etc.
+    + complex and indecipherable decision --> as an educated layperson, are you unable to reproduce the outcome/measurement because it requires deep domain knowledge and/or some arbitrary data extraction procedure that is not written down somewhere in the main text method or SI docs?
+    + lack of persisting intermediate data --> authors calculated averages or regression slopes from data that they hand extracted from individual or multiple figure(s) and table(s) and did not note the original values anywhere.
+6. Based on this assessment, come up with your schema for the meta-analysis domain.
