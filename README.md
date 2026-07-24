@@ -94,3 +94,122 @@ paper
     + complex and indecipherable decision --> as an educated layperson, are you unable to reproduce the outcome/measurement because it requires deep domain knowledge and/or some arbitrary data extraction procedure that is not written down somewhere in the main text method or SI docs?
     + lack of persisting intermediate data --> authors calculated averages or regression slopes from data that they hand extracted from individual or multiple figure(s) and table(s) and did not note the original values anywhere.
 6. Based on this assessment, come up with your schema for the meta-analysis domain.
+
+#### Ideas for manuscript
+
+"A multi-domain benchmark and controlled study of document-level structured scientific information extraction under schema, evidence, and compositional complexity."
+
+Across meta-analyses in environmental science, we can expect that there are these shared challenges for SIE:
+
+* Identifying how many distinct studies or experiments occur in a paper.
+* Resolving sites, treatments, comparators, outcomes, and time periods.
+* Binding each numerical value to the correct experimental entity.
+* Recovering relations whose arguments occur in different sections.
+* Distinguishing reported values from inferred or calculated values.
+* Determining whether absent information is truly absent.
+* Producing a valid nested output with the correct cardinality.
+
+The underlying problem is thus a four-step process of: 1) document understanding --> 2) inducing records --> 3) binding values (e.g. study, population experiment/intervention, comparator/control outcome), 4) data normalization or derivations or inferred values. Therefore we need to differentiate failures due to:
+
+1. Model didn't find evidence
+2. Didn't recognize relevant value(s)
+3. Found the values but didn't resolve it to an entity or coreference
+4. Bound the value to the wrong experiment/control etc. object
+5. Constructed the wrong number of objects
+6. Applied an incorrect normalization or calculation
+7. Produced invalid syntax
+
+This may be overkill, but in constructing addtional meta-analytic domains, we may want to note things like:
+
+* number of tokens/pages/sections (more trivial, automate-able, albeit requiring checking)
+* supplement/appendix required: hopefully this is annotated by the original GT, but if not, this is something that we'd need to add
+* relevant-evidence proportion/token count (this is much harder and requires much more detailed annotation, cannot be automated I am guessing)
+* distance between related evidence spans (this is kind of a pain and would need to be done at the level of individual atomic units)
+* maximum span distance needed to complete 1 meta-analytic record/atomic unit (again, requires diff/additional human annotation)
+
+From the extraction schema, we should also be able to compute:
+
+* Number of scalar fields
+* Number of object types
+* Number of optional versus required fields
+* Number of enum categories
+* Max JSON depth
+* Number of list-valued nodes
+* Number of parent-child relationships
+* Depth/mean of evaluated leaves
+
+To that end, we can distinguish different dimensions of "arity"
+
+* Entity arity - number of entities in a record (list?)
+* Instance cardinality - number of records in a study
+* Cross-product potential - poss combo of SPECO
+* Dependency count - number of upstream parent / sibling fields required to interpret a focal field correctly
+* Shared-entity structure - controls or features repeated across multiple records
+
+## enviSIEn roadmap
+
+Environmental meta-analyses contain structured datasets assembled from scientific papers. These datasets are attractive benchmarks for scientific information extraction, or SIE, because they include study characteristics, populations, exposures, comparators, outcomes, and quantitative results.
+
+However, a published meta-analysis spreadsheet is not automatically valid ground truth for a language-model benchmark. Its cells may contain several different kinds of information:
+
+* Values copied directly from papers
+* Values normalized into a review-specific vocabulary
+* Study-design classifications inferred by reviewers
+* Quantities calculated by the review team
+* Information obtained from maps, databases, or authors
+* Expert judgments about replication, eligibility, or risk of bias
+* Narrative summaries that cannot be reproduced mechanically
+
+This project will build a multi-domain, document-grounded SIE benchmark from several environmental meta-analyses. We have scraped CEEDER to provide a more systematic foundation of studies to source these data. For each domain, approximately 20 papers will be selected to represent low, medium, and high structural complexity. The original review spreadsheet will supply candidate records and fields. Undergraduate annotators will verify which values are actually supported by the model-visible paper. To support more robust results, one domain will be fully held out during prompt/protocol development, or created by external collaborators.
+
+Complexity stratum | Papers |  Operational definition
+| ---- | ---- | -----------------------------|
+Low | 6 | One or two study records; few treatments and outcomes
+Medium | 7 | Three to five records or moderate repeated structure
+High | 7 | Six or more records, shared controls, many sites or outcomes, or complex repeated structure
+
+The benchmark will evaluate whether models can:
+
+* Find relevant evidence.
+* Determine how many study records are present.
+* Extract document-supported values.
+* Bind each value to the correct study object.
+* Cite supporting evidence.
+* Abstain when information is absent, ambiguous, or unusable.
+
+Out of scope: 
+
+* Recalculate effect sizes
+* Resolve pseudoreplication
+* Select among competing analyses
+* Judge ecological validity
+* Conduct risk-of-bias assessments
+* Digitize numerical values from plots (though???)
+* Use unpublished author correspondence
+* Recover information from outside databases
+* Reproduce undocumented expert decisions
+
+The primary contribution should be a mechanistic account of SIE failure, not merely a model leaderboard.
+
+We will distinguish at least five bottlenecks:
+
+1. Evidence localization: Did the model find the relevant passage, table, caption, or supplement?
+2. Record induction: Did the model determine how many studies, sites, treatments, outcomes, or timepoints were present?
+3. Value recognition: Did the model identify the correct text or number?
+4. Value binding: Did the model attach the value to the correct field and experimental record?
+5. Abstention: Did the model avoid inventing values when the paper did not report sufficient information?
+
+```
+A[Full scientific paper] --> B[Locate relevant evidence] 
+B --> C[Infer record structure] 
+C --> D[Extract values] 
+D --> E[Bind values to records] 
+E --> F[Normalize or abstain] 
+F --> G[Structured evidence-linked output]
+
+B -. localization failure .-> X1[Missed or irrelevant evidence] 
+C -. structure failure .-> X2[Wrong number of records] 
+D -. recognition failure .-> X3[Wrong value] 
+E -. binding failure .-> X4[Right value, wrong record] 
+F -. grounding failure .-> X5[Unsupported value or excess null]
+```
